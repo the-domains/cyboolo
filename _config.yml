@@ -1,0 +1,40 @@
+typography_spectrum: 0.3225806
+color:
+  saturation: 1
+  brandStrength: 0.9038143033807231
+  lightness: 0.1308244
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  rhythmicContrast: 1
+github: true
+layout_spectrum: 1
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0644256-c138-4d82-bfca-0e473169809b.png
+name: Community
+navigation:
+  - name: Contact
+    url: 'http://www.cyboolo.com'
+    type: external
+  - name: twitter
+    url: 'https://twitter.com/cyboolo'
+    type: external
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Partageons un univers de connaissances
+content: []
+description: cyboolo annule la distance entre votre cerveau et le savoir
+purpose: []
