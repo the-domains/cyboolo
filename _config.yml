@@ -1,17 +1,17 @@
-typography_spectrum: 0.3225806
+layout_spectrum: 0.47489818442861853
+typography_spectrum: 0.6586213149715879
 color:
-  saturation: 1
-  brandStrength: 0.9038143033807231
-  lightness: 0.1308244
+  saturation: 0.5428667662311162
+  brandStrength: 0.6711070750948817
+  lightness: 0.968689316176339
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  rhythmicContrast: 1
+    - '#5A0F39'
+    - '#E73E62'
+    - '#FF0000'
+    - '#EC7C96'
+    - '#FF00FF'
+  rhythmicContrast: 0.4791281726974809
 github: true
-layout_spectrum: 1
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0644256-c138-4d82-bfca-0e473169809b.png
 name: Community
@@ -53,7 +53,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
