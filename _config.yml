@@ -14,7 +14,7 @@ color:
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0644256-c138-4d82-bfca-0e473169809b.png
-name: Community
+name: Cours en ligne
 navigation:
   - name: Contact
     url: 'http://www.cyboolo.com'
@@ -61,4 +61,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: En mode ZEN
-purpose: []
+purpose:
+  - type: internal
+    label: Accédez à cyboolo
+    item: 252b3c29-e776-4a1d-b993-55b3afba5433
