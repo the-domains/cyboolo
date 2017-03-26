@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Créez votre site et vos cours à l’aide d’une interface aussi simple qu’un
   éditeur de texte.
-dateModified: '2017-03-26T16:08:35.344Z'
-datePublished: '2017-03-26T16:08:35.613Z'
+dateModified: '2017-03-26T16:18:34.319Z'
+datePublished: '2017-03-26T16:18:34.513Z'
 title: ''
 author: []
 publisher: {}
