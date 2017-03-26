@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Pour les enseignants, les freelances, les formateurs… Tout le monde a des
-  connaissances et des passions à partager
-dateModified: '2017-03-26T17:01:21.076Z'
-datePublished: '2017-03-26T17:01:21.216Z'
+description: 'Pour les enseignants, les freelances, les formateurs…'
+dateModified: '2017-03-26T19:39:49.490Z'
+datePublished: '2017-03-26T19:39:50.310Z'
 title: ''
 author: []
 publisher: {}
@@ -15,4 +13,4 @@ datePublishedOriginal: '2017-03-26T16:57:41.920Z'
 _type: Blurb
 
 ---
-> Pour les enseignants, les freelances, les formateurs... Tout le monde a des connaissances et des passions à partager
+> Pour les enseignants, les freelances, les formateurs...
