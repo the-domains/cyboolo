@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Créez votre site et vos cours à l’aide d’une interface aussi simple qu’un
   éditeur de texte.
-dateModified: '2017-03-26T15:21:14.411Z'
-datePublished: '2017-03-26T15:21:15.109Z'
+dateModified: '2017-03-26T15:21:39.586Z'
+datePublished: '2017-03-26T15:21:39.701Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-03-26T15:21:15.109Z'
 sourcePath: >-
   _posts/2017-03-26-creez-votre-site-et-vos-cours-a-laide-dune-interface-aussi.md
+starred: false
+datePublishedOriginal: '2017-03-26T15:21:15.109Z'
 _type: Blurb
 
 ---
