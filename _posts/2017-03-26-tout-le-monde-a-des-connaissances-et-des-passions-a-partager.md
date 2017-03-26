@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: Tout le monde a des connaissances et des passions à partager !
-dateModified: '2017-03-26T19:40:51.712Z'
-datePublished: '2017-03-26T19:40:51.837Z'
+description: ''
+dateModified: '2017-03-26T19:49:21.902Z'
+datePublished: '2017-03-26T19:49:22.645Z'
 title: ''
 author: []
 publisher: {}
@@ -14,4 +14,3 @@ datePublishedOriginal: '2017-03-26T19:40:18.876Z'
 _type: Blurb
 
 ---
-> Tout le monde a des connaissances et des passions à partager !
