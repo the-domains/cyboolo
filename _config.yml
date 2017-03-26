@@ -34,7 +34,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: COURS EN LIGNE
+title: 'Créez, publiez & monétisez'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -53,7 +53,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
