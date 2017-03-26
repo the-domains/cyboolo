@@ -62,6 +62,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: En mode ZEN
 purpose:
-  - type: internal
-    label: Accédez à cyboolo
-    item: 252b3c29-e776-4a1d-b993-55b3afba5433
+  - type: external
+    label: Accès à cyboolo
+    url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
