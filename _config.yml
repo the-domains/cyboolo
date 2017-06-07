@@ -1,64 +1,103 @@
-layout_spectrum: 0.13099650352483266
-typography_spectrum: 0.416132906323557
+typography_spectrum: 0.330831770772889
+content_rating:
+  adult: false
 color:
-  saturation: 0.050439463109515685
-  brandStrength: 0.30544187190509076
-  lightness: 0.8113662479877805
+  lightness: 0.16288508968695187
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
-  rhythmicContrast: 0.08443805800289801
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  saturation: 0.6517623496149657
+  brandStrength: 0.568357972923279
+  rhythmicContrast: 0.45733774231682245
 github: true
+opengraph: {}
+layout_spectrum: 0.8852098516642236
+analytics: {}
+author:
+  name: cyboolo - Tous droits réservés
+  url: 'https://twitter.com/cyboolo'
+  email: support@cyboolo.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0644256-c138-4d82-bfca-0e473169809b.png
-name: 'Créez, publiez & monétisez'
-navigation:
-  - name: twitter
-    url: 'https://twitter.com/cyboolo'
-    type: external
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d313aa02-ccbf-45a9-b839-d0cf8b14bba8.png
+name: cyboolo
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ef3b96-5512-42c5-8888-56edb175b45e.ico
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: COURS EN LIGNE
+    permalink:
+      path: '/:title/'
+title: Démarrez un cours de... *
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
+    type: video
     html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb2025df-43d8-4395-818d-9d3fe9b2c0b9.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb2025df-43d8-4395-818d-9d3fe9b2c0b9.png
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F220212051&url=https%3A%2F%2Fvimeo.com%2F220212051%2Fc1b2d481e4&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F638159361_1280x721.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=vimeo"
+      width="852" height="480" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
       datePublished: null
+      isBasedOnUrl: 'https://vimeo.com/220212051/c1b2d481e4'
+      keywords: []
+      related: []
+      author:
+        - avatar: {}
+      '@context': 'http://schema.org'
+      title: cyboolo
+      '@type': VideoObject
+      app_links:
+        - app_name: Vimeo
+          namespace: ai
+          app_store_id: '425194759'
+          url: 'vimeo://app.vimeo.com/videos/220212051'
+          type: ios
+        - package: com.vimeo.android.videoapp
+          app_name: Vimeo
+          namespace: ai
+          should_fallback: 'true'
+          url: 'vimeo://app.vimeo.com/videos/220212051'
+          type: web
+        - id: '425194759'
+          namespace: twitter
+          url: 'vimeo://app.vimeo.com/videos/220212051'
+          type: ipad
+          name: Vimeo
+        - id: '425194759'
+          namespace: twitter
+          url: 'vimeo://app.vimeo.com/videos/220212051'
+          type: iphone
+          name: Vimeo
+        - id: com.vimeo.android.videoapp
+          namespace: twitter
+          url: 'vimeo://app.vimeo.com/videos/220212051'
+          type: googleplay
+          name: Vimeo
+      publisher:
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        domain: vimeo.com
+      description: A vous de jouer
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Créez, publiez & monétisez'
+coverPrefs:
+  filter: false
+description: 'Créez, publiez & monétisez vos cours en ligne'
 purpose:
   - type: external
-    label: Accès à cyboolo
+    label: '*A VOUS DE JOUER'
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
+url: 'https://cyboolo.io'
