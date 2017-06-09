@@ -52,8 +52,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=1INoRUx0144'
 title: Ventes traitées par système de paiement sécurisé
-datePublished: '2017-06-09T15:13:48.828Z'
-dateModified: '2017-06-09T15:13:47.015Z'
+datePublished: '2017-06-09T15:29:00.917Z'
+dateModified: '2017-06-09T15:29:00.524Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-04-stripe-connect.md
