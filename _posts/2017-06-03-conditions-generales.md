@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
-dateModified: '2017-06-09T15:52:11.048Z'
-datePublished: '2017-06-09T15:52:12.686Z'
+dateModified: '2017-06-09T15:57:27.817Z'
+datePublished: '2017-06-09T15:57:29.888Z'
 title: Conditions Générales
 author: []
 publisher: {}
