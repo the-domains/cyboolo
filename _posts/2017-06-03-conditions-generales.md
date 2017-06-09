@@ -1,9 +1,13 @@
 ---
 inFeed: false
-description: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
-dateModified: '2017-06-09T15:57:27.817Z'
-datePublished: '2017-06-09T15:57:29.888Z'
-title: Conditions Générales
+description: >-
+  Les présentes Conditions Générales (ci-après les « CG ») sont proposées par
+  Olivier TRUC, Auto entrepreneur en cours d'immatriculation dont le siège
+  social est sis au 15 bis rue de l'église, 31330 ONDES (ci-après « Olivier TRUC
+  »).
+dateModified: '2017-06-09T16:15:02.143Z'
+datePublished: '2017-06-09T16:15:03.501Z'
+title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
 via: {}
@@ -15,9 +19,13 @@ url: conditions-generales/index.html
 _type: Blurb
 
 ---
-## Conditions Générales
+# **VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.**
 
-**VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.**
+---
+
+## CONDITIONS GENERALES
+
+---
 
 ### Article 1 - Définitions
 
