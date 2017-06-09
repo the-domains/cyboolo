@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Concevoir, rédiger et publier des cours !'
-dateModified: '2017-06-09T15:29:00.524Z'
-datePublished: '2017-06-09T15:29:00.906Z'
+dateModified: '2017-06-09T15:52:11.048Z'
+datePublished: '2017-06-09T15:52:12.697Z'
 title: Concentrez-vous sur votre priorité
 author: []
 publisher: {}
