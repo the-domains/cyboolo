@@ -23,6 +23,11 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d313aa02-ccbf-45a9-b839-d0cf8b14bba8.png
 name: cyboolo
+url: 'https://cyboolo.io/'
+navigation:
+  - name: Mentions légales
+    id: 14ebdcc2-637e-4912-a86b-c27ee07327c6
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
 collections:
@@ -100,4 +105,3 @@ purpose:
   - type: external
     label: '*A VOUS DE JOUER'
     url: 'https://google.fr'
-url: 'https://cyboolo.io/'
