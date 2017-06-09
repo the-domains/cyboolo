@@ -1,9 +1,9 @@
 ---
 inFeed: false
-description: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
-dateModified: '2017-06-09T15:58:03.794Z'
-datePublished: '2017-06-09T15:58:04.583Z'
-title: Charte de protection des données personnelles
+description: 'On désignera par la suite :'
+dateModified: '2017-06-09T16:14:18.253Z'
+datePublished: '2017-06-09T16:14:19.144Z'
+title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
 via: {}
@@ -15,9 +15,13 @@ url: charte-de-protection-des-donnees-personnelles/index.html
 _type: Blurb
 
 ---
-## Charte de protection des données personnelles
+# **VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.**
 
-**VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.**
+---
+
+## CHARTE DE PROTECTION DES DONNEES PERSONNELLES
+
+---
 
 ### Article 1 - Définitions des termes utilisés dans la charte
 
