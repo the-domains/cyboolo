@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-09T15:13:47.015Z'
-datePublished: '2017-06-09T15:13:48.620Z'
+dateModified: '2017-06-09T15:29:00.524Z'
+datePublished: '2017-06-09T15:29:00.915Z'
 title: cyboolo - Tous Droits Réservés
 author: []
 publisher: {}
