@@ -23,7 +23,8 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d313aa02-ccbf-45a9-b839-d0cf8b14bba8.png
 name: cyboolo
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
 collections:
   - index:
       path: /
