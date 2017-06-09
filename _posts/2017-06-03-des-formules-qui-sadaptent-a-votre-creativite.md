@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Kung Fu Panda
-dateModified: '2017-06-09T15:29:00.524Z'
-datePublished: '2017-06-09T15:29:00.790Z'
+dateModified: '2017-06-09T15:52:11.048Z'
+datePublished: '2017-06-09T15:52:12.693Z'
 title: Des formules qui s’adaptent à votre créativité
 author: []
 publisher: {}
