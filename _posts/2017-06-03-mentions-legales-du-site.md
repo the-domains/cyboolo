@@ -4,8 +4,8 @@ description: >-
   Le site https://cyboolo.io est édité par Olivier TRUC, Auto entrepreneur, en
   cours d'immatriculation, dont le siège social est sis au 15 bis rue de
   l'église, 31330 ONDES.
-dateModified: '2017-06-09T15:13:47.015Z'
-datePublished: '2017-06-09T15:13:48.826Z'
+dateModified: '2017-06-09T15:29:00.524Z'
+datePublished: '2017-06-09T15:29:00.906Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
