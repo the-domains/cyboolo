@@ -31,6 +31,9 @@ navigation:
   - name: Données personnelles
     id: 412e87d6-6b65-49fd-9e49-cbc011d3e9a8
     type: content
+  - name: Mentions légales
+    id: 479d1cfe-b235-410b-a3df-06601a117959
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
 collections:
