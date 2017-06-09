@@ -28,6 +28,9 @@ navigation:
   - name: Mentions légales
     id: 14ebdcc2-637e-4912-a86b-c27ee07327c6
     type: content
+  - name: Conditions Générales
+    id: 0e733c0c-96c7-42c6-9e86-86ec97480253
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
 collections:
