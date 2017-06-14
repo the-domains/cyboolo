@@ -33,7 +33,7 @@ content:
     metadata:
       author:
         - avatar: {}
-      '@context': 'http://schema.org'
+      datePublished: null
       keywords: []
       '@type': VideoObject
       title: cyboolo
@@ -72,7 +72,7 @@ content:
           name: Vimeo
       related: []
       description: A vous de jouer
-      datePublished: null
+      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -94,16 +94,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.330831770772889
 coverPrefs:
   filter: false
-title: Créez un cours...*
+title: "\uD83D\uDE80 un cours...*"
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d313aa02-ccbf-45a9-b839-d0cf8b14bba8.png
