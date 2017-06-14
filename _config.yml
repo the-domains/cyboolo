@@ -21,30 +21,6 @@ color:
   saturation: 0.6517623496149657
   brandStrength: 0.568357972923279
   rhythmicContrast: 0.4573377423168224
-layout_spectrum: 0.8852098516642236
-navigation:
-  - id: 0e733c0c-96c7-42c6-9e86-86ec97480253
-    name: Conditions Générales
-    type: content
-  - id: 412e87d6-6b65-49fd-9e49-cbc011d3e9a8
-    name: Données personnelles
-    type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
-content_rating:
-  adult: false
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -57,7 +33,7 @@ content:
     metadata:
       author:
         - avatar: {}
-      '@context': 'http://schema.org'
+      datePublished: null
       keywords: []
       '@type': VideoObject
       title: cyboolo
@@ -96,14 +72,38 @@ content:
           name: Vimeo
       related: []
       description: A vous de jouer
-      datePublished: null
+      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - id: 0e733c0c-96c7-42c6-9e86-86ec97480253
+    name: Conditions Générales
+    type: content
+  - id: 412e87d6-6b65-49fd-9e49-cbc011d3e9a8
+    name: Données personnelles
+    type: content
+layout_spectrum: 0.8852098516642236
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
+content_rating:
+  adult: false
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.330831770772889
 coverPrefs:
   filter: false
-title: Lancez un cours de... *
+title: Lancez un cours... *
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d313aa02-ccbf-45a9-b839-d0cf8b14bba8.png
