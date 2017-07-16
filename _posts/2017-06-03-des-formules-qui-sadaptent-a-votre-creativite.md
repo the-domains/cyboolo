@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Kung Fu Panda
-dateModified: '2017-06-09T15:52:11.048Z'
-datePublished: '2017-06-09T15:52:12.693Z'
+dateModified: '2017-07-16T17:47:06.281Z'
+datePublished: '2017-07-16T17:47:07.064Z'
 title: Des formules qui s’adaptent à votre créativité
 author: []
 publisher: {}
@@ -14,9 +14,8 @@ _type: Blurb
 
 ---
 ## **Des formules qui s'adaptent à votre créativité**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/745da412-c6bb-4745-845a-84b9541840ba.gif)
 
-### **Vous pouvez démarrer gratuitement**. Toutes nos formules vous permettent de **vendre vos cours en ligne** en quelques minutes.
+### **Vous pouvez démarrer gratuitement**. Toutes nos formules vous permettent de **vendre vos cours en ligne** en quelques minutes. Passez en premium à partir de 30 €/mois pour bénéficier de plus de fonctionnalités.
 
 > Nous ne facturons pas la toplessitude et la séductivité
 
