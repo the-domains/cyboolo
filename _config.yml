@@ -77,11 +77,11 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - id: 0e733c0c-96c7-42c6-9e86-86ec97480253
-    name: Conditions Générales
+  - name: Conditions Générales
+    id: 0e733c0c-96c7-42c6-9e86-86ec97480253
     type: content
-  - id: 412e87d6-6b65-49fd-9e49-cbc011d3e9a8
-    name: Données personnelles
+  - name: Données personnelles
+    id: 412e87d6-6b65-49fd-9e49-cbc011d3e9a8
     type: content
 layout_spectrum: 0.8852098516642236
 favicon: >-
@@ -103,7 +103,7 @@ collections:
 typography_spectrum: 0.330831770772889
 coverPrefs:
   filter: false
-title: Lancez un cours de ...*
+title: Lancez votre site e-commerce de vente de cours en ligne
 opengraph: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d313aa02-ccbf-45a9-b839-d0cf8b14bba8.png
