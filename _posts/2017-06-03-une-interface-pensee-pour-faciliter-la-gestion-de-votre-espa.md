@@ -1,9 +1,9 @@
 ---
 publisher: {}
-datePublished: '2017-08-10T20:00:42.091Z'
-dateModified: '2017-08-10T20:00:41.065Z'
+datePublished: '2017-08-10T20:06:10.753Z'
+dateModified: '2017-08-10T20:06:09.899Z'
 via: {}
-description: 'Fonctionne sur ordinateur, tablette ou mobile.'
+description: 'Fonctionne sur ordinateur, tablette ou mobile'
 title: Interface intuitive pour faciliter la gestion de votre site
 sourcePath: >-
   _posts/2017-06-03-une-interface-pensee-pour-faciliter-la-gestion-de-votre-espa.md
@@ -15,4 +15,4 @@ _type: Blurb
 
 ---
 # **Interface intuitive pour faciliter la gestion de votre site**
-![Fonctionne sur ordinateur, tablette ou mobile.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b37f36b-bd85-40f2-b213-d5560e085a72.gif)
+![Fonctionne sur ordinateur, tablette ou mobile](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545e02eb-392b-4b68-b957-b44af5dce807.gif)
