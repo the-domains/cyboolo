@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-10T20:06:10.753Z'
-dateModified: '2017-08-10T20:06:09.899Z'
+datePublished: '2017-08-10T20:12:20.837Z'
+dateModified: '2017-08-10T20:12:19.556Z'
 via: {}
 description: 'Fonctionne sur ordinateur, tablette ou mobile'
 title: Interface intuitive pour faciliter la gestion de votre site
@@ -15,4 +15,4 @@ _type: Blurb
 
 ---
 # **Interface intuitive pour faciliter la gestion de votre site**
-![Fonctionne sur ordinateur, tablette ou mobile](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545e02eb-392b-4b68-b957-b44af5dce807.gif)
+![Fonctionne sur ordinateur, tablette ou mobile](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5d56a7d-0eea-4f63-800d-5aa562e72277.gif)
