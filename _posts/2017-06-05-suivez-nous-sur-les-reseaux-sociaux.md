@@ -33,15 +33,15 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-datePublished: '2017-08-10T20:36:48.184Z'
-dateModified: '2017-08-10T20:36:46.965Z'
+datePublished: '2017-08-10T20:37:07.530Z'
+dateModified: '2017-08-10T20:37:06.588Z'
 title: Suivez cyboolo sur les réseaux sociaux
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-05-suivez-nous-sur-les-reseaux-sociaux.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-05T10:01:21.297Z'
-hasPage: true
 url: suivez-cyboolo-sur-les-reseaux-sociaux/index.html
 _type: Comment
 _context: 'http://schema.org'
