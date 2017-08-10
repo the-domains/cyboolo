@@ -26,9 +26,7 @@ author:
 related: []
 publisher: {}
 keywords: []
-description: >-
-  Solutions web innovantes, éducatives et ludiques pour toute la #famille ET
-  outils #collaboratifs pour #freelance #enseignants et #developpeurs.
+description: ''
 app_links:
   - path: >-
       twitter/user?screen_name=cyboolo&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile
@@ -36,9 +34,9 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/cyboolo'
-datePublished: '2017-08-10T20:30:08.386Z'
-dateModified: '2017-08-10T20:30:07.200Z'
-title: Suivez-nous sur les réseaux sociaux
+datePublished: '2017-08-10T20:32:11.695Z'
+dateModified: '2017-08-10T20:32:09.593Z'
+title: Suivez cyboolo sur les réseaux sociaux
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-05-suivez-nous-sur-les-reseaux-sociaux.md
@@ -48,7 +46,9 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-# **[Suivez-nous sur les réseaux sociaux][0]**
-![Solutions web innovantes, éducatives et ludiques pour toute la #famille ET outils #collaboratifs pour #freelance #enseignants et #developpeurs.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a653cf-3bf5-4240-a898-49296e4ef556.jpg)
+# **[Suivez cyboolo sur les réseaux sociaux][0]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a653cf-3bf5-4240-a898-49296e4ef556.jpg)
+
+## Solutions web innovantes, éducatives et ludiques pour toute la \#famille ET outils \#collaboratifs pour \#freelance \#enseignants et \#developpeurs.
 
 [0]: https://twitter.com/cyboolo
