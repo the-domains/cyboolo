@@ -1,8 +1,11 @@
 ---
 inFeed: true
-description: 'Concevoir, rédiger et publier des cours !'
-dateModified: '2017-08-10T17:34:24.599Z'
-datePublished: '2017-08-10T17:34:27.482Z'
+description: >-
+  cyboolo vous évite de mettre les mains dans le cambouis. Vous n’avez pas
+  besoin de savoir coder, ni de gérer une base de données ou l’hébergement. Tout
+  est compris !
+dateModified: '2017-08-10T17:40:32.687Z'
+datePublished: '2017-08-10T17:40:33.393Z'
 title: Concentrez-vous sur votre priorité
 author: []
 publisher: {}
@@ -16,4 +19,6 @@ _type: Blurb
 # **Concentrez-vous sur votre priorité**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c555ffc-1523-4055-9ac6-ff669f9819a9.jpg)
 
-Concevoir, rédiger et publier des cours !
+## Concevoir, rédiger et publier des cours !
+
+cyboolo vous évite de mettre les mains dans le cambouis. Vous n'avez pas besoin de savoir coder, ni de gérer une base de données ou l'hébergement. Tout est compris !
