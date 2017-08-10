@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-10T17:58:53.453Z'
-dateModified: '2017-08-10T17:58:51.859Z'
+datePublished: '2017-08-10T17:59:54.081Z'
+dateModified: '2017-08-10T17:59:53.607Z'
 via: {}
 description: >-
   Avec nom de domaine, hébergement, sécurité et réseau de diffusion de contenu
@@ -11,11 +11,10 @@ title: Créez un site à votre image
 sourcePath: _posts/2017-06-02-votre-propre-site-personnalisable-et-responsive.md
 inFeed: true
 author: []
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-06-02T21:37:06.575Z'
-url: creez-un-site-a-votre-image/index.html
-_type: Article
+_type: Blurb
 
 ---
 # **Créez un site à votre image**
