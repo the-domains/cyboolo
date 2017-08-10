@@ -1,9 +1,9 @@
 ---
 publisher: {}
-datePublished: '2017-08-10T17:16:39.880Z'
-dateModified: '2017-08-10T17:16:39.279Z'
+datePublished: '2017-08-10T17:22:26.435Z'
+dateModified: '2017-08-10T17:22:25.504Z'
 via: {}
-description: Marc Twain
+description: L’important est de participer avec plaisir et à son rythme.
 title: 'Pensé en priorité pour les indépendants, les passionnés, les rêveurs'
 sourcePath: >-
   _posts/2017-06-02-si-tu-veux-faire-quelque-chose-ou-tu-trouves-un-moyen-ou-tu.md
@@ -16,11 +16,11 @@ _type: Blurb
 ---
 # Pensé en priorité pour les indépendants, les passionnés, les rêveurs
 
+## **Pour assurer un complément de revenus ou développer un vrai business.**
+
+L'important est de participer avec plaisir et à son rythme.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a71b4e7-9b34-4ca7-a564-7d7f6d04a9fc.jpg)
+
 > Dans 20 ans, vous serez plus déçu par les choses que vous n'avez pas faites que par celles que vous avez faites. Alors, sortez des sentiers battus. Mettez les voiles. Explorez. Rêvez. Découvrez.
 
 _Marc Twain_
-
-### **Pour assurer un complément de revenus ou développer un vrai business.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ab0453e-03b1-4dc8-a138-2957b25e5c99.jpg)
-
-### L'important est de participer avec plaisir et à son rythme.
