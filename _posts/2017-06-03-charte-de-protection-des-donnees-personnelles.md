@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'On désignera par la suite :'
-dateModified: '2017-06-09T16:14:18.253Z'
-datePublished: '2017-06-09T16:14:19.144Z'
+dateModified: '2017-08-10T19:27:52.639Z'
+datePublished: '2017-08-10T19:27:52.861Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
