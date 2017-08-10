@@ -4,8 +4,8 @@ description: >-
   Cours de yoga, de cuisine, de maths, de création d'applis, de gym suédoise, de
   bricolage, de jardinage, d'économie, de solfège, de trading, d'oenologie, de
   FIFA, de Photoshop CC, de Javascript, de philosophie, de data science, ...
-dateModified: '2017-08-10T15:30:59.666Z'
-datePublished: '2017-08-10T15:31:01.432Z'
+dateModified: '2017-08-10T15:37:52.146Z'
+datePublished: '2017-08-10T15:37:54.102Z'
 title: A court d’idées ?
 author: []
 publisher: {}
@@ -16,6 +16,6 @@ datePublishedOriginal: '2017-06-05T08:56:03.992Z'
 _type: Blurb
 
 ---
-## **A court d'idées ?**
+# **A court d'idées ?**
 
 Cours de yoga, de cuisine, de maths, de création d'applis, de gym suédoise, de bricolage, de jardinage, d'économie, de solfège, de trading, d'oenologie, de FIFA, de Photoshop CC, de Javascript, de philosophie, de data science, ...
