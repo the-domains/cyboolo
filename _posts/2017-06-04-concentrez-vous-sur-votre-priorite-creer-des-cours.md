@@ -4,8 +4,8 @@ description: >-
   cyboolo vous évite de mettre les mains dans le cambouis. Vous n’avez pas
   besoin de savoir coder, ni de gérer une base de données ou l’hébergement. Tout
   est compris.
-dateModified: '2017-08-10T17:54:22.019Z'
-datePublished: '2017-08-10T17:54:23.247Z'
+dateModified: '2017-08-10T17:54:23.999Z'
+datePublished: '2017-08-10T17:54:24.644Z'
 title: Concentrez-vous sur votre priorité
 author: []
 publisher: {}
