@@ -33,15 +33,16 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/cyboolo'
-datePublished: '2017-08-10T20:34:20.415Z'
-dateModified: '2017-08-10T20:34:19.519Z'
+datePublished: '2017-08-10T20:36:48.184Z'
+dateModified: '2017-08-10T20:36:46.965Z'
 title: Suivez cyboolo sur les réseaux sociaux
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-05-suivez-nous-sur-les-reseaux-sociaux.md
 starred: false
 datePublishedOriginal: '2017-06-05T10:01:21.297Z'
+hasPage: true
+url: suivez-cyboolo-sur-les-reseaux-sociaux/index.html
 _type: Comment
 _context: 'http://schema.org'
 
@@ -50,5 +51,6 @@ _context: 'http://schema.org'
 ![@cyboolo](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a43791b9-4f79-4487-b409-3c1514f2763c.jpg)
 
 ## Solutions web innovantes, éducatives et ludiques pour toute la \#famille ET outils \#collaboratifs pour \#freelance \#enseignants et \#developpeurs.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3078c613-cc21-4d87-bf3c-503682d22ad5.png)
 
 [0]: https://twitter.com/cyboolo
