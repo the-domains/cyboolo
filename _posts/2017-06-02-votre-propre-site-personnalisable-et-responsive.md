@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-10T16:53:12.317Z'
-dateModified: '2017-08-10T16:53:11.224Z'
+datePublished: '2017-08-10T17:12:23.535Z'
+dateModified: '2017-08-10T17:12:22.140Z'
 via: {}
 description: >-
   Avec nom de domaine, hébergement, sécurité et réseau de diffusion de contenu
@@ -19,7 +19,7 @@ _type: Article
 
 ---
 # **Créez un site à votre image**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94ddcb6-d3b0-4b4d-9d5b-40080e787873.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6604bd4c-9bc0-4276-8a03-b1100253397e.gif)
 
 ## Votre propre site de vente de cours en ligne personnalisé
 
