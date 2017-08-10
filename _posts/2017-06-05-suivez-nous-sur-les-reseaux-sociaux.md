@@ -37,8 +37,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/cyboolo'
-datePublished: '2017-08-10T19:27:52.928Z'
-dateModified: '2017-08-10T19:27:52.639Z'
+datePublished: '2017-08-10T19:31:58.471Z'
+dateModified: '2017-08-10T19:31:58.022Z'
 title: Suivez-nous sur les réseaux sociaux
 via: {}
 inFeed: true
