@@ -33,8 +33,8 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-datePublished: '2017-08-10T20:45:13.264Z'
-dateModified: '2017-08-10T20:45:12.354Z'
+datePublished: '2017-08-10T20:50:42.410Z'
+dateModified: '2017-08-10T20:50:41.725Z'
 title: Suivez cyboolo sur les réseaux sociaux
 via: {}
 inFeed: true
@@ -48,7 +48,7 @@ _context: 'http://schema.org'
 
 ---
 # **[Suivez cyboolo sur les réseaux sociaux][0]**
-![@cyboolo](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2107fe37-e61a-4a3a-b1f0-98b2636ac220.jpg)
+![@cyboolo](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40096ec5-17a8-4555-bd83-e728455cb3fd.jpg)
 
 ## Solutions web innovantes, éducatives et ludiques pour toute la \#famille ET outils \#collaboratifs pour \#freelance \#enseignants et \#developpeurs.
 
