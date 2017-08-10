@@ -2,7 +2,7 @@ name: cyboolo
 analytics: {}
 purpose:
   - type: external
-    label: '*A VOUS DE JOUER'
+    label: A VOUS DE JOUER
     url: 'https://google.fr'
 github: true
 description: >-
