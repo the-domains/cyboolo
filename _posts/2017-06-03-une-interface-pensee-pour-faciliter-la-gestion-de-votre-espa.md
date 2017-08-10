@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-06-09T15:52:12.693Z'
-dateModified: '2017-06-09T15:52:11.048Z'
+datePublished: '2017-08-10T19:27:52.926Z'
+dateModified: '2017-08-10T19:27:52.639Z'
 via: {}
 description: 'cyboolo fonctionne sur ordinateur, tablette ou mobile.'
 title: Interface intuitive pour faciliter la gestion de votre site
