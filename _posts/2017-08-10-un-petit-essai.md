@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-10T19:30:09.195Z'
-datePublished: '2017-08-10T19:30:09.884Z'
+dateModified: '2017-08-10T19:30:10.677Z'
+datePublished: '2017-08-10T19:30:11.111Z'
 title: Un petit essai ?
 author: []
 publisher: {}
