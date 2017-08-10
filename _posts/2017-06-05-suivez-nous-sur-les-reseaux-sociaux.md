@@ -26,7 +26,7 @@ author:
 related: []
 publisher: {}
 keywords: []
-description: ''
+description: '@cyboolo'
 app_links:
   - path: >-
       twitter/user?screen_name=cyboolo&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile
@@ -34,8 +34,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/cyboolo'
-datePublished: '2017-08-10T20:32:11.695Z'
-dateModified: '2017-08-10T20:32:09.593Z'
+datePublished: '2017-08-10T20:34:20.415Z'
+dateModified: '2017-08-10T20:34:19.519Z'
 title: Suivez cyboolo sur les réseaux sociaux
 via: {}
 inFeed: true
@@ -47,7 +47,7 @@ _context: 'http://schema.org'
 
 ---
 # **[Suivez cyboolo sur les réseaux sociaux][0]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a653cf-3bf5-4240-a898-49296e4ef556.jpg)
+![@cyboolo](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a43791b9-4f79-4487-b409-3c1514f2763c.jpg)
 
 ## Solutions web innovantes, éducatives et ludiques pour toute la \#famille ET outils \#collaboratifs pour \#freelance \#enseignants et \#developpeurs.
 
