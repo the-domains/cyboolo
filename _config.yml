@@ -78,10 +78,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - name: Données personnelles
-    id: 412e87d6-6b65-49fd-9e49-cbc011d3e9a8
-    type: content
 layout_spectrum: 0.8852098516642236
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
