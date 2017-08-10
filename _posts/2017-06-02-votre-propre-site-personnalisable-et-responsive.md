@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-10T16:51:32.043Z'
-dateModified: '2017-08-10T16:51:31.298Z'
+datePublished: '2017-08-10T16:53:12.317Z'
+dateModified: '2017-08-10T16:53:11.224Z'
 via: {}
 description: >-
   Avec nom de domaine, hébergement, sécurité et réseau de diffusion de contenu
@@ -19,4 +19,8 @@ _type: Article
 
 ---
 # **Créez un site à votre image**
-![Avec nom de domaine, hébergement, sécurité et réseau de diffusion de contenu ultra-rapide. Partagez votre passion et consacrez-vous à 100% à la transmission de vos connaissances.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94ddcb6-d3b0-4b4d-9d5b-40080e787873.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94ddcb6-d3b0-4b4d-9d5b-40080e787873.gif)
+
+## Votre propre site de vente de cours en ligne personnalisé
+
+Avec nom de domaine, hébergement, sécurité et réseau de diffusion de contenu ultra-rapide. Partagez votre passion et consacrez-vous à 100% à la transmission de vos connaissances.
