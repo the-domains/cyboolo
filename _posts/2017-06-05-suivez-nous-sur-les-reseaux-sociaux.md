@@ -37,8 +37,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/cyboolo'
-datePublished: '2017-08-10T19:31:58.471Z'
-dateModified: '2017-08-10T19:31:58.022Z'
+datePublished: '2017-08-10T20:26:24.333Z'
+dateModified: '2017-08-10T20:26:20.845Z'
 title: Suivez-nous sur les réseaux sociaux
 via: {}
 inFeed: true
@@ -49,8 +49,8 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-## **Suivez-nous sur les réseaux sociaux**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8039f47-8916-47ec-9aa3-e5336bc266cb.png)
+# **Suivez-nous sur les réseaux sociaux**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83a653cf-3bf5-4240-a898-49296e4ef556.jpg)
 
 [Les derniers tweets de Team (@cyboolo). solutions web innovantes, éducatives et ludiques pour toute la \#famille ET outils \#collaboratifs pour \#freelance \#enseignants et \#developpeurs.][0]
 
