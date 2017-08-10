@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Concevoir, rédiger et publier des cours !'
-dateModified: '2017-06-09T15:52:11.048Z'
-datePublished: '2017-06-09T15:52:12.697Z'
+dateModified: '2017-08-10T17:34:24.599Z'
+datePublished: '2017-08-10T17:34:27.482Z'
 title: Concentrez-vous sur votre priorité
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-06-04T16:38:22.778Z'
 _type: Blurb
 
 ---
-## **Concentrez-vous sur votre priorité**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/141632b1-3679-4a71-a538-05886acdb6b8.png)
+# **Concentrez-vous sur votre priorité**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c555ffc-1523-4055-9ac6-ff669f9819a9.jpg)
 
 Concevoir, rédiger et publier des cours !
