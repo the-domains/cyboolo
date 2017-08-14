@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: cyboolo utilise les dernières technologies web.
-dateModified: '2017-08-10T19:18:22.123Z'
-datePublished: '2017-08-10T19:18:22.707Z'
+dateModified: '2017-08-14T10:14:39.209Z'
+datePublished: '2017-08-14T10:14:39.857Z'
 title: Rédigez vos cours depuis votre explorateur
 author: []
 publisher: {}
@@ -16,6 +16,6 @@ _type: Blurb
 # **Rédigez vos cours depuis votre explorateur**
 
 ### Partager votre expérience devient aussi simple que d'utiliser un éditeur de texte.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/774d4915-9178-463f-baff-a7a93bb2dae6.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d217c61a-7305-409c-8f06-a90f8eeb2d3b.gif)
 
 cyboolo utilise les dernières technologies web.
