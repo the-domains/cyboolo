@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
-  technologies web.
-dateModified: '2017-08-14T10:16:49.932Z'
-datePublished: '2017-08-14T10:16:50.557Z'
+  technologies web
+dateModified: '2017-08-14T10:21:36.167Z'
+datePublished: '2017-08-14T10:21:36.858Z'
 title: Rédigez vos cours depuis votre explorateur
 author: []
 publisher: {}
@@ -16,8 +16,4 @@ _type: Blurb
 
 ---
 # **Rédigez vos cours depuis votre explorateur**
-
-### Partager votre expérience devient aussi simple que d'utiliser un éditeur de texte.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d217c61a-7305-409c-8f06-a90f8eeb2d3b.gif)
-
-Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web.
+![Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f5f1ff-5321-480e-809b-cc13dabfc732.gif)
