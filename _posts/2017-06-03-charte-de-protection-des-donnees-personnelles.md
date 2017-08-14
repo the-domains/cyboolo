@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: 'On désignera par la suite :'
-dateModified: '2017-08-10T19:31:58.022Z'
-datePublished: '2017-08-10T19:31:58.465Z'
+description: ''
+dateModified: '2017-08-14T15:10:20.323Z'
+datePublished: '2017-08-14T15:10:21.079Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -16,8 +16,6 @@ _type: Blurb
 
 ---
 # **VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.**
-
----
 
 ## CHARTE DE PROTECTION DES DONNEES PERSONNELLES
 
@@ -54,7 +52,7 @@ La collecte des Données personnelles des Utilisateurs par l'Editeur est en cour
 
 Les Données identifiées comme étant obligatoires sur les formulaires du Site sont nécessaires afin de pouvoir bénéficier des fonctionnalités correspondantes du Site, et plus spécifiquement des opérations sur les contenus proposés au sein de celui-ci.
 
-Le Site collecte et traite les Données de ses Utilisateurs pour personnaliser les sites, envoyer des mails, effectuer des statistiques de trafic et traiter les commandes sur le Site.
+Le Site collecte et traite les Données de ses Utilisateurs pour personnaliser les sites, envoyer des mails, authentifier les Utilisateurs auprès de nos prestataires de paiement, effectuer des statistiques de trafic et traiter les commandes sur le Site.
 
 ### Article 5 - Destinataires et utilisation des Données collectées
 
