@@ -1,11 +1,11 @@
 ---
 publisher: {}
-datePublished: '2017-08-10T17:59:54.081Z'
-dateModified: '2017-08-10T17:59:53.607Z'
+datePublished: '2017-08-14T10:00:26.500Z'
+dateModified: '2017-08-14T10:00:25.699Z'
 via: {}
 description: >-
-  Avec nom de domaine, hébergement, sécurité et réseau de diffusion de contenu
-  ultra-rapide. Partagez votre passion et consacrez-vous à 100% à la
+  Avec nom de domaine, hébergement sécurisé et réseau de diffusion de contenu
+  ultra-rapide. Simplifiez-vous la vie et consacrez-vous à 100% à la
   transmission de vos connaissances.
 title: Créez un site à votre image
 sourcePath: _posts/2017-06-02-votre-propre-site-personnalisable-et-responsive.md
@@ -18,4 +18,4 @@ _type: Blurb
 
 ---
 # **Créez un site à votre image**
-![Avec nom de domaine, hébergement, sécurité et réseau de diffusion de contenu ultra-rapide. Partagez votre passion et consacrez-vous à 100% à la transmission de vos connaissances.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6604bd4c-9bc0-4276-8a03-b1100253397e.gif)
+![Avec nom de domaine, hébergement sécurisé et réseau de diffusion de contenu ultra-rapide. Simplifiez-vous la vie et consacrez-vous à 100% à la transmission de vos connaissances.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2c48a75-df48-4550-83b4-914a3c0adde5.gif)
