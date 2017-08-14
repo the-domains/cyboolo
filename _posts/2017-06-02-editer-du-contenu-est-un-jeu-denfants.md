@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
   technologies web
-dateModified: '2017-08-14T10:23:16.251Z'
-datePublished: '2017-08-14T10:23:17.211Z'
+dateModified: '2017-08-14T10:31:38.184Z'
+datePublished: '2017-08-14T10:31:39.164Z'
 title: Rédigez depuis votre explorateur
 author: []
 publisher: {}
@@ -16,4 +16,4 @@ _type: Blurb
 
 ---
 # **Rédigez depuis votre explorateur**
-![Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77f5f1ff-5321-480e-809b-cc13dabfc732.gif)
+![Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e2fa9b6-d8b4-4978-b6f8-50c1d69cd636.gif)
