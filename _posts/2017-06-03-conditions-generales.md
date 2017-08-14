@@ -5,8 +5,8 @@ description: >-
   Olivier TRUC, Auto entrepreneur en cours d'immatriculation dont le siège
   social est sis au 15 bis rue de l'église, 31330 ONDES (ci-après « Olivier TRUC
   »).
-dateModified: '2017-08-14T15:07:07.489Z'
-datePublished: '2017-08-14T15:07:08.506Z'
+dateModified: '2017-08-14T15:10:56.551Z'
+datePublished: '2017-08-14T15:10:57.461Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -25,11 +25,11 @@ _type: Blurb
 
 Les présentes Conditions Générales (ci-après les « CG ») sont proposées par Olivier TRUC, Auto entrepreneur en cours d'immatriculation dont le siège social est sis au 15 bis rue de l'église, 31330 ONDES (ci-après « Olivier TRUC »).
 
-On désignera par la suite :
-
 ---
 
 ### Article 1 - Définitions
+
+On désignera par la suite :
 
 * **« Site »** ou **« Service »** : le site https://cyboolo.io, l'ensemble de ses pages, les sites connexes et l'ensemble des applications utilisées afin d'héberger, traiter et stocker les données des Utilisateurs.
 * **« Editeur »** : la personne, morale ou physique, responsable de l'édition et du contenu du Site.
