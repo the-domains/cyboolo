@@ -5,8 +5,8 @@ description: >-
   Olivier TRUC, Auto entrepreneur en cours d'immatriculation dont le siège
   social est sis au 15 bis rue de l'église, 31330 ONDES (ci-après « Olivier TRUC
   »).
-dateModified: '2017-08-14T14:01:24.368Z'
-datePublished: '2017-08-14T14:01:25.399Z'
+dateModified: '2017-08-14T14:38:26.833Z'
+datePublished: '2017-08-14T14:38:27.691Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ On désignera par la suite :
 
 ### Article 1 - Définitions
 
-* **« Site »** ou **« Service »** : le site https://www.cyboolo.com, l'ensemble de ses pages, les sites connexes et l'ensemble des applications utilisées afin d'héberger, traiter et stocker les données des Utilisateurs.
+* **« Site »** ou **« Service »** : le site https://cyboolo.io, l'ensemble de ses pages, les sites connexes et l'ensemble des applications utilisées afin d'héberger, traiter et stocker les données des Utilisateurs.
 * **« Editeur »** : la personne, morale ou physique, responsable de l'édition et du contenu du Site.
 * **« Utilisateur »** : l'internaute visitant et utilisant le Site.
 * **« Cours » **: les contenus de type textes, images et vidéos qui peuvent être ajoutés de manière autonome par l'Utilisateur sur le Site, pour promouvoir ses services et transmettre son savoir et ses connaissances.
@@ -50,7 +50,7 @@ Les informations légales concernant l'hébergeur et l'éditeur du site, notamme
 
 Les informations concernant la collecte et le traitement des données personnelles (politique et déclaration) sont fournies dans la charte de données personnelles du site.
 
-L'objet du présent site est déterminé comme "site de création, publication et vente de cours en ligne destinés aux indépendants qui souhaitent transmettrent leur savoir et leurs connaissances".
+L'objet du présent site est déterminé comme "site de création, publication et vente de cours en ligne destinés aux indépendants qui souhaitent transmettre leur savoir et leurs connaissances".
 
 Les présentes CG ont pour objet de définir les conditions d'accès au Site et de son utilisation par les Utilisateurs. L'Editeur se réserve le droit de modifier à tout moment les CG en publiant une nouvelle version de ces dernières sur le Site. **Les CG applicables à l'Utilisateur sont celles en vigueur au jour de son acceptation**.
 
@@ -123,15 +123,17 @@ En particulier donc, les articles suivants - cités à titre d'exemple et dont l
 
 ### Article 8 - Espace membre
 
-L'Utilisateur inscrit au Site (membre) a la possibilité d'y accéder en se connectant grâce à son identifiant (adresse e-mail). Le système d'authentification utilisé envoi un mail de confirmation à l'adresse email renseignée avec un lien qui permet à l'utilisateur de se connecter à l'espace membre. L'utilisateur est entièrement responsable de la protection de sa messagerie. Le lien envoyé constitue la garantie de la confidentialité des informations contenues dans sa rubrique « mon compte » et l'Utilisateur s'interdit donc de le transmettre ou de le communiquer à un tiers. A défaut, l'Editeur du Site ne pourra être tenu pour responsable des accès non autorisés au compte d'un Utilisateur.
+L'Utilisateur inscrit au Site (membre) a la possibilité d'y accéder en se connectant grâce à son identifiant (adresse e-mail). Le système d'authentification utilisé envoi un e-mail de confirmation à l'adresse e-mail renseignée avec un lien unique et à durée limitée qui permet à l'utilisateur de se connecter à l'espace membre. L'utilisateur est entièrement responsable de la protection de sa messagerie. Le lien envoyé constitue la garantie de la confidentialité des informations contenues dans son espace membre et l'Utilisateur s'interdit donc de le transmettre ou de le communiquer à un tiers. A défaut, l'Editeur du Site ne pourra être tenu pour responsable des accès non autorisés au compte d'un Utilisateur.
 
-La création d'un espace personnel est un préalable indispensable à toute commande ou contribution de l'Utilisateur sur le présent Site. A cette fin, l'Utilisateur sera invité à fournir un certain nombre d'informations personnelles. Il s'engage à fournir des informations exactes.
+La création d'un espace personnel est un préalable indispensable à toute contribution de l'Utilisateur sur le présent Site. A cette fin, l'Utilisateur sera invité à fournir un certain nombre d'informations personnelles. Il s'engage à fournir des informations exactes.
 
-La collecte des données a pour objet la création d'un « compte membre ». Ce compte permet à l'Utilisateur de consulter ses contributions, ses commandes effectuées sur le Site et les abonnements dont il est titulaire. Si les données contenues dans la rubrique compte membre venaient à disparaître à la suite d'une panne technique ou d'un cas de force majeure, la responsabilité du Site et de son Editeur ne pourrait être engagée, ces informations n'ayant aucune valeur probante mais uniquement un caractère informatif. Les pages relatives aux comptes membres sont librement imprimables par le titulaire du compte en question mais ne constituent nullement une preuve, elles n'ont qu'un caractère informatif destiné à assurer une gestion efficace du service ou des contributions par l'Utilisateur.
+La collecte des données a pour objet la création d'un "compte membre" qui permet la personnalisation du site de l'Utilisateur, la gestion des prestations souscrites mais aussi la validation des informations de l'Utilisateur auprès de notre prestataire de gestion des paiements MANGOPAY (https://www.mangopay.com/fr). Ce compte permet à l'Utilisateur de consulter ses contributions, ses factures et les abonnements dont il est titulaire sur le Site. Si les données contenues dans ce compte venaient à disparaître à la suite d'une panne technique ou d'un cas de force majeure, la responsabilité du Site et de son Editeur ne pourrait être engagée, ces informations n'ayant aucune valeur probante mais uniquement un caractère informatif. Les pages relatives aux comptes membres sont librement imprimables par le titulaire du compte en question mais ne constituent nullement une preuve, elles n'ont qu'un caractère informatif destiné à assurer une gestion efficace du service ou des contributions par l'Utilisateur.
 
 Chaque Utilisateur est libre de fermer son compte et ses données sur le Site. Pour ceci, il doit adresser un e-mail à Olivier TRUC indiquant qu'il souhaite supprimer son compte. Aucune récupération de ses données ne sera alors possible.
 
 L'Editeur se réserve le droit exclusif de supprimer le compte de tout Utilisateur qui aurait contrevenu aux présentes CG (notamment, mais sans que cet exemple n'ait un quelconque caractère exhaustif, lorsque l'Utilisateur aura fourni sciemment des informations erronées, lors de son inscription et de la constitution de son espace personnel) ou encore tout compte inactif depuis au moins une année. Ladite suppression ne sera pas susceptible de constituer un dommage pour l'Utilisateur exclu qui ne pourra prétendre à aucune indemnité de ce fait. Cette exclusion n'est pas exclusive de la possibilité, pour l'Editeur, d'entreprendre des poursuites d'ordre judiciaire à l'encontre de l'Utilisateur, lorsque les faits l'auront justifié.
+
+Tout Utilisateur, pour vendre ses Cours sur le Site, doit créer un "Wallet" afin de s'authentifier auprès de notre gestionnaire de paiements MANGOPAY (https://www.mangopay.com/fr). Ce "Wallet", ou portefeuille, permet à l'Utilisateur de percevoir le montant de ses ventes de Cours et de les transférer sur son compte en banque après déduction des commissions prélevées par le Site en fonction de le formule souscrite par l'Utilisateur. Si l'Utilisateur ne créé pas de "Wallet", il ne sera pas autorisé à publier de Cours sur le Site et par conséquent ne pourra pas vendre ses Cours. Lorsqu'il crée un "Wallet", l'Utilisateur est invité à fournir des documents permettant à MANGOPAY de valider son identité et d'authentifier sa société (documents Know Your Customer). Les documents doivent être téléchargés sur le Site dans la rubrique prévue à cet effet. Une fois téléchargés, ces documents sont vérifiés automatiquement par MANGOPAY. Si l'Utilisateur ne télécharge pas ces documents ou bien si les documents ne sont pas validés par MANGOPAY, l'Utilisateur sera limité à 1000,00 € de vente par an. L'Utilisateur ne pourra prétendre à aucune indemnité de ce fait et cette limitation ne pourra prendre fin qu'une fois que les documents demandés auront été téléchargés sur le Site et validés par MANGOPAY.
 
 ### Article 9 - Prestations payantes proposées sur le Site et tarifs
 
