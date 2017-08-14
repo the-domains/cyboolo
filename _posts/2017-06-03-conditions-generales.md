@@ -5,8 +5,8 @@ description: >-
   Olivier TRUC, Auto entrepreneur en cours d'immatriculation dont le siège
   social est sis au 15 bis rue de l'église, 31330 ONDES (ci-après « Olivier TRUC
   »).
-dateModified: '2017-08-14T14:38:26.833Z'
-datePublished: '2017-08-14T14:38:27.691Z'
+dateModified: '2017-08-14T15:07:07.489Z'
+datePublished: '2017-08-14T15:07:08.506Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -137,11 +137,11 @@ Tout Utilisateur, pour vendre ses Cours sur le Site, doit créer un "Wallet" afi
 
 ### Article 9 - Prestations payantes proposées sur le Site et tarifs
 
-Les Prestations proposées par le Site au Client sont celles qui figurent dans le catalogue publié sur le Site et sont distinctes des services proposés par les Vendeurs. Le Client peut passer commande de ces Prestations et peut effectuer son règlement par carte bancaire. Les paiements par carte bancaire se font au moyen de transactions sécurisées fournies par un prestataire de plateforme de paiement en ligne.
+Les Prestations proposées par le Site au Client sont celles qui figurent dans le catalogue publié sur le Site et sont distinctes des services proposés par les Vendeurs. Le Client peut passer commande de ces Prestations et peut effectuer son règlement par carte bancaire ou par virement bancaire. Les paiements par carte bancaire se font au moyen de transactions sécurisées fournies par un prestataire de plateforme de paiement en ligne (chargebee et stripe). Les paiements par virement bancaire se font au moyen de transactions sécurisées fournies par un prestataire de plateforme de paiement en ligne (chargebee et gocardless).
 
-L'Editeur du Site précise sur le catalogue si la facturation est à la période, ou bien fixée selon un niveau d'utilisation des ressources, ou tout autre moyen d'accès. Sauf indication contraire lors de la souscription au service, le mode de facturation par défaut qui s'applique est le suivant : gratuit (formule cyboolo-gratuit du catalogue). En cas de prélèvement automatique, l'Editeur du Site précisera au Client dans l'interface de paiement la date du prélèvement, et son montant, ainsi que la fréquence, celle-ci pouvant dépendre de chaque Client.
+L'Editeur du Site précise sur le catalogue si la facturation est à la période, ou bien fixée selon un niveau d'utilisation des ressources, ou tout autre moyen d'accès. Sauf indication contraire lors de la souscription au service, le mode de facturation par défaut qui s'applique est le suivant : gratuit (formule cyboolo STANDARD du catalogue). En cas de prélèvement automatique, l'Editeur du Site précisera au Client dans l'interface de paiement la date du prélèvement, et son montant, ainsi que la fréquence, celle-ci pouvant dépendre de chaque Client.
 
-L'Editeur du Site n'a accès à aucune donnée relative aux moyens de paiement du Client. Le paiement est effectué directement entre les mains du prestataire.
+L'Editeur du Site n'a accès à aucune donnée relative aux moyens de paiement du Client. Le paiement est effectué directement entre les mains des prestataires (stripe ou gocardless).
 
 Les prix figurant dans le catalogue sont des prix entendus en Euros net à payer (TVA non applicable, selon l'article 293 B du CGI).
 
@@ -149,13 +149,13 @@ Olivier TRUC se réserve le droit de répercuter tout changement du taux de TVA 
 
 ### Options payantes
 
-Le Vendeur a la possibilité de souscrire une option payante, en lien avec la publication d'au moins un Cours.
+Le Vendeur a la possibilité de souscrire une option payante. Pour ce faire, il devra souscrire à la formule payante cyboolo PREMIUM.
 
-Le prix de chaque option payante varie en fonction du type d'option souscrite. Le cas échéant, la grille tarifaire des options payantes (cyboolo-hobby, cyboolo-freelance ou cyboolo-business) est présentée sur le Site.
+Le prix de chaque option payante varie en fonction du type d'option souscrite. Le cas échéant, la grille tarifaire des options payantes (marque blanche, temps de vidéo en ligne, réduction des commissions) est présentée sur le Site.
 
 ### Options payantes
 
-Certaines options de souscription peuvent nécessiter un paiement. La souscription d'une offre payante pour disposer de certaines fonctionnalités pour publiers un ou des Cours est considéré comme l'achat d'une Prestation sur le Site, et est donc régi par les règles définies au paragraphe relatif aux modalités de souscription d'une Prestation des présentes CG.
+Certaines options de souscription peuvent nécessiter un paiement. La souscription d'une offre payante pour disposer de certaines fonctionnalités pour publier un ou des Cours est considéré comme l'achat d'une Prestation sur le Site, et est donc régi par les règles définies au paragraphe relatif aux modalités de souscription d'une Prestation des présentes CG.
 
 Olivier TRUC archivera les bons de commandes et les factures sur un support fiable et durable constituant une copie fidèle. Les registres informatisés seront considérés par les parties comme preuve des communications, commandes, paiements et transactions intervenus entre les parties.
 
@@ -163,7 +163,7 @@ Olivier TRUC archivera les bons de commandes et les factures sur un support fiab
 
 Afin de procéder à sa commande, le Client choisit la Prestation qu'il souhaite commander en sélectionnant l'option souhaitée du catalogue.
 
-Dès lors que le Client estimera avoir sélectionné la Prestation qu'il souhaite acheter, il aura la possibilité, pour valider sa commande, d'accéder à un module de paiement sécurisé en cliquant sur le bouton prévu à cet effet. Une fenêtre de type "pop-up" s'affichera alors sur laquelle lui seront communiqués les caractéristiques de la Prestation commandée, ainsi que son prix unitaire.
+Dès lors que le Client estimera avoir sélectionné la Prestation qu'il souhaite acheter, il aura la possibilité, pour valider sa commande, d'accéder à un module de paiement sécurisé en cliquant sur le bouton prévu à cet effet. Une fenêtre s'affichera alors sur laquelle lui seront communiqués les caractéristiques de la Prestation commandée, ainsi que son prix unitaire.
 
 S'il souhaite valider sa commande, le Client devra cocher la case relative à la ratification des présentes CG et cliquer sur le bouton de validation. Le Client sera alors redirigé sur une page dans laquelle il devra remplir les champs de formulaire de commande. Il devra dans ce dernier cas renseigner un certain nombre de données personnelles le concernant, nécessaires au bon déroulement de la commande.
 
@@ -193,7 +193,7 @@ La commission est acquise et due dès que l'Acheteur a passé commande sur le Si
 
 ### Article 13 - Service d'assistance du Site
 
-Le service d'assistance du Site est accessible par courrier électronique à l'adresse suivante : support@cyboolo.com ou par courrier postal à l'adresse indiquée dans les mentions légales.
+Le service d'assistance du Site est accessible par courrier électronique à l'adresse suivante: support@cyboolo.com ou par courrier postal à l'adresse indiquée dans les mentions légales.
 
 ### Article 14 - Vente entre Utilisateurs et intermédiaire de paiement
 
@@ -225,7 +225,7 @@ Un Vendeur sur le site est aussi, conformément au Code du Commerce, tenu de com
 
 Le Vendeur est seul responsable de la mise en vente des services qu'il propose sur le site. Sur le descriptif associé aux services qu'il propose sur le site, le Vendeur s'engage à agir de bonne foi. Il est seul responsable de l'exactitude des mentions y figurant et s'engage à ce qu'elles ne risquent pas d'induire en erreur les acheteurs potentiels, tant sur les caractéristiques du service, que sur son état ou son prix. Le Vendeur communique aux Acheteurs toutes les informations leur permettant de connaître les caractéristiques essentielles du service.
 
-Le prix de vente des Services est défini librement par le Vendeur, dans le respect des lois et règlements en vigueur. Ce prix doit être mentionné sur le site toutes taxes et frais compris (notamment TVA, frais de transaction, commissions, etc.).
+Le prix de vente des Services est défini librement par le Vendeur, dans le respect des lois et règlements en vigueur. **Afin de respecter le modèle économique du Site, le Vendeur accepte expressément que le prix de vente ne soit pas inférieur à un montant de 50 €. Il n'est donc pas possible de proposer des Cours gratuits sur le Site.** Ce prix doit être mentionné sur le site toutes taxes et frais compris (notamment TVA, frais de transaction, commissions, etc.).
 
 Les contrats de vente services proposés par le Vendeur sur le Site sont conclus entre le Vendeur et l'Acheteur sous la condition résolutoire que le service soit disponible. Le Vendeur s'engage à n'offrir sur le site que des services disponibles et à supprimer sans délai du site toute offre se rapportant à des services qui ne sont plus disponibles.
 
@@ -237,11 +237,13 @@ En vertu de l'article 15 de la loi du 21 juin 2004 pour la confiance dans l'éco
 
 Le Vendeur est seul responsable des contrats qu'il conclut avec les acheteurs et, à ce titre, s'engage à respecter les dispositions législatives applicables et notamment la réglementation sur la protection des consommateurs et sur la vente à distance.
 
+**Le Vendeur est seul responsable de la gestion, de l'édition, du stockage et de l'envoi des factures à l'Acheteur.**
+
 ### Article 16 - Obligations de l'Acquéreur Acheteur
 
 Le Site permet la publication et la mise en ligne de Cours mis en vente par le Vendeur, à destination des Utilisateurs du site, et éventuellement acquis par un acquéreur alors réputé Acheteur.
 
-Les informations enregistrées lors de la prise de commande engagent l'Acheteur ; en cas d'erreur dans le libellé de ses coordonnées, le Vendeur ne saurait être tenu responsable de l'impossibilité de livrer l'Acheteur si ce dernier a mal renseigné le formulaire d'inscription.
+Les informations enregistrées lors de la prise de commande engagent l'Acheteur ; en cas d'erreur dans le libellé de ses coordonnées, le Vendeur ne saurait être tenu responsable de l'impossibilité de livrer l'Acheteur ou de lui envoyer une facture si ce dernier a mal renseigné le formulaire d'inscription.
 
 ### Article 17 - Rétractation de l'Acheteur
 
@@ -354,7 +356,7 @@ Tout Utilisateur qui se rendrait coupable de contrefaçon serait susceptible de 
 
 Le présent Site utilise des éléments (images, photographies, contenus) dont les crédits reviennent à : Crédits.
 
-Les marques et logos contenus dans le Site sont susceptibles d'être déposés par Olivier TRUC, ou éventuellement par un de ses partenaires. Toute personne procédant à leurs représentations, reproductions, imbrications, diffusions et rediffusions encourt les sanctions prévues aux articles L.713-2 et suivants du Code de la propriété intellectuelle.
+Les marques et logos contenus dans le Site sont déposés par Olivier TRUC, ou éventuellement par un de ses partenaires. Toute personne procédant à leurs représentations, reproductions, imbrications, diffusions et rediffusions encourt les sanctions prévues aux articles L.713-2 et suivants du Code de la propriété intellectuelle.
 
 ### Article 23 - Notifications et réclamations
 
