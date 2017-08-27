@@ -6,8 +6,8 @@ description: >-
   PCI-DSS des transactions. Paiements par VISA/MASTERCARD. Technologies anti
   fraudes et 3D SECURE. Les gains de vos ventes sont transférés directement sur
   votre compte en banque.
-dateModified: '2017-08-27T12:42:04.553Z'
-datePublished: '2017-08-27T12:42:04.840Z'
+dateModified: '2017-08-27T12:45:28.763Z'
+datePublished: '2017-08-27T12:45:30.445Z'
 title: Système de paiement intégré
 author: []
 publisher: {}
@@ -23,6 +23,7 @@ _type: Blurb
 ## Paiements sécurisés et protection des données
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/417b8de7-3e0c-42ee-85ae-87925890583e.png)
 
-Les données de cartes et les informations bancaires sensibles ne sont pas stockées sur nos serveurs. Notre prestataire MANGOPAY assure la [conformité PCI-DSS][0] des transactions. Paiements par VISA/MASTERCARD. Technologies anti fraudes et 3D SECURE. Les gains de vos ventes sont transférés directement sur votre compte en banque.
+Les données de cartes et les informations bancaires sensibles ne sont pas stockées sur nos serveurs. Notre prestataire [MANGOPAY][0] assure la [conformité PCI-DSS][1] des transactions. Paiements par VISA/MASTERCARD. Technologies anti fraudes et 3D SECURE. Les gains de vos ventes sont transférés directement sur votre compte en banque.
 
-[0]: https://www.mangopay.com/wp-content/uploads/MANGOPAY-SA_MERCHANT_PCIDSS_Certificate-of-Compliance_may2016.pdf
+[0]: https://www.mangopay.com/fr
+[1]: https://www.mangopay.com/wp-content/uploads/MANGOPAY-SA_MERCHANT_PCIDSS_Certificate-of-Compliance_may2016.pdf
