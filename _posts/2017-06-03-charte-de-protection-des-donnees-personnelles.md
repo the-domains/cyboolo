@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-09-01T11:16:40.417Z'
-datePublished: '2017-09-01T11:16:41.578Z'
+dateModified: '2017-09-01T12:37:29.128Z'
+datePublished: '2017-09-01T12:37:30.081Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ _type: Blurb
 On désignera par la suite :
 
 * **« Données personnelles » **: se définit comme « _toute information relative à une personne physique identifiée ou qui peut être identifiée, directement ou indirectement, par référence à un numéro d'identification ou à un ou plusieurs éléments qui lui sont propres_ », conformément à la loi Informatique et libertés du 6 janvier 1978\.
-* **« Site »** ou **« Service »** : le site https://www.cyboolo.com et l'ensemble de ses pages.
+* **« Site »** ou **« Service »** : le site https://cyboolo.io et l'ensemble de ses pages, les sites connexes et l'ensemble des applications utilisées afin d'héberger, traiter et stocker les données des Utilisateurs.
 * **« Editeur »** : Olivier TRUC, personne morale ou physique responsable de l'édition et du contenu du Site.
 * **« Utilisateur »** : l'internaute visitant et utilisant les Services du Site.
 
@@ -44,7 +44,7 @@ Les Données collectées et ultérieurement traitées par le Site sont celles qu
 
 Votre adresse IP (numéro d'identification attribué sur Internet à votre ordinateur) est collectée automatiquement. Vous êtes informés que le service est susceptible de mettre en œuvre un procédé automatique de traçage (Cookie), auquel vous pouvez faire obstacle en modifiant les paramètres concernés de votre navigateur internet, comme expliqué dans les conditions générales du présent Site.
 
-Les coordonnées des Utilisateurs du Site qui se seront inscrits sur celui-ci seront sauvegardées, dans le respect des dispositions de la loi informatique et liberté du 6 janvier 1978\. Conformément à cette dernière, ils disposent d'un droit d'accès, de retrait, de modification ou de rectification des Données qu'ils ont fournies. Pour cela, il leur suffit d'en faire la demande à l'adresse électronique suivante : support@cyboolo.com, ou par courrier au Olivier TRUC, 15 bis rue de l'église, 31330 ONDES.
+Les coordonnées des Utilisateurs du Site qui se seront inscrits sur celui-ci seront sauvegardées, dans le respect des dispositions de la loi informatique et liberté du 6 janvier 1978\. Conformément à cette dernière, ils disposent d'un droit d'accès, de retrait, de modification ou de rectification des Données qu'ils ont fournies. Pour cela, il leur suffit d'en faire la demande à l'adresse électronique suivante : support@cyboolo.com, ou par courrier à Olivier TRUC, 15 bis rue de l'église, 31330 ONDES.
 
 La collecte des Données personnelles des Utilisateurs par l'Editeur est en cours de déclaration auprès de l'autorité française de protection des Données personnelles (la Commission Nationale de l'Informatique et des Libertés -- CNIL).
 
@@ -66,6 +66,6 @@ Vous êtes informés que vos Données pourront être divulguées en application 
 
 ### Article 7 - Durée de conservation des Données
 
-Les Données sont stockées chez l'hébergeur du site, dont les coordonnées figurent dans les mentions légales du Site, et sont conservées pour la durée strictement nécessaire à la réalisation des finalités visées ci-avant. Au-delà de cette durée, elles seront conservées à des fins exclusivement statistiques et ne donneront lieu à aucune exploitation, de quelque nature que ce soit.
+Les Données sont stockées chez l'hébergeur du Site, dont les coordonnées figurent dans les mentions légales du Site, et sont conservées pour la durée strictement nécessaire à la réalisation des finalités visées ci-avant. Au-delà de cette durée, elles seront conservées à des fins exclusivement statistiques et ne donneront lieu à aucune exploitation, de quelque nature que ce soit.
 
 Tous droits réservés - 22 mai 2017
