@@ -33,8 +33,8 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-datePublished: '2017-08-27T12:47:10.152Z'
-dateModified: '2017-08-27T12:47:09.605Z'
+datePublished: '2017-09-01T11:16:41.576Z'
+dateModified: '2017-09-01T11:16:40.417Z'
 title: Suivez cyboolo sur les réseaux sociaux
 via: {}
 inFeed: true
