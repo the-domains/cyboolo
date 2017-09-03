@@ -6,7 +6,7 @@ purpose:
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
   - type: external
     url: 'https://cyboolo-demo.netlify.com/'
-    label: Démonstration
+    label: Démo
 github: true
 description: 'Créez, publiez et monétisez rapidement, simplement... sans savoir coder !'
 author:
