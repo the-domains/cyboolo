@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-01T11:16:41.496Z'
-dateModified: '2017-09-01T11:16:40.417Z'
+datePublished: '2017-09-05T20:00:20.895Z'
+dateModified: '2017-09-05T20:00:20.160Z'
 via: {}
 description: L’important est de participer avec plaisir et à son rythme.
 title: 'Pensé en priorité pour les indépendants, les passionnés, les rêveurs'
