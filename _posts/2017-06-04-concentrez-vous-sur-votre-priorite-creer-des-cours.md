@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Vous n’avez pas besoin de savoir coder, ni de gérer une base de données ou
   vous occuper de l’hébergement de votre contenu. Tout est compris.
-dateModified: '2017-09-05T20:00:20.160Z'
-datePublished: '2017-09-05T20:00:20.672Z'
+dateModified: '2017-09-05T20:06:57.737Z'
+datePublished: '2017-09-05T20:06:58.536Z'
 title: Concentrez-vous sur votre priorité
 author: []
 publisher: {}
