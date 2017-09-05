@@ -1,11 +1,8 @@
 ---
 inFeed: false
-description: >-
-  Le site https://cyboolo.io est édité par Olivier TRUC, Auto entrepreneur, en
-  cours d'immatriculation, dont le siège social est sis au 15 bis rue de
-  l'église, 31330 ONDES.
-dateModified: '2017-09-05T20:06:57.737Z'
-datePublished: '2017-09-05T20:06:58.564Z'
+description: ''
+dateModified: '2017-09-05T20:18:28.350Z'
+datePublished: '2017-09-05T20:18:29.599Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -20,17 +17,15 @@ _type: Blurb
 ---
 # **VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.**
 
----
-
 ## MENTIONS LEGALES
 
 ---
 
 ### Article 1 - Identification de l'éditeur et de l'hébergeur du site
 
-**Le site https://cyboolo.io** est édité par Olivier TRUC, Auto entrepreneur, en cours d'immatriculation, dont le siège social est sis au 15 bis rue de l'église, 31330 ONDES.
+**Le site [cyboolo.io][0]** est édité par Olivier TRUC, fondateur de cyboolo, micro-entreprise en cours d'immatriculation, dont le siège social est sis au 15 bis rue de l'église, 31330 ONDES.
 
-Directeur de la publication : Olivier TRUC, Auto entrepreneur, joignable au 0612194405 ou à l'adresse support@cyboolo.com.
+Directeur de la publication : Olivier TRUC, joignable au 0612194405 ou à l'adresse support@cyboolo.com.
 
 **Le site est hébergé par Rituwall Inc**  
 2816 Clay Street  
@@ -42,3 +37,5 @@ Fax: 866-973-5510_
 Site web : https://thegrid.io
 
 Les informations concernant la collecte et le traitement des données personnelles (politique et déclaration) sont fournies dans la charte de données personnelles du site.
+
+[0]: https://cyboolo.io/
