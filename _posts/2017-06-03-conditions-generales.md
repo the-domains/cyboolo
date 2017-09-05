@@ -5,8 +5,8 @@ description: >-
   Olivier TRUC, fondateur de cyboolo, micro-entreprise en cours
   d'immatriculation dont le siège social est sis au 15 bis rue de l'église,
   31330 ONDES (ci-après « Olivier TRUC »).
-dateModified: '2017-09-05T20:19:32.982Z'
-datePublished: '2017-09-05T20:19:33.855Z'
+dateModified: '2017-09-05T20:22:01.534Z'
+datePublished: '2017-09-05T20:22:02.767Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -44,7 +44,7 @@ L'Utilisateur du Site est invité à lire attentivement ces CG, à les imprimer 
 
 ### Article 2 - Application des CG et objet du Site
 
-Le présent site est édité par Olivier TRUC, Auto entrepreneur.
+Le présent site est édité par Olivier TRUC.
 
 Les informations légales concernant l'hébergeur et l'éditeur du site, notamment les coordonnées et les éventuelles informations de capital et d'immatriculation, sont fournies dans les mentions légales du présent site.
 
