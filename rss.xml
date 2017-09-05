@@ -4,16 +4,9 @@
         <description><![CDATA[Lancez votre site e-commerce de vente de cours en ligne]]></description>
         <link>http://cyboolo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Sep 2017 20:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2017 20:08:28 GMT</lastBuildDate>
         <atom:link href="http://cyboolo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 Sep 2017 20:07:02 GMT</pubDate>
-        <item>
-            <title><![CDATA[DEMO]]></title>
-            <description><![CDATA[<article><h1>DEMO</h1><p>Exemple et tutoriels</p></article>]]></description>
-            <link>https://cyboolo-demo.netlify.com/</link>
-            <guid isPermaLink="false">9eac1b0c-4fd5-401c-953d-f7b6a6667e0d</guid>
-            <pubDate>Tue, 05 Sep 2017 20:05:24 GMT</pubDate>
-        </item>
+        <pubDate>Tue, 05 Sep 2017 20:08:26 GMT</pubDate>
         <item>
             <title><![CDATA[Enregistrez vos vidéos en ligne]]></title>
             <description><![CDATA[<h1><strong>Enregistrez vos vidéos en ligne</strong></h1>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F220227369&url=https%3A%2F%2Fvimeo.com%2F220227369&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F638179540_1280.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -27,6 +20,13 @@
             <link>https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE</link>
             <guid isPermaLink="false">8802bec7-c81e-4bbf-af90-8a43b6599f37</guid>
             <pubDate>Thu, 10 Aug 2017 19:26:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DEMO]]></title>
+            <description><![CDATA[<article><h1>DEMO</h1><p>Exemple et tutoriels</p></article>]]></description>
+            <link>https://cyboolo-demo.netlify.com/</link>
+            <guid isPermaLink="false">9eac1b0c-4fd5-401c-953d-f7b6a6667e0d</guid>
+            <pubDate>Tue, 05 Sep 2017 20:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suivez cyboolo sur les réseaux sociaux]]></title>
