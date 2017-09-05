@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
   technologies web
-dateModified: '2017-09-05T20:06:57.737Z'
-datePublished: '2017-09-05T20:06:58.563Z'
+dateModified: '2017-09-05T20:08:22.917Z'
+datePublished: '2017-09-05T20:08:23.224Z'
 title: Rédigez depuis votre explorateur
 author: []
 publisher: {}
