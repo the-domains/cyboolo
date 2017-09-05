@@ -6,8 +6,8 @@ description: >-
   PCI-DSS des transactions. Paiements par VISA/MASTERCARD. Technologies anti
   fraudes et 3D SECURE. Les gains de vos ventes sont transférés directement sur
   votre compte en banque.
-dateModified: '2017-09-01T11:16:40.417Z'
-datePublished: '2017-09-01T11:16:41.475Z'
+dateModified: '2017-09-05T20:00:20.160Z'
+datePublished: '2017-09-05T20:00:20.893Z'
 title: Système de paiement intégré
 author: []
 publisher: {}
