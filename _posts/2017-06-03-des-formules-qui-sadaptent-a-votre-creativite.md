@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-05T20:08:22.917Z'
-datePublished: '2017-09-05T20:08:23.167Z'
+dateModified: '2017-09-10T14:10:26.261Z'
+datePublished: '2017-09-10T14:10:26.973Z'
 title: Des formules qui s’adaptent à votre créativité
 author: []
 publisher: {}
@@ -15,4 +15,6 @@ _type: Blurb
 ---
 # **Des formules qui s'adaptent à votre créativité**
 
-### **Vous pouvez démarrer gratuitement**. Toutes nos formules vous permettent de **vendre vos cours en ligne** en quelques minutes. Passez en premium à partir de 30 €/mois pour bénéficier de plus de fonctionnalités.
+## **Vous pouvez démarrer gratuitement**.
+
+### Toutes nos formules vous permettent de **vendre vos cours en ligne** en quelques minutes. Passez en premium à partir de 30 €/mois pour bénéficier de plus de fonctionnalités.
