@@ -4,9 +4,9 @@
         <description><![CDATA[Lancez votre site e-commerce de vente de cours en ligne]]></description>
         <link>http://cyboolo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Sep 2017 09:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2017 14:11:49 GMT</lastBuildDate>
         <atom:link href="http://cyboolo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 Sep 2017 09:13:36 GMT</pubDate>
+        <pubDate>Sun, 10 Sep 2017 14:11:48 GMT</pubDate>
         <item>
             <title><![CDATA[Enregistrez vos vidéos en ligne]]></title>
             <description><![CDATA[<h1><strong>Enregistrez vos vidéos en ligne</strong></h1>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F220227369&url=https%3A%2F%2Fvimeo.com%2F220227369&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F638179540_1280.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -27,6 +27,13 @@
             <link>http://cyboolo.io/suivez-cyboolo-sur-les-reseaux-sociaux/index.html</link>
             <guid isPermaLink="false">19558c49-c08c-482c-8442-29169a882fce</guid>
             <pubDate>Mon, 05 Jun 2017 10:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Powered by cyboolo.io]]></title>
+            <description><![CDATA[<article><h1>Powered by cyboolo.io</h1><img src="https://d33wubrfki0l68.cloudfront.net/bf85c1a199f96cda9b9983d0dce9e30dd9f6708c/65073/assets/img/cyboolo_mark.png"></article>]]></description>
+            <link>https://cyboolo-demo.netlify.com/</link>
+            <guid isPermaLink="false">17e6db63-bb84-40a8-892a-cc010e7c5cbc</guid>
+            <pubDate>Sun, 10 Sep 2017 14:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
