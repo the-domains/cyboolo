@@ -4,8 +4,8 @@ description: >-
   Cours de yoga, de cuisine, de maths, de création d'applis, de gym suédoise, de
   bricolage, de jardinage, d'économie, de solfège, de trading, d'oenologie, de
   FIFA, de Photoshop CC, de Javascript, de philosophie, de data science, ...
-dateModified: '2017-09-05T20:08:22.917Z'
-datePublished: '2017-09-05T20:08:23.228Z'
+dateModified: '2017-09-10T09:12:07.183Z'
+datePublished: '2017-09-10T09:12:08.125Z'
 title: A court d’idées ?
 author: []
 publisher: {}
@@ -22,3 +22,7 @@ _type: Blurb
 ## Partagez votre passion, transmettez vos connaissances et valorisez vos compétences
 
 Cours de yoga, de cuisine, de maths, de création d'applis, de gym suédoise, de bricolage, de jardinage, d'économie, de solfège, de trading, d'oenologie, de FIFA, de Photoshop CC, de Javascript, de philosophie, de data science, ...
+
+[DEMO et tutoriels pour apprendre à utiliser cyboolo][0]
+
+[0]: https://cyboolo-demo.netlify.com/ "DEMO"
