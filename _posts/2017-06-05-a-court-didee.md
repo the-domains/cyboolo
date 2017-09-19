@@ -1,12 +1,12 @@
 ---
 inFeed: true
 description: >-
-  Cours de yoga, de cuisine, de maths, de création d'applis, de gym suédoise, de
-  bricolage, de jardinage, d'économie, de solfège, de trading, d'oenologie, de
-  FIFA, de Photoshop CC, de Javascript, de philosophie, de data science, ...
-dateModified: '2017-09-10T14:08:57.102Z'
-datePublished: '2017-09-10T14:08:58.193Z'
-title: A court d’idées ?
+  Online courses about yoga, cooking, maths, app building, sweedish gym, handy
+  work, gardening, economy, musical theory, trading, wine, FIFA, Photoshop CC,
+  Javascript, philosophy, data science, ...
+dateModified: '2017-09-19T19:10:10.322Z'
+datePublished: '2017-09-19T19:10:11.169Z'
+title: Lacking inspiration ?
 author: []
 publisher: {}
 via: {}
@@ -16,13 +16,9 @@ datePublishedOriginal: '2017-06-05T08:56:03.992Z'
 _type: Blurb
 
 ---
-# **A court d'idées ?**
+# **Lacking inspiration ?**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6548f6b-72eb-4fb2-8715-e71597a5f6f5.jpg)
 
-## Partagez votre passion, transmettez vos connaissances et valorisez vos compétences
+## Share your passion, pass your knowledge and promote your skills
 
-Cours de yoga, de cuisine, de maths, de création d'applis, de gym suédoise, de bricolage, de jardinage, d'économie, de solfège, de trading, d'oenologie, de FIFA, de Photoshop CC, de Javascript, de philosophie, de data science, ...
-
-**[DEMO ET TUTORIELS][0]**
-
-[0]: https://cyboolo-demo.netlify.com/
+Online courses about yoga, cooking, maths, app building, sweedish gym, handy work, gardening, economy, musical theory, trading, wine, FIFA, Photoshop CC, Javascript, philosophy, data science, ...
