@@ -5,7 +5,7 @@ purpose:
     label: A vous de jouer
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
   - type: external
-    url: 'https://thegrid.io/cyboolo-english'
+    url: 'https://thegrid.ai/cyboolo-english'
     label: "\uD83C\uDDEC\uD83C\uDDE7"
 github: true
 description: 'Créez, publiez et monétisez rapidement, simplement... sans savoir coder !'
