@@ -2,7 +2,7 @@ name: cyboolo
 analytics: {}
 purpose:
   - type: external
-    label: A vous de jouer
+    label: Démarrer
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
   - type: external
     url: 'https://thegrid.ai/cyboolo-english'
