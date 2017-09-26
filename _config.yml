@@ -5,7 +5,7 @@ purpose:
     label: START
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
   - type: external
-    url: 'https://thegrid.ai/cyboolo-english'
+    url: 'https://en.cyboolo.io'
     label: "\uD83C\uDDEC\uD83C\uDDE7 EN"
 github: true
 description: 'Créez, publiez et monétisez rapidement, simplement... sans savoir coder !'
