@@ -5,8 +5,8 @@ description: >-
   Olivier TRUC, fondateur de cyboolo, micro-entreprise en cours
   d'immatriculation dont le siège social est sis au 15 bis rue de l'église,
   31330 ONDES (ci-après « Olivier TRUC »).
-dateModified: '2017-11-06T21:34:02.687Z'
-datePublished: '2017-11-06T21:34:04.256Z'
+dateModified: '2017-11-06T21:41:49.435Z'
+datePublished: '2017-11-06T21:41:50.683Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -101,7 +101,7 @@ Sauf mention contraire, un Cours est publié sur le Site pour une période au mo
 
 En acceptant les présentes CG, le Vendeur accepte expressément que tout Cours qu'il souhaiterait ne plus proposer à la vente restera accessible auprès des Acheteurs s'étant porté acquéreurs du Cours avant qu'il ne soit plus proposé à la vente, pour une durée égale à UNE ANNEE afin de laisser un temps d'apprentissage raisonnable à ces derniers.
 
-Le Vendeur qui souhaite retiré un Cours publié et mis en vente doit en faire la demande par mail à support@cyboolo.com
+Le Vendeur qui souhaite retirer un Cours publié et mis en vente doit en faire la demande par mail à support@cyboolo.com
 
 ### Article 7 - Obligations du Vendeur
 
