@@ -5,8 +5,8 @@ description: >-
   Olivier TRUC, fondateur de cyboolo, micro-entreprise en cours
   d'immatriculation dont le siège social est sis au 15 bis rue de l'église,
   31330 ONDES (ci-après « Olivier TRUC »).
-dateModified: '2017-09-05T20:24:19.266Z'
-datePublished: '2017-09-05T20:24:20.305Z'
+dateModified: '2017-11-06T21:34:02.687Z'
+datePublished: '2017-11-06T21:34:04.256Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -62,7 +62,7 @@ L'Utilisateur reconnaît la valeur de preuve des systèmes d'enregistrement auto
 
 L'acceptation des présentes CG suppose de la part des Utilisateurs qu'ils jouissent de la capacité juridique nécessaire pour cela. Si l'Utilisateur est mineur ou ne dispose pas de cette capacité juridique, il déclare avoir l'autorisation d'un tuteur, d'un curateur ou de son représentant légal.
 
-**En acceptant les présentes CG, le Client ou l'Acheteur demande expressément que l'exécution du service commence avant la fin du délai de rétractation de 14 jours afin de pouvoir bénéficier du service immédiatement.**
+**En acceptant les présentes CG, le Client ou l'Acheteur d'un contenu numérique non fourni sur un support matériel demande expressément que l'exécution du service commence avant la fin du délai de rétractation de 14 jours afin de pouvoir bénéficier du service immédiatement. En acceptant les présentes CG, Le Client ou l'Acheteur renonce expressément à son droit de rétractation.**
 
 ### Article 3 - Qualité d'intermédiaire du Site
 
@@ -91,7 +91,7 @@ L'auteur renonce donc à ses droits sur le contenu des contributions, au profit 
 
 ### Article 5 - Evaluation des Vendeurs
 
-L'Editeur peut mettre à la disposition des Acheteurs des moyens d'évaluation des Vendeurs à l'issue de la confirmation de la réalisation du service concerné par un Cours, permettant ainsi aux Acheteurs de sélectionner les Cours des Vendeurs qui respectent le mieux les présentes CG.
+L'Editeur peut mettre à la disposition des Acheteurs des moyens d'évaluation des Cours publiés par les Vendeurs, permettant ainsi aux Acheteurs de sélectionner les Cours des Vendeurs qui respectent le mieux les présentes CG.
 
 L'Editeur du Site n'assure aucun contrôle de l'appréciation réalisée par les Acheteurs, qu'il se contente de stocker sur le Site. Il peut toutefois être amené à supprimer, sans préavis, toute appréciation dont le contenu lui aurait été signalé comme étant illicite. Les évaluations laissées par l'Acheteur, ainsi que son pseudonyme, seront visibles par tout Utilisateur du Site.
 
@@ -99,7 +99,9 @@ L'Editeur du Site n'assure aucun contrôle de l'appréciation réalisée par les
 
 Sauf mention contraire, un Cours est publié sur le Site pour une période au moins égale à la durée correspondante à la Prestation, gratuite ou payante, choisie par le Vendeur.
 
-En acceptant les présentes CG, le Vendeur accepte expressément que tout Cours qu'il souhaiterait ne plus proposer à la vente restera accessible auprès des Acheteurs s'étant porté acquéreurs du Cours avant qu'il ne soit plus proposé à la vente, pour une durée égale à un an afin de laisser un temps d'apprentissage raisonnable à ces derniers.
+En acceptant les présentes CG, le Vendeur accepte expressément que tout Cours qu'il souhaiterait ne plus proposer à la vente restera accessible auprès des Acheteurs s'étant porté acquéreurs du Cours avant qu'il ne soit plus proposé à la vente, pour une durée égale à UNE ANNEE afin de laisser un temps d'apprentissage raisonnable à ces derniers.
+
+Le Vendeur qui souhaite retiré un Cours publié et mis en vente doit en faire la demande par mail à support@cyboolo.com
 
 ### Article 7 - Obligations du Vendeur
 
@@ -127,41 +129,41 @@ L'Utilisateur inscrit au Site (membre) a la possibilité d'y accéder en se conn
 
 La création d'un espace personnel est un préalable indispensable à toute contribution de l'Utilisateur sur le présent Site. A cette fin, l'Utilisateur sera invité à fournir un certain nombre d'informations personnelles. Il s'engage à fournir des informations exactes.
 
-La collecte des données a pour objet la création d'un "compte membre" qui permet la personnalisation du site de l'Utilisateur, la gestion des prestations souscrites mais aussi la validation des informations de l'Utilisateur auprès de notre prestataire de gestion des paiements MANGOPAY (https://www.mangopay.com/fr). Ce compte permet à l'Utilisateur de consulter ses contributions, ses factures et les abonnements dont il est titulaire sur le Site. Si les données contenues dans ce compte venaient à disparaître à la suite d'une panne technique ou d'un cas de force majeure, la responsabilité du Site et de son Editeur ne pourrait être engagée, ces informations n'ayant aucune valeur probante mais uniquement un caractère informatif. Les pages relatives aux comptes membres sont librement imprimables par le titulaire du compte en question mais ne constituent nullement une preuve, elles n'ont qu'un caractère informatif destiné à assurer une gestion efficace du service ou des contributions par l'Utilisateur.
+La collecte des données a pour objet la création d'un "compte membre" qui permet la personnalisation du site de l'Utilisateur, la gestion des prestations souscrites mais aussi la validation des informations de l'Utilisateur auprès de notre prestataire de gestion des paiements MANGOPAY (https://www.mangopay.com/fr). Ce compte permet à l'Utilisateur de consulter ses contributions, ses factures et les Prestations dont il est titulaire sur le Site. Si les données contenues dans ce compte venaient à disparaître à la suite d'une panne technique ou d'un cas de force majeure, la responsabilité du Site et de son Editeur ne pourrait être engagée, ces informations n'ayant aucune valeur probante mais uniquement un caractère informatif. Les pages relatives aux comptes membres sont librement imprimables par le titulaire du compte en question mais ne constituent nullement une preuve, elles n'ont qu'un caractère informatif destiné à assurer une gestion efficace du service ou des contributions par l'Utilisateur.
 
-Chaque Utilisateur est libre de fermer son compte et ses données sur le Site. Pour ceci, il doit adresser un e-mail à Olivier TRUC indiquant qu'il souhaite supprimer son compte. Aucune récupération de ses données ne sera alors possible.
+Chaque Utilisateur est libre de fermer son compte et ses données sur le Site. Pour ceci, il doit adresser un e-mail à support@cyboolo.com indiquant qu'il souhaite supprimer son compte. Aucune récupération de ses données ne sera alors possible.
 
 L'Editeur se réserve le droit exclusif de supprimer le compte de tout Utilisateur qui aurait contrevenu aux présentes CG (notamment, mais sans que cet exemple n'ait un quelconque caractère exhaustif, lorsque l'Utilisateur aura fourni sciemment des informations erronées, lors de son inscription et de la constitution de son espace personnel) ou encore tout compte inactif depuis au moins une année. Ladite suppression ne sera pas susceptible de constituer un dommage pour l'Utilisateur exclu qui ne pourra prétendre à aucune indemnité de ce fait. Cette exclusion n'est pas exclusive de la possibilité, pour l'Editeur, d'entreprendre des poursuites d'ordre judiciaire à l'encontre de l'Utilisateur, lorsque les faits l'auront justifié.
 
-Tout Utilisateur, pour vendre ses Cours sur le Site, doit créer un "Wallet" afin de s'authentifier auprès de notre gestionnaire de paiements MANGOPAY (https://www.mangopay.com/fr). Ce "Wallet", ou portefeuille, permet à l'Utilisateur de percevoir le montant de ses ventes de Cours et de les transférer sur son compte en banque après déduction des commissions prélevées par le Site en fonction de le formule souscrite par l'Utilisateur. Si l'Utilisateur ne créé pas de "Wallet", il ne sera pas autorisé à publier de Cours sur le Site et par conséquent ne pourra pas vendre ses Cours. Lorsqu'il crée un "Wallet", l'Utilisateur est invité à fournir des documents permettant à MANGOPAY de valider son identité et d'authentifier sa société (documents Know Your Customer). Les documents doivent être téléchargés sur le Site dans la rubrique prévue à cet effet. Une fois téléchargés, ces documents sont vérifiés automatiquement par MANGOPAY. Si l'Utilisateur ne télécharge pas ces documents ou bien si les documents ne sont pas validés par MANGOPAY, l'Utilisateur sera limité à 1000,00 € de vente par an. L'Utilisateur ne pourra prétendre à aucune indemnité de ce fait et cette limitation ne pourra prendre fin qu'une fois que les documents demandés auront été téléchargés sur le Site et validés par MANGOPAY.
+Tout Utilisateur, pour vendre ses Cours sur le Site, doit créer un "Wallet" afin de s'authentifier auprès de notre gestionnaire de paiements MANGOPAY (https://www.mangopay.com/fr). Ce "Wallet", ou portefeuille, permet à l'Utilisateur de percevoir le montant de ses ventes de Cours et de les transférer sur son compte en banque après déduction des éventuelles commissions prélevées par le Site en fonction de le formule souscrite par l'Utilisateur. Si l'Utilisateur ne créé pas de "Wallet", il ne sera pas autorisé à publier de Cours sur le Site et par conséquent ne pourra pas vendre ses Cours. Lorsqu'il crée un "Wallet", l'Utilisateur est invité à fournir des documents permettant à MANGOPAY de valider son identité et d'authentifier sa société (documents dits KYC pour Know Your Customer qui se traduit par Connaissance de votre Client). Les documents doivent être téléchargés sur le Site dans la rubrique prévue à cet effet (Rubrique Mon Compte / Onglet Infos légales). Une fois téléchargés, ces documents sont vérifiés automatiquement par MANGOPAY. Si l'Utilisateur ne télécharge pas ces documents ou bien si les documents ne sont pas validés par MANGOPAY, l'Utilisateur sera limité à 1000,00 € de vente par an. L'Utilisateur ne pourra prétendre à aucune indemnité de ce fait et cette limitation ne pourra prendre fin qu'une fois que les documents demandés auront été téléchargés sur le Site et validés par MANGOPAY. Le statut des documents téléchargés et soumis pour validation à MANGOPAY est indiqué à l'utilisateur (En cours de validation, Validé ou Refusé). La durée nécessaire pour la validation des documents par MANGOPAY est de quelques jours ouvrés, il est donc nécessaire que l'Utilisateur anticipe cette durée de validation voire l'éventuel refus par MANGOPAY.
 
 ### Article 9 - Prestations payantes proposées sur le Site et tarifs
 
 Les Prestations proposées par le Site au Client sont celles qui figurent dans le catalogue publié sur le Site et sont distinctes des services proposés par les Vendeurs. Le Client peut passer commande de ces Prestations et peut effectuer son règlement par carte bancaire ou par virement bancaire. Les paiements par carte bancaire se font au moyen de transactions sécurisées fournies par un prestataire de plateforme de paiement en ligne (chargebee et stripe). Les paiements par virement bancaire se font au moyen de transactions sécurisées fournies par un prestataire de plateforme de paiement en ligne (chargebee et gocardless).
 
-L'Editeur du Site précise sur le catalogue si la facturation est à la période, ou bien fixée selon un niveau d'utilisation des ressources, ou tout autre moyen d'accès. Sauf indication contraire lors de la souscription au service, le mode de facturation par défaut qui s'applique est le suivant : gratuit (formule cyboolo STANDARD du catalogue). En cas de prélèvement automatique, l'Editeur du Site précisera au Client dans l'interface de paiement la date du prélèvement, et son montant, ainsi que la fréquence, celle-ci pouvant dépendre de chaque Client.
+L'Editeur du Site précise sur le catalogue si la facturation est à la période, ou bien fixée selon un niveau d'utilisation des ressources, ou tout autre moyen d'accès. Sauf indication contraire lors de la souscription au service, le mode de facturation par défaut qui s'applique est le suivant : gratuit (formule cyboolo STANDARD du catalogue). En cas de prélèvement automatique, l'Editeur du Site précisera au Client dans l'interface de paiement ou sur la facture la date du prélèvement, et son montant, ainsi que la fréquence, celle-ci pouvant dépendre de chaque Client.
 
-L'Editeur du Site n'a accès à aucune donnée relative aux moyens de paiement du Client. Le paiement est effectué directement entre les mains des prestataires (stripe ou gocardless).
+L'Editeur du Site n'a accès à aucune donnée relative aux moyens de paiement du Client. Le paiement est effectué directement entre les mains des prestataires (stripe ou gocardless). Les factures sont traitées et stockées par Chargebee.
 
-Les prix figurant dans le catalogue sont des prix entendus en Euros net à payer (TVA non applicable, selon l'article 293 B du CGI).
+Les prix figurant dans le catalogue sont des prix entendus en Euros net à payer (TVA non applicable, selon l'article 293 B du CGI pour les Clients qui résident en France. [La TVA s'applique au taux standard du pays dans lequel réside le Client pour les autres pays de l'UE s'agissant de services électroniques][0]).
 
-Olivier TRUC se réserve le droit de répercuter tout changement du taux de TVA sur le prix des produits ou des services, et de modifier ses prix à tout moment. Néanmoins, le prix figurant au catalogue le jour de la commande sera le seul applicable au Client.
+Olivier TRUC se réserve le droit de répercuter tout changement du taux de TVA sur le prix des produits ou des services, et de modifier ses prix à tout moment. Néanmoins, le prix figurant au catalogue le jour de la commande ou lors du renouvellement d'une formule mensuelle sera le seul applicable au Client.
 
 ### Options payantes
 
 Le Vendeur a la possibilité de souscrire une option payante. Pour ce faire, il devra souscrire à la formule payante cyboolo PREMIUM.
 
-Le prix de chaque option payante varie en fonction du type d'option souscrite. Le cas échéant, la grille tarifaire des options payantes (marque blanche, temps de vidéo en ligne, réduction des commissions) est présentée sur le Site.
+Le prix de chaque option payante varie en fonction du type d'option souscrite. La grille tarifaire des options payantes (marque blanche, temps de vidéo en ligne, réduction des commissions) est présentée sur le Site.
 
 ### Options payantes
 
-Certaines options de souscription peuvent nécessiter un paiement. La souscription d'une offre payante pour disposer de certaines fonctionnalités pour publier un ou des Cours est considéré comme l'achat d'une Prestation sur le Site, et est donc régi par les règles définies au paragraphe relatif aux modalités de souscription d'une Prestation des présentes CG.
+Certaines options de souscription peuvent nécessiter un paiement. La souscription d'une offre payante pour disposer de certaines fonctionnalités pour publier un ou des Cours est considérée comme l'achat d'une Prestation sur le Site, et est donc régie par les règles définies au paragraphe relatif aux modalités de souscription d'une Prestation des présentes CG.
 
-Olivier TRUC archivera les bons de commandes et les factures sur un support fiable et durable constituant une copie fidèle. Les registres informatisés seront considérés par les parties comme preuve des communications, commandes, paiements et transactions intervenus entre les parties.
+Les factures sont traitées et stockées sur un support fiable et durable constituant une copie fidèle par notre prestataire Chargebee. Les registres informatisés seront considérés par les parties comme preuve des communications, commandes, paiements et transactions intervenus entre les parties.
 
 ### Article 10 - Souscription et paiement des Prestations
 
-Afin de procéder à sa commande, le Client choisit la Prestation qu'il souhaite commander en sélectionnant l'option souhaitée du catalogue.
+Afin de procéder à sa commande, le Client choisit la Prestation qu'il souhaite commander en sélectionnant la formule et, éventuellement, l'option ou les options souhaitée(s) du catalogue.
 
 Dès lors que le Client estimera avoir sélectionné la Prestation qu'il souhaite acheter, il aura la possibilité, pour valider sa commande, d'accéder à un module de paiement sécurisé en cliquant sur le bouton prévu à cet effet. Une fenêtre s'affichera alors sur laquelle lui seront communiqués les caractéristiques de la Prestation commandée, ainsi que son prix unitaire.
 
@@ -205,7 +207,7 @@ Dès que l'Acheteur a finalisé sa commande sur le Site, une confirmation de la 
 
 Le Vendeur est responsable de la bonne réservation de la prestation de services, conformément aux dispositions légales applicables.
 
-Les coordonnées de l'Acheteur seront accessibles au Vendeur une fois le paiement effectué.
+Les coordonnées de l'Acheteur seront accessibles au Vendeur une fois le paiement effectué (Rubrique Mon compte / Onglet Clients).
 
 Les réclamations, exercices du droit de rétractation et demandes de remboursement effectués par l'Acheteur doivent être adressés au Vendeur et seront directement gérées entre l'Acheteur et le Vendeur. La transaction sera réputée clôturée 21 jours à compter de l'expédition par le Vendeur de la commande, sauf réclamation adressée par l'Acheteur.
 
@@ -225,17 +227,17 @@ Un Vendeur sur le site est aussi, conformément au Code du Commerce, tenu de com
 
 Le Vendeur est seul responsable de la mise en vente des services qu'il propose sur le site. Sur le descriptif associé aux services qu'il propose sur le site, le Vendeur s'engage à agir de bonne foi. Il est seul responsable de l'exactitude des mentions y figurant et s'engage à ce qu'elles ne risquent pas d'induire en erreur les acheteurs potentiels, tant sur les caractéristiques du service, que sur son état ou son prix. Le Vendeur communique aux Acheteurs toutes les informations leur permettant de connaître les caractéristiques essentielles du service.
 
-Le prix de vente des Services est défini librement par le Vendeur, dans le respect des lois et règlements en vigueur. **Afin de respecter le modèle économique du Site, le Vendeur accepte expressément que le prix de vente ne soit pas inférieur à un montant de 50 €. Il n'est donc pas possible de proposer des Cours gratuits sur le Site.** Ce prix doit être mentionné sur le site toutes taxes et frais compris (notamment TVA, frais de transaction, commissions, etc.).
+Le prix de vente des Services est défini librement par le Vendeur, dans le respect des lois et règlements en vigueur. **Afin de respecter le modèle économique du Site, le Vendeur accepte expressément que le prix de vente ne soit pas inférieur à un montant de 50 € HT. Il n'est donc pas possible de proposer des Cours gratuits sur le Site.** Ce prix doit être mentionné sur le Site toutes taxes et frais compris (notamment TVA, frais de transaction, commissions, etc.).
 
-Les contrats de vente services proposés par le Vendeur sur le Site sont conclus entre le Vendeur et l'Acheteur sous la condition résolutoire que le service soit disponible. Le Vendeur s'engage à n'offrir sur le site que des services disponibles et à supprimer sans délai du site toute offre se rapportant à des services qui ne sont plus disponibles.
+Les contrats de vente services proposés par le Vendeur sur le Site sont conclus entre le Vendeur et l'Acheteur sous la condition résolutoire que le service soit disponible. Le Vendeur s'engage à n'offrir sur le site que des services disponibles et à supprimer sans délai du Site toute offre se rapportant à des services qui ne sont plus disponibles.
 
-Le Vendeur est informé dans son compte Vendeur, lorsqu'un service qu'il a mis en ligne a fait l'objet d'une commande par un Acheteur. Le Vendeur doit alors procéder à la mise à disposition du service concerné dans un délai de 2 jours ouvrés suivant la réception de l'information visée à l'alinéa précédent.
+Le Vendeur est informé dans son compte Vendeur et par email, lorsqu'un service qu'il a mis en ligne a fait l'objet d'une commande par un Acheteur. Le Vendeur doit alors procéder à la mise à disposition du service concerné dans un délai de 2 jours ouvrés suivant la réception de l'information visée à l'alinéa précédent.
 
 ### Responsabilité du Vendeur
 
 En vertu de l'article 15 de la loi du 21 juin 2004 pour la confiance dans l'économie numérique tout vendeur ou mandataire assurant le service après-vente est responsable de plein droit de la bonne exécution du contrat conclu à distance. Ce principe signifie que le Vendeur devra s'assurer de la livraison du bien commandé, sans dommage ni absence de conformité aux caractéristiques précisées dans l'offre. Conformément à l'article 15-I, le Vendeur ne pourra s'exonérer de sa responsabilité que dans trois situations : en cas de faute commise par l'Acheteur, qu'il devra alors être en mesure de prouver, en cas de force majeure ou de faits irrésistibles et imprévisibles d'un tiers au contrat.
 
-Le Vendeur est seul responsable des contrats qu'il conclut avec les acheteurs et, à ce titre, s'engage à respecter les dispositions législatives applicables et notamment la réglementation sur la protection des consommateurs et sur la vente à distance.
+Le Vendeur est seul responsable des contrats qu'il conclut avec les Acheteurs et, à ce titre, s'engage à respecter les dispositions législatives applicables et notamment la réglementation sur la protection des consommateurs et sur la vente à distance.
 
 **Le Vendeur est seul responsable de la gestion, de l'édition, du stockage et de l'envoi des factures à l'Acheteur.**
 
@@ -243,19 +245,19 @@ Le Vendeur est seul responsable des contrats qu'il conclut avec les acheteurs et
 
 Le Site permet la publication et la mise en ligne de Cours mis en vente par le Vendeur, à destination des Utilisateurs du site, et éventuellement acquis par un acquéreur alors réputé Acheteur.
 
-Les informations enregistrées lors de la prise de commande engagent l'Acheteur ; en cas d'erreur dans le libellé de ses coordonnées, le Vendeur ne saurait être tenu responsable de l'impossibilité de livrer l'Acheteur ou de lui envoyer une facture si ce dernier a mal renseigné le formulaire d'inscription.
+Les informations enregistrées lors de la prise de commande engagent l'Acheteur ; en cas d'erreur dans le libellé de ses coordonnées, le Vendeur ne saurait être tenu responsable de l'impossibilité de livrer l'Acheteur ou de lui envoyer une facture si ce dernier a mal renseigné les formulaires d'inscription et de commande.
 
 ### Article 17 - Rétractation de l'Acheteur
 
-Si l'Acheteur Consommateur a passé commande sur le Site d'un produit auprès d'un Vendeur identifié comme tiers professionnel, et conformément aux articles L.221-18 et suivants du Code de la consommation, si le droit de rétractation s'applique pour ce produit ou service (voir les exceptions listées dans l'article L.221-28, et rappelées ci-dessous), il bénéficie d'un délai de 14 jours à compter de la réception de sa commande pour exercer auprès du Vendeur son droit de rétractation (ou à compter de la date à laquelle il a reçu le dernier des articles commandés si ceux-ci ont fait l'objet d'un envoi séparé par le Vendeur).
+Si l'Acheteur Consommateur a passé commande sur le Site d'un produit auprès d'un Vendeur identifié comme tiers professionnel, et conformément aux articles L.221-18 et suivants du Code de la consommation, **si le droit de rétractation s'applique pour ce produit ou service (voir les exceptions listées dans l'article L.221-28, et rappelées ci-dessous)**, il bénéficie d'un délai de 14 jours à compter de la réception de sa commande pour exercer auprès du Vendeur son droit de rétractation (ou à compter de la date à laquelle il a reçu le dernier des articles commandés si ceux-ci ont fait l'objet d'un envoi séparé par le Vendeur).
 
-Le remboursement sera effectué par l'Editeur du Site si la commande a été passée et réglée sur le Site, ou par le Vendeur si la transaction s'est déroulée hors du Site. Le remboursement sera effectué en utilisant le même moyen de paiement que celui choisi par l'Acheteur pour la transaction initiale, sauf accord exprès de l'Acheteur pour que l'Editeur (ou, le cas échéant, le Vendeur) utilise un autre mode de paiement, et dans la mesure où le remboursement n'occasionne pas de frais pour l'Acheteur.
+Le remboursement sera effectué par le Vendeur à l'Editeur du Site qui remboursera ensuite l'Acheteur. Le remboursement à l'Acheteur sera effectué en utilisant le même moyen de paiement que celui choisi par l'Acheteur pour la transaction initiale, sauf accord exprès de l'Acheteur pour que l'Editeur (ou, le cas échéant, le Vendeur) utilise un autre mode de paiement, et dans la mesure où le remboursement n'occasionne pas de frais pour l'Acheteur.
 
 **L'Editeur du Site étant simple intermédiaire entre l'Acheteur et le Vendeur, il n'aura pas de rôle à jouer dans le processus de retour.**
 
 Il est rappelé ici que selon l'article L.221-28 du Code de la consommation, le droit de rétractation ne peut être exercé pour les contrats suivants :
 
-* fourniture de services pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation
+* **fourniture de services pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation**
 * fourniture de biens ou de services dont le prix dépend de fluctuations sur le marché financier échappant au contrôle du professionnel et susceptibles de se produire pendant le délai de rétractation
 * fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés
 * fourniture de biens susceptibles de se détériorer ou de se périmer rapidement
@@ -267,7 +269,7 @@ Il est rappelé ici que selon l'article L.221-28 du Code de la consommation, le 
 * fourniture d'un journal, d'un périodique ou d'un magazine, sauf pour les contrats d'abonnement à ces publications
 * conclus lors d'une enchère publique
 * prestations de services d'hébergement, autres que d'hébergement résidentiel, de services de transport de biens, de locations de voitures, de restauration ou d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée
-* fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation.
+* **fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation.**
 
 Conformément à l'article L.221-5 du Code de la consommation, l'Acheteur Consommateur peut trouver ci-dessous un formulaire type de rétractation pour une commande passée sur le Site auprès d'un Annonceur Vendeur professionnel :
 
@@ -299,11 +301,11 @@ L'Editeur n'est pas responsable des publications des Utilisateurs, de leur conte
 
 L'Editeur s'engage à constamment mettre à jour le contenu du Site et à fournir aux Utilisateurs des informations justes, claires, précises et réactualisées. Le Site est en principe accessible en permanence, sauf pendant les opérations techniques de maintenance et de mise à jour du contenu. L'Editeur ne saurait être tenu responsable de dommages résultant de l'indisponibilité du Site ou de parties de celui-ci.
 
-La responsabilité de l'Editeur du Site ne peut être engagée en raison d'une indisponibilité technique de la connexion, qu'elle soit due notamment à un cas de force majeure, à une maintenance, à une mise à jour, à une modification du Site, à une intervention de l'hébergeur, à une grève interne ou externe, à une panne de réseau, ou encore à une coupure d'alimentation électrique.
+La responsabilité de l'Editeur du Site ne peut être engagée en raison d'une indisponibilité technique de la connexion, qu'elle soit due notamment à un cas de force majeure, à une maintenance, à une mise à jour, à une modification du Site, à une intervention de l'hébergeur, à une grève interne ou externe, à une panne de réseau, à une rupture de service ponctuelle ou prolongée des prestataires utilisés par le Site (hébergement, stockage, traitement des données, transactions, ...), ou encore à une coupure d'alimentation électrique.
 
 Olivier TRUC ne saurait être tenu pour responsable de l'inexécution du contrat conclu due à la survenance d'un événement de force majeure. Concernant les Prestations achetées, l'Editeur n'encourra aucune responsabilité pour tous dommages indirects du fait des présentes, perte d'exploitation, perte de profit, dommages ou frais, qui pourraient survenir.
 
-Le choix et l'achat d'une Prestation est placé sous l'unique responsabilité du Client. L'impossibilité totale ou partielle d'utiliser les Prestations notamment pour cause d'incompatibilité du matériel ne peut donner lieu à aucun dédommagement, remboursement ou mise en cause de la responsabilité du Vendeur, sauf dans le cas d'un vice caché avéré, de non-conformité, de défectuosité ou d'exercice du droit de rétractation si applicable, c'est à dire si le Client n'est pas Client Consommateur et que le contrat passé pour acquérir la Prestation permet la rétractation, selon l'article L.221-18 et suivants du Code de la consommation.
+Le choix et l'achat d'une Prestation sont placés sous l'unique responsabilité du Client. L'impossibilité totale ou partielle d'utiliser les Prestations notamment pour cause d'incompatibilité du matériel ne peut donner lieu à aucun dédommagement, remboursement ou mise en cause de la responsabilité du Site ou de l'Editeur, sauf dans le cas d'un vice caché avéré, de non-conformité, de défectuosité ou d'exercice du droit de rétractation si applicable, c'est à dire si le Client n'est pas Client Consommateur et que le contrat passé pour acquérir la Prestation permet la rétractation, selon l'article L.221-18 et suivants du Code de la consommation.
 
 Le Client admet expressément utiliser le Site à ses propres risques et sous sa responsabilité exclusive. Le Site fournit au Client des informations à titre indicatif, avec des imperfections, erreurs, omissions, inexactitudes et autres ambivalences susceptibles d'exister. En tout état de cause, Olivier TRUC ne pourra en aucun cas être tenu responsable :
 
@@ -327,11 +329,11 @@ L'Utilisateur reconnaît être informé de cette pratique et autorise l'Editeur 
 
 L'Utilisateur peut refuser l'enregistrement de « Cookies » ou configurer son navigateur pour être prévenu préalablement à l'acception les « Cookies ». Pour ce faire, l'Utilisateur procédera au paramétrage de son navigateur :
 
-* Pour Internet Explorer : [http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies][0]
-* Pour Safari : [https://support.apple.com/fr-fr/ht1677][1]
-* Pour Google Chrome : [https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en&safe=on][2]
-* Pour Firefox : [https://support.mozilla.org/fr/kb/activer-desactiver-cookies][3]
-* Pour Opera : [http://help.opera.com/Windows/10.20/fr/cookies.html][4]
+* Pour Internet Explorer : [http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies][1]
+* Pour Safari : [https://support.apple.com/fr-fr/ht1677][2]
+* Pour Google Chrome : [https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en&safe=on][3]
+* Pour Firefox : [https://support.mozilla.org/fr/kb/activer-desactiver-cookies][4]
+* Pour Opera : [http://help.opera.com/Windows/10.20/fr/cookies.html][5]
 
 ### Article 21 - Accès et disponibilité du Site
 
@@ -364,7 +366,7 @@ Toute notification ou avis concernant les présentes CG, les mentions légales o
 
 Toute réclamation liée à l'utilisation du Site, des Services, des pages du Site sur des réseaux sociaux éventuels ou aux CG, aux mentions légales ou à la charte de données personnelles doit être déposée dans les 365 jours suivant le jour d'origine du problème source de réclamation, et ce indépendamment de toute loi ou règle de droit contraire. Dans le cas où une telle réclamation n'aurait pas été déposée dans les 365 jours suivants, une telle réclamation sera à jamais inapplicable en justice.
 
-Il peut être possible que se trouvent, dans l'ensemble du Site internet et des Services proposés, et dans une mesure restreinte, des inexactitudes ou des erreurs, ou des informations qui soient en désaccord avec les CG, les mentions légales ou la charte de données personnelles. En outre, il est possible que des modifications non autorisées soient faites par des tiers sur le Site ou sur des Services annexes (réseaux sociaux...).
+Il peut être possible que se trouvent, dans l'ensemble du Site et des Services proposés, et dans une mesure restreinte, des inexactitudes ou des erreurs, ou des informations qui soient en désaccord avec les CG, les mentions légales ou la charte de données personnelles. En outre, il est possible que des modifications non autorisées soient faites par des tiers sur le Site ou sur des Services annexes (réseaux sociaux...).
 
 Dans le cas où une telle situation nous échapperait, l'Utilisateur a la possibilité de contacter l'Editeur du Site par courrier postal ou par mail aux adresses indiquées dans les mentions légales du Site, avec si possible une description de l'erreur et l'emplacement (URL), ainsi que des informations suffisantes permettant de le contacter.
 
@@ -398,8 +400,9 @@ Il est rappelé que la médiation n'est pas obligatoire mais uniquement proposé
 
 Tous droits réservés - 22 mai 2017
 
-[0]: http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies
-[1]: https://support.apple.com/fr-fr/ht1677
-[2]: https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en&safe=on
-[3]: https://support.mozilla.org/fr/kb/activer-desactiver-cookies
-[4]: http://help.opera.com/Windows/10.20/fr/cookies.html
+[0]: https://ec.europa.eu/taxation_customs/business/vat/telecommunications-broadcasting-electronic-services_fr#new_rules
+[1]: http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies
+[2]: https://support.apple.com/fr-fr/ht1677
+[3]: https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en&safe=on
+[4]: https://support.mozilla.org/fr/kb/activer-desactiver-cookies
+[5]: http://help.opera.com/Windows/10.20/fr/cookies.html
