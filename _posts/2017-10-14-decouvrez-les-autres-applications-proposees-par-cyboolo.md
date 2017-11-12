@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Réalisé avec passion pour les indépendants, par un indépendant'
-dateModified: '2017-11-12T15:21:51.300Z'
-datePublished: '2017-11-12T15:21:51.681Z'
+dateModified: '2017-11-12T18:25:06.173Z'
+datePublished: '2017-11-12T18:25:07.072Z'
 title: Découvrez les autres applications proposées par cyboolo
 author: []
 publisher: {}
@@ -21,4 +21,4 @@ _type: Article
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/657e0cbc-09c8-4b79-a0e4-45cd5edcb43d.jpg)
 
-<article style=""><h1>CGI293B: Solution de paiement et de facturation en ligne pour les micro entreprises</h1><p>Depuis 2015, les taxes sont facturées en fonction de l'endroit où se trouve votre client, plutôt que de l'emplacement de votre entreprise. Il y a maintenant plus de 40 pays dans lesquels vous devez gérer les taxes locales. Les taux appliqués varient. Le type de transactions où les taxes s'appliquent varient.</p></article>
+<article style=""><h1>CGI293B: Solution de paiement et de facturation en ligne pour les micro entreprises</h1><p>Vendez et facturez vos services électroniques en France et dans l'UE</p></article>
