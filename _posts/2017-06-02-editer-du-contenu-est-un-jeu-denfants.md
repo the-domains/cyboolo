@@ -3,26 +3,25 @@ inFeed: true
 description: >-
   Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
   technologies web
-dateModified: '2017-11-12T11:56:47.961Z'
-datePublished: '2017-11-12T11:56:48.486Z'
-title: Créez votre cours depuis votre explorateur web
+dateModified: '2017-11-12T11:58:13.635Z'
+datePublished: '2017-11-12T11:58:14.545Z'
+title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-06-02-editer-du-contenu-est-un-jeu-denfants.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-06-02T23:25:51.578Z'
-url: creez-votre-cours-depuis-votre-explorateur-web/index.html
-_type: Article
+_type: Blurb
 
 ---
-# **Créez votre cours depuis votre explorateur web**
+# **Créez vos cours depuis votre explorateur web**
 
-## Rédigez vos cours, textes et images, depuis la page web qui sera vue par vos utilisateurs: aussi simple que d'utiliser un éditeur de texte !
+## Rédigez vos cours devient aussi simple que d'utiliser un éditeur de texte.
 
 ## Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.
 
-## Stop aux formulaires à rallonge et aux interfaces compliquées
+## Stop aux formulaires à rallonge et aux interfaces compliquées.
 
 **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
