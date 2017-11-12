@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Réalisé avec passion pour les indépendants, par un indépendant'
-dateModified: '2017-11-12T19:30:09.553Z'
-datePublished: '2017-11-12T19:30:10.568Z'
+dateModified: '2017-11-12T19:31:00.820Z'
+datePublished: '2017-11-12T19:31:01.652Z'
 title: Découvrez les autres applications proposées par cyboolo
 author: []
 publisher: {}
@@ -18,5 +18,7 @@ _type: MediaObject
 # Découvrez les autres applications proposées par cyboolo
 
 > Réalisé avec passion pour les indépendants, par un indépendant
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b549a88c-7cc2-4912-ba77-641443a0ba47.jpg)
 
 <article style=""><h1>CGI293B: Solution de paiement et de facturation en ligne pour les micro entreprises</h1><p>Vendez et facturez vos services électroniques en France et dans l'UE</p></article>
