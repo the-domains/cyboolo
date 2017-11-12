@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un
-  smartphone.
-dateModified: '2017-11-12T19:22:48.309Z'
-datePublished: '2017-11-12T19:22:49.058Z'
+  Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
+  technologies web
+dateModified: '2017-11-12T19:27:47.822Z'
+datePublished: '2017-11-12T19:27:48.692Z'
 title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
@@ -18,11 +18,11 @@ _type: Blurb
 ---
 # **Créez vos cours depuis votre explorateur web**
 
-> Rédiger vos cours devient aussi simple que d'utiliser un éditeur de texte.
+## Rédiger vos cours devient aussi simple que d'utiliser un éditeur de texte.
 
-**Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.**
+## **Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.**
 
-> Stop aux formulaires à rallonge et aux interfaces compliquées.
+### Stop aux formulaires à rallonge et aux interfaces compliquées.
 
 **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
 [DEMARREZ GRATUITEMENT][0]
