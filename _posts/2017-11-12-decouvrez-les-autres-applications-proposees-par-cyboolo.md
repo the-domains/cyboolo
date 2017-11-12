@@ -7,13 +7,13 @@ description: 'Réalisé avec passion pour les indépendants, par un indépendant
 app_links: []
 isBasedOnUrl: 'https://thegrid.ai/cgi293b/'
 title: Découvrez les autres applications proposées par cyboolo
-datePublished: '2017-11-12T19:41:45.624Z'
-dateModified: '2017-11-12T19:41:35.531Z'
+datePublished: '2017-11-12T19:41:55.250Z'
+dateModified: '2017-11-12T19:41:54.967Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-11-12-decouvrez-les-autres-applications-proposees-par-cyboolo.md
 starred: false
 datePublishedOriginal: '2017-11-12T19:41:45.624Z'
-sourcePath: _posts/2017-11-12-decouvrez-les-autres-applications-proposees-par-cyboolo.md
 _context: 'http://schema.org'
 _type: MediaObject
 
