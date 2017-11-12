@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
-  technologies web
-dateModified: '2017-09-05T20:08:22.917Z'
-datePublished: '2017-09-05T20:08:23.224Z'
-title: Rédigez depuis votre explorateur
+  Partager votre expérience devient aussi simple que d’utiliser un éditeur de
+  texte.
+dateModified: '2017-11-12T11:43:09.976Z'
+datePublished: '2017-11-12T11:43:10.741Z'
+title: Créez votre cours depuis votre explorateur web
 author: []
 publisher: {}
 via: {}
@@ -15,5 +15,18 @@ datePublishedOriginal: '2017-06-02T23:25:51.578Z'
 _type: Blurb
 
 ---
-# **Rédigez depuis votre explorateur**
-![Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e2fa9b6-d8b4-4978-b6f8-50c1d69cd636.gif)
+# **Créez votre cours depuis votre explorateur web**
+
+## Rédigez vos cours, textes et images, depuis la page web qui sera vue par vos utilisateurs.
+
+Partager votre expérience devient aussi simple que d'utiliser un éditeur de texte.
+
+## Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.
+
+Mettez vos compétences en valeur en vous libérant des contraintes technologiques (support, traitement, stockage,...). Vous pouvez aussi télécharger des vidéos si vous le souhaitez.
+
+## Stop aux formulaires à rallonge et aux interfaces compliquées
+
+Créez et visualisez directement votre contenu sans perdre du temps à remplir de multiples champs de formulaire ou à maîtriser une interface qui n'apportent rien à vos utilisateurs.
+
+**Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
