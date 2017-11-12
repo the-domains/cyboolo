@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Réalisé avec passion pour les indépendants, par un indépendant'
-dateModified: '2017-11-12T15:19:31.769Z'
-datePublished: '2017-11-12T15:19:32.026Z'
+dateModified: '2017-11-12T15:19:36.875Z'
+datePublished: '2017-11-12T15:19:37.385Z'
 title: Découvrez les autres applications proposées par cyboolo
 author: []
 publisher: {}
