@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-12T19:29:51.490Z'
-datePublished: '2017-11-12T19:29:53.720Z'
+dateModified: '2017-11-12T19:34:15.674Z'
+datePublished: '2017-11-12T19:34:17.671Z'
 title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
@@ -16,15 +16,13 @@ _type: Blurb
 ---
 # **Créez vos cours depuis votre explorateur web**
 
-## Rédiger vos cours devient aussi simple que d'utiliser un éditeur de texte.
+* Rédiger vos cours devient aussi simple que d'utiliser un éditeur de texte.
 
-## **Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.**
+* **Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.**
 
-## Stop aux formulaires à rallonge et aux interfaces compliquées.
-
----
-
-**Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
+* Stop aux formulaires à rallonge et aux interfaces compliquées.
 [DEMARREZ GRATUITEMENT][0]
+
+## **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
 
 [0]: https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB
