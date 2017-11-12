@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
   technologies web
-dateModified: '2017-11-12T14:54:25.780Z'
-datePublished: '2017-11-12T14:54:26.562Z'
+dateModified: '2017-11-12T18:14:08.126Z'
+datePublished: '2017-11-12T18:14:09.666Z'
 title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
