@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-11-12T14:18:47.334Z'
-dateModified: '2017-11-12T14:18:46.761Z'
+datePublished: '2017-11-12T14:33:02.390Z'
+dateModified: '2017-11-12T14:33:00.367Z'
 via: {}
 description: 'Fonctionne sur ordinateur, tablette ou mobile'
 title: Interface intuitive pour faciliter la gestion de votre site
@@ -15,4 +15,7 @@ _type: Blurb
 
 ---
 # **Interface intuitive pour faciliter la gestion de votre site**
-![Fonctionne sur ordinateur, tablette ou mobile](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5d56a7d-0eea-4f63-800d-5aa562e72277.gif)
+
+## Développez vos cours en toute simplicité, sans savoir coder. Gérez votre profil et suivez les statistiques de visites de votre site et de vos ventes.
+
+Fonctionne sur ordinateur, tablette ou mobile
