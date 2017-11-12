@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
-  technologies web
-dateModified: '2017-11-12T19:27:47.822Z'
-datePublished: '2017-11-12T19:27:48.692Z'
+description: ''
+dateModified: '2017-11-12T19:29:51.490Z'
+datePublished: '2017-11-12T19:29:53.720Z'
 title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
@@ -22,7 +20,9 @@ _type: Blurb
 
 ## **Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.**
 
-### Stop aux formulaires à rallonge et aux interfaces compliquées.
+## Stop aux formulaires à rallonge et aux interfaces compliquées.
+
+---
 
 **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
 [DEMARREZ GRATUITEMENT][0]
