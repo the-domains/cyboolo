@@ -1,11 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Cours de yoga, de cuisine, de maths, de création d'applis, de bricolage, de
-  jardinage, d'économie, de solfège, d'oenologie, de Javascript, de philosophie,
-  de data science, ...
-dateModified: '2017-11-12T14:46:10.074Z'
-datePublished: '2017-11-12T14:46:10.904Z'
+description: DEMO ET TUTORIELS
+dateModified: '2017-11-12T19:47:26.212Z'
+datePublished: '2017-11-12T19:47:26.955Z'
 title: >-
   Partagez votre passion, transmettez vos connaissances et valorisez vos
   compétences
@@ -20,7 +17,7 @@ _type: Blurb
 ---
 # Partagez votre passion, transmettez vos connaissances et valorisez vos compétences
 
-Cours de yoga, de cuisine, de maths, de création d'applis, de bricolage, de jardinage, d'économie, de solfège, d'oenologie, de Javascript, de philosophie, de data science, ...
+## Cours de yoga, de cuisine, de maths, de création d'applis, de bricolage, de jardinage, d'économie, de solfège, d'oenologie, de Javascript, de philosophie, de data science, ...
 
 **[DEMO ET TUTORIELS][0]**
 
