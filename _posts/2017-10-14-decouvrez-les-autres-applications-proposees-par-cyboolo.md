@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: 'Réalisé avec passion pour les indépendants, par un indépendant'
-dateModified: '2017-11-12T18:31:58.052Z'
-datePublished: '2017-11-12T18:31:58.657Z'
+dateModified: '2017-11-12T18:32:16.137Z'
+datePublished: '2017-11-12T18:32:17.271Z'
 title: Découvrez les autres applications proposées par cyboolo
 author: []
 publisher: {}
 via: {}
+isBasedOnUrl: 'https://cyboolo.io'
 sourcePath: _posts/2017-10-14-decouvrez-les-autres-applications-proposees-par-cyboolo.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-11-12T15:17:54.904Z'
-url: decouvrez-les-autres-applications-proposees-par-cyboolo/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Découvrez les autres applications proposées par cyboolo
