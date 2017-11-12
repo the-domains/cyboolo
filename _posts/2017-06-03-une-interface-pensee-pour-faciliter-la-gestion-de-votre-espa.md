@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-11-12T11:51:03.595Z'
-dateModified: '2017-11-12T11:51:02.601Z'
+datePublished: '2017-11-12T14:16:33.963Z'
+dateModified: '2017-11-12T14:16:32.693Z'
 via: {}
 description: 'Fonctionne sur ordinateur, tablette ou mobile'
 title: Interface intuitive pour faciliter la gestion de votre site
