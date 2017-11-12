@@ -1,8 +1,10 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-11-12T11:55:39.621Z'
-datePublished: '2017-11-12T11:55:40.943Z'
+description: >-
+  Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
+  technologies web
+dateModified: '2017-11-12T11:56:47.961Z'
+datePublished: '2017-11-12T11:56:48.486Z'
 title: Créez votre cours depuis votre explorateur web
 author: []
 publisher: {}
@@ -19,14 +21,8 @@ _type: Article
 
 ## Rédigez vos cours, textes et images, depuis la page web qui sera vue par vos utilisateurs: aussi simple que d'utiliser un éditeur de texte !
 
----
-
 ## Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.
 
----
-
 ## Stop aux formulaires à rallonge et aux interfaces compliquées
-
----
 
 **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
