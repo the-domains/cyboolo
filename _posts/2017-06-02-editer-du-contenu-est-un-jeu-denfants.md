@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  Ce n’est pas de la magie, nous vous faisons juste bénéficier des dernières
-  technologies web
-dateModified: '2017-11-12T18:21:27.226Z'
-datePublished: '2017-11-12T18:21:27.788Z'
+  Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un
+  smartphone.
+dateModified: '2017-11-12T19:22:48.309Z'
+datePublished: '2017-11-12T19:22:49.058Z'
 title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
@@ -20,12 +20,11 @@ _type: Blurb
 
 > Rédiger vos cours devient aussi simple que d'utiliser un éditeur de texte.
 
-> Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.
+**Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.**
 
 > Stop aux formulaires à rallonge et aux interfaces compliquées.
 
-[DEMARREZ GRATUITEMENT][0]
-
 **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
+[DEMARREZ GRATUITEMENT][0]
 
 [0]: https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB
