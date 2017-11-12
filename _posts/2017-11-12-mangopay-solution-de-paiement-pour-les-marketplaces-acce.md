@@ -16,8 +16,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Système de paiement intégré
-datePublished: '2017-11-12T19:57:36.924Z'
-dateModified: '2017-11-12T19:57:36.131Z'
+datePublished: '2017-11-12T19:59:23.214Z'
+dateModified: '2017-11-12T19:59:22.140Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
@@ -31,7 +31,7 @@ _type: MediaObject
 
 ## **Paiements sécurisés et protection des données**
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7c020aa3329e2a8d4266180523fed403/croprotate.png?cropheight=93&amp;cropwidth=380&amp;degrees=0&amp;input=http%3A%2F%2Fwww.mangopay.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fmangopay.png&amp;x=5&amp;y=0" /><h1>MANGOPAY - Solution de paiement pour les Marketplaces - Accepter les paiements, Cantonner les fonds, Automatiser les Pay-outs</h1><p>POWERED BY MANGOPAY</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14e815477b535e6274689b779b4379163032d81.png" /><h1>POWERED BY MANGOPAY</h1><p>Solution de paiement pour les Marketplaces - Accepter les paiements, Cantonner les fonds, Automatiser les Pay-outs</p></article>
 
 Les données de cartes et les informations bancaires sensibles ne sont pas stockées sur nos serveurs. Notre prestataire [MANGOPAY ][0]assure la [conformité PCI-DSS ][1]des transactions. Paiements par VISA/MASTERCARD. Technologies anti fraudes et 3D SECURE. Les gains de vos ventes sont transférés directement sur votre compte en banque.
 
