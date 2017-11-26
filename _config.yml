@@ -71,6 +71,5 @@ collections:
       path: '/:title/'
 title: Lancez votre site e-commerce de vente de cours en ligne
 opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d313aa02-ccbf-45a9-b839-d0cf8b14bba8.png
+logo: null
 url: 'https://cyboolo.io/'
