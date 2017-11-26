@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-12T19:59:50.830Z'
-datePublished: '2017-11-12T19:59:51.146Z'
+dateModified: '2017-11-26T11:33:46.115Z'
+datePublished: '2017-11-26T11:33:47.237Z'
 title: Des formules qui s’adaptent à votre créativité
 author: []
 publisher: {}
