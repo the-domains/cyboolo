@@ -15,10 +15,7 @@ coverPrefs:
   filter: false
 name: cyboolo
 analytics: {}
-purpose:
-  - type: external
-    url: 'https://en.cyboolo.io'
-    label: "\uD83C\uDDEC\uD83C\uDDE7 EN"
+purpose: []
 github: true
 description: 'Créez, publiez et monétisez rapidement, simplement... sans savoir coder !'
 author:
