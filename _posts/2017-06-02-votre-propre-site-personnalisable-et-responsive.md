@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-11-26T19:39:24.487Z'
-dateModified: '2017-11-26T19:39:23.315Z'
+datePublished: '2017-11-26T19:56:53.261Z'
+dateModified: '2017-11-26T19:56:52.522Z'
 via: {}
 description: >-
   Avec nom de domaine, hébergement sécurisé, réseau de diffusion de contenu
@@ -18,4 +18,4 @@ _type: Blurb
 
 ---
 # **Créez un site à votre image**
-![Avec nom de domaine, hébergement sécurisé, réseau de diffusion de contenu ultra-rapide, chat et vidéos wall pour accueillir et construire votre communauté.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca9aee94-975f-4a4c-a5bb-638c0db08bc1.gif)
+![Avec nom de domaine, hébergement sécurisé, réseau de diffusion de contenu ultra-rapide, chat et vidéos wall pour accueillir et construire votre communauté.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/034101b6-31a7-4c40-b3d6-51cbe85ce263.gif)
