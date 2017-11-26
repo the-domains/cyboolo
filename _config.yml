@@ -1,3 +1,18 @@
+layout_spectrum: 0.5365247015543466
+typography_spectrum: 0.5781635640639037
+color:
+  lightness: 0.8382478407461491
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  saturation: 0.4796927720449385
+  brandStrength: 0.05238534081081796
+  rhythmicContrast: 0.7340213735981632
+coverPrefs:
+  filter: false
 name: cyboolo
 analytics: {}
 purpose:
@@ -13,17 +28,6 @@ author:
   name: cyboolo - Tous droits réservés - Mentions Légales
   url: 'https://cyboolo.io/mentions-legales-du-site'
   email: support@cyboolo.com
-color:
-  lightness: 0.1628850896869519
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  saturation: 0.6517623496149657
-  brandStrength: 0.568357972923279
-  rhythmicContrast: 0.4573377423168224
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -42,7 +46,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -50,7 +53,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.8852098516642236
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
 content_rating:
@@ -67,9 +69,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.330831770772889
-coverPrefs:
-  filter: false
 title: Lancez votre site e-commerce de vente de cours en ligne
 opengraph: {}
 logo: >-
