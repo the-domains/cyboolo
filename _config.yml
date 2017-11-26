@@ -1,16 +1,16 @@
-layout_spectrum: 0.28637412218994807
-typography_spectrum: 0.48161587490036273
+layout_spectrum: 0.2611160871691744
+typography_spectrum: 0.3392852952807109
 color:
-  lightness: 0.7734312619020849
+  lightness: 0.5976019181593293
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  saturation: 0.3981135517765427
-  brandStrength: 0.2985398959673683
-  rhythmicContrast: 0.8754120159509712
+  saturation: 0.39427661613690307
+  brandStrength: 0.6260044971114891
+  rhythmicContrast: 0.75918964492987
 coverPrefs:
   filter: false
 name: cyboolo
@@ -40,7 +40,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
