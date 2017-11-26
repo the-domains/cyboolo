@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-11-12T14:49:40.024Z'
-dateModified: '2017-11-12T14:49:39.186Z'
+datePublished: '2017-11-26T11:33:47.297Z'
+dateModified: '2017-11-26T11:33:46.115Z'
 via: {}
 description: ''
 title: Pensé en priorité pour les indépendants et les passionnés
