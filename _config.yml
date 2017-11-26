@@ -24,61 +24,7 @@ color:
   saturation: 0.6517623496149657
   brandStrength: 0.568357972923279
   rhythmicContrast: 0.4573377423168224
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F220212051&url=https%3A%2F%2Fvimeo.com%2F220212051%2Fc1b2d481e4&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F638159361_1280x721.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=vimeo"
-      width="852" height="480" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author:
-        - avatar: {}
-      datePublished: null
-      keywords: []
-      '@type': VideoObject
-      title: cyboolo
-      isBasedOnUrl: 'https://vimeo.com/220212051/c1b2d481e4'
-      publisher:
-        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-        url: 'https://vimeo.com/'
-        name: Vimeo
-        domain: vimeo.com
-      app_links:
-        - app_name: Vimeo
-          namespace: ai
-          app_store_id: '425194759'
-          url: 'vimeo://app.vimeo.com/videos/220212051'
-          type: ios
-        - package: com.vimeo.android.videoapp
-          app_name: Vimeo
-          namespace: ai
-          should_fallback: 'true'
-          url: 'vimeo://app.vimeo.com/videos/220212051'
-          type: web
-        - id: '425194759'
-          namespace: twitter
-          url: 'vimeo://app.vimeo.com/videos/220212051'
-          type: ipad
-          name: Vimeo
-        - id: '425194759'
-          namespace: twitter
-          url: 'vimeo://app.vimeo.com/videos/220212051'
-          type: iphone
-          name: Vimeo
-        - id: com.vimeo.android.videoapp
-          namespace: twitter
-          url: 'vimeo://app.vimeo.com/videos/220212051'
-          type: googleplay
-          name: Vimeo
-      related: []
-      description: A vous de jouer
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 layout_spectrum: 0.8852098516642236
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
