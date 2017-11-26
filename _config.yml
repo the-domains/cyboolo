@@ -1,16 +1,16 @@
-layout_spectrum: 0.5365247015543466
-typography_spectrum: 0.5781635640639037
+layout_spectrum: 0.28637412218994807
+typography_spectrum: 0.48161587490036273
 color:
-  lightness: 0.8382478407461491
+  lightness: 0.7734312619020849
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  saturation: 0.4796927720449385
-  brandStrength: 0.05238534081081796
-  rhythmicContrast: 0.7340213735981632
+  saturation: 0.3981135517765427
+  brandStrength: 0.2985398959673683
+  rhythmicContrast: 0.8754120159509712
 coverPrefs:
   filter: false
 name: cyboolo
