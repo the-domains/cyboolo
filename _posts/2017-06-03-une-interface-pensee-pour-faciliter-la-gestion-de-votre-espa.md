@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-11-27T21:01:52.490Z'
-dateModified: '2017-11-27T21:01:51.680Z'
+datePublished: '2017-11-27T21:03:08.419Z'
+dateModified: '2017-11-27T21:03:07.566Z'
 via: {}
 description: ... et sur tous les systèmes d’exploitation récents.
 title: Interface intuitive pour faciliter la gestion de votre site
