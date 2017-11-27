@@ -1,9 +1,11 @@
 ---
 publisher: {}
-datePublished: '2017-11-27T20:48:44.007Z'
-dateModified: '2017-11-27T20:48:43.128Z'
+datePublished: '2017-11-27T20:49:15.806Z'
+dateModified: '2017-11-27T20:49:14.913Z'
 via: {}
-description: 'Fonctionne sur ordinateur, tablette ou mobile'
+description: >-
+  Fonctionne sur ordinateur, tablette ou mobile et sur tous les systèmes
+  d’exploitation récents.
 title: Interface intuitive pour faciliter la gestion de votre site
 sourcePath: >-
   _posts/2017-06-03-une-interface-pensee-pour-faciliter-la-gestion-de-votre-espa.md
@@ -18,4 +20,4 @@ _type: Blurb
 
 ## Développez vos cours en toute simplicité, sans savoir coder. Gérez votre profil et suivez les statistiques de votre site (cours publiés, visites, ventes, clients).
 
-Fonctionne sur ordinateur, tablette ou mobile
+Fonctionne sur ordinateur, tablette ou mobile et sur tous les systèmes d'exploitation récents.
