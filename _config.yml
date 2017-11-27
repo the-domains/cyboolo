@@ -40,7 +40,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -64,7 +63,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Lancez votre site e-commerce de vente de cours en ligne
+title: Lancez un site e-commerce de vente de cours en ligne
 opengraph: {}
 logo: null
 url: 'https://cyboolo.io/'
