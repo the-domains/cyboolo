@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-11-26T11:33:47.288Z'
-dateModified: '2017-11-26T11:33:46.115Z'
+datePublished: '2017-11-27T20:48:44.007Z'
+dateModified: '2017-11-27T20:48:43.128Z'
 via: {}
 description: 'Fonctionne sur ordinateur, tablette ou mobile'
 title: Interface intuitive pour faciliter la gestion de votre site
@@ -16,6 +16,6 @@ _type: Blurb
 ---
 # **Interface intuitive pour faciliter la gestion de votre site**
 
-## Développez vos cours en toute simplicité, sans savoir coder. Gérez votre profil et suivez les statistiques de visites de votre site et de vos ventes.
+## Développez vos cours en toute simplicité, sans savoir coder. Gérez votre profil et suivez les statistiques de votre site (cours publiés, visites, ventes, clients).
 
 Fonctionne sur ordinateur, tablette ou mobile
