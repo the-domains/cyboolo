@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-26T17:13:16.523Z'
-dateModified: '2017-12-26T17:13:15.556Z'
+datePublished: '2017-12-26T17:13:17.400Z'
+dateModified: '2017-12-26T17:13:16.941Z'
 via: {}
 description: ''
 title: 'Fonctionne sur ordinateur, tablette ou mobile…'
