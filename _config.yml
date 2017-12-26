@@ -1,5 +1,6 @@
-layout_spectrum: 0.2611160871691744
 typography_spectrum: 0.3392852952807109
+content_rating:
+  adult: false
 color:
   lightness: 0.5976019181593293
   brandColors:
@@ -11,28 +12,23 @@ color:
   saturation: 0.39427661613690307
   brandStrength: 0.6260044971114891
   rhythmicContrast: 0.75918964492987
-coverPrefs:
-  filter: false
-name: cyboolo
-analytics: {}
-purpose:
-  - type: external
-    url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
-    label: DEMARREZ
-  - type: external
-    url: 'https://en.cyboolo.io/'
-    label: "\uD83C\uDDEC\uD83C\uDDE7 EN"
 github: true
-description: 'Créez, publiez et monétisez... sans savoir coder !'
+opengraph: {}
+layout_spectrum: 0.2611160871691744
+analytics: {}
 author:
   name: cyboolo - Tous droits réservés - Mentions Légales
   url: 'https://cyboolo.io/mentions-legales-du-site'
   email: support@cyboolo.com
-content: []
+logo: null
+name: cyboolo
+url: 'https://cyboolo.io/'
+navigation:
+  - name: Découvrir
+    id: acc3dc4d-f2a9-4458-abe7-dca2d64ec369
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
-content_rating:
-  adult: false
 collections:
   - index:
       path: /
@@ -48,6 +44,14 @@ collections:
 title: >-
   Lancez un site e-commerce avec cyboolo pour vendre vos cours en ligne
   rapidement et simplement
-opengraph: {}
-logo: null
-url: 'https://cyboolo.io/'
+content: []
+coverPrefs:
+  filter: false
+description: 'Créez, publiez et monétisez... sans savoir coder !'
+purpose:
+  - type: external
+    url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
+    label: DEMARREZ
+  - type: external
+    url: 'https://en.cyboolo.io/'
+    label: "\uD83C\uDDEC\uD83C\uDDE7 EN"
