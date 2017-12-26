@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-26T17:09:01.870Z'
-dateModified: '2017-12-26T17:09:01.033Z'
+datePublished: '2017-12-26T17:09:03.902Z'
+dateModified: '2017-12-26T17:09:03.269Z'
 via: {}
 description: ''
 title: 'Développez vos cours en toute simplicité, sans savoir coder.'
