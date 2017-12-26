@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lancez un site e-commerce de vente de cours en ligne]]></title>
-        <description><![CDATA[Lancez un site e-commerce de vente de cours en ligne]]></description>
+        <title><![CDATA[Lancez un site e-commerce avec cyboolo pour vendre vos cours en ligne rapidement et simplement]]></title>
+        <description><![CDATA[Lancez un site e-commerce avec cyboolo pour vendre vos cours en ligne rapidement et simplement]]></description>
         <link>http://cyboolo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Dec 2017 21:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2017 22:01:30 GMT</lastBuildDate>
         <atom:link href="http://cyboolo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 Dec 2017 21:24:28 GMT</pubDate>
+        <pubDate>Tue, 26 Dec 2017 22:01:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[Partagez votre passion, transmettez vos connaissances et valorisez vos compétences]]></title>
+            <description><![CDATA[<h1>Partagez votre passion, transmettez vos connaissances et valorisez vos compétences</h1>,<h2><strong>Créez un cours</strong> de yoga, de cuisine, de maths, de création d'applis, de bricolage, de jardinage, d'économie, de solfège, d'oenologie, de Javascript, de philosophie, de data science, ...</h2>,<p><strong><a href="https://cyboolo-demo.netlify.com/" title="">DEMO ET TUTORIELS</a></strong></p>]]></description>
+            <link>http://cyboolo.io/partagez-votre-passion-transmettez-vos-connaissances-et-val/index.html</link>
+            <guid isPermaLink="false">acc3dc4d-f2a9-4458-abe7-dca2d64ec369</guid>
+            <pubDate>Sun, 26 Nov 2017 11:31:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Système de paiement intégré]]></title>
             <description><![CDATA[<h1><strong>Système de paiement intégré</strong></h1>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14e815477b535e6274689b779b4379163032d81.png"><h1>Paiements s&eacute;curis&eacute;s et protection des donn&eacute;es</h1><p>Solution de paiement pour les Marketplaces - Accepter les paiements, Cantonner les fonds, Automatiser les Pay-outs</p></article>,<p>Les données de cartes et les informations bancaires sensibles ne sont pas stockées sur nos serveurs. Notre prestataire <a href="https://www.mangopay.com/fr" title="">MANGOPAY </a>assure la <a href="https://www.mangopay.com/wp-content/uploads/MANGOPAY-SA_MERCHANT_PCIDSS_Certificate-of-Compliance_may2016.pdf">conformité PCI-DSS </a>des transactions. Paiements par VISA/MASTERCARD. Technologies anti fraudes et 3D SECURE. Les gains de vos ventes sont transférés directement sur votre compte en banque.</p>]]></description>
