@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-26T17:12:50.983Z'
-dateModified: '2017-12-26T17:12:49.950Z'
+datePublished: '2017-12-26T17:12:51.731Z'
+dateModified: '2017-12-26T17:12:51.111Z'
 via: {}
 description: ''
 title: Interface intuitive
