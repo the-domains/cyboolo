@@ -23,10 +23,6 @@ author:
 logo: null
 name: cyboolo
 url: 'https://cyboolo.io/'
-navigation:
-  - name: Découvrir
-    id: acc3dc4d-f2a9-4458-abe7-dca2d64ec369
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
 collections:
