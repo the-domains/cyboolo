@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-26T17:05:06.781Z'
-dateModified: '2017-12-26T17:05:05.753Z'
+datePublished: '2017-12-26T17:05:20.542Z'
+dateModified: '2017-12-26T17:05:19.789Z'
 via: {}
 description: ''
 title: Interface intuitive
@@ -15,4 +15,6 @@ _type: Blurb
 
 ---
 # Interface intuitive
+
+## Pour faciliter la gestion de vos cours et de votre site
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf961de9-0b27-4c38-9564-5226842ae140.png)
