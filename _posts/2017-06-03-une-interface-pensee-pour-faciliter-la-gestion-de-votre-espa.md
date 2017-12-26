@@ -1,9 +1,9 @@
 ---
 publisher: {}
-datePublished: '2017-12-26T16:48:48.562Z'
-dateModified: '2017-12-26T16:48:47.632Z'
+datePublished: '2017-12-26T16:53:43.508Z'
+dateModified: '2017-12-26T16:53:42.334Z'
 via: {}
-description: ... et sur tous les systèmes d'exploitation récents
+description: ''
 title: Interface intuitive pour faciliter la gestion de votre site
 sourcePath: >-
   _posts/2017-06-03-une-interface-pensee-pour-faciliter-la-gestion-de-votre-espa.md
@@ -15,6 +15,7 @@ _type: Blurb
 
 ---
 # **Interface intuitive pour faciliter la gestion de votre site**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ee6548-3f1b-4a62-a8c3-c81c09a8fc5c.png)
 
 ## Développez vos cours en toute simplicité, sans savoir coder. Gérez votre profil et suivez les statistiques de votre site (cours publiés, visites, ventes, clients).
 ![... et sur tous les systèmes d'exploitation récents](https://the-grid-user-content.s3-us-west-2.amazonaws.com/218a4901-b4bf-4fbe-aa57-600d60740375.png)
