@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-26T17:01:00.343Z'
-dateModified: '2017-12-26T17:00:59.651Z'
+datePublished: '2017-12-26T17:04:01.021Z'
+dateModified: '2017-12-26T17:04:00.613Z'
 via: {}
 description: Pour faciliter la gestion de vos cours et de votre site
 title: Interface intuitive
@@ -9,8 +9,8 @@ sourcePath: >-
   _posts/2017-06-03-une-interface-pensee-pour-faciliter-la-gestion-de-votre-espa.md
 inFeed: true
 author: []
+datePublishedOriginal: '2017-12-26T17:04:01.021Z'
 starred: false
-datePublishedOriginal: '2017-06-03T13:09:47.477Z'
 _type: Blurb
 
 ---
