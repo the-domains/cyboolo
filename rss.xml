@@ -4,9 +4,9 @@
         <description><![CDATA[Lancez un site e-commerce de vente de cours en ligne]]></description>
         <link>http://cyboolo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Dec 2017 20:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2017 21:07:30 GMT</lastBuildDate>
         <atom:link href="http://cyboolo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 Dec 2017 20:54:48 GMT</pubDate>
+        <pubDate>Tue, 26 Dec 2017 21:07:28 GMT</pubDate>
         <item>
             <title><![CDATA[Système de paiement intégré]]></title>
             <description><![CDATA[<h1><strong>Système de paiement intégré</strong></h1>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14e815477b535e6274689b779b4379163032d81.png"><h1>Paiements s&eacute;curis&eacute;s et protection des donn&eacute;es</h1><p>Solution de paiement pour les Marketplaces - Accepter les paiements, Cantonner les fonds, Automatiser les Pay-outs</p></article>,<p>Les données de cartes et les informations bancaires sensibles ne sont pas stockées sur nos serveurs. Notre prestataire <a href="https://www.mangopay.com/fr" title="">MANGOPAY </a>assure la <a href="https://www.mangopay.com/wp-content/uploads/MANGOPAY-SA_MERCHANT_PCIDSS_Certificate-of-Compliance_may2016.pdf">conformité PCI-DSS </a>des transactions. Paiements par VISA/MASTERCARD. Technologies anti fraudes et 3D SECURE. Les gains de vos ventes sont transférés directement sur votre compte en banque.</p>]]></description>
@@ -20,6 +20,13 @@
             <link>https://cyboolo-demo.netlify.com/</link>
             <guid isPermaLink="false">17e6db63-bb84-40a8-892a-cc010e7c5cbc</guid>
             <pubDate>Sun, 10 Sep 2017 14:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Découvrez les autres applications proposées par cyboolo]]></title>
+            <description><![CDATA[<h1>Découvrez les autres applications proposées par cyboolo</h1>,<blockquote>R&eacute;alis&eacute; avec passion pour les ind&eacute;pendants, par un ind&eacute;pendant</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc90fdd5-8da6-4a76-8bd9-617486795a86.jpg">,<article><h1>CGI293B: Solution de paiement et de facturation en ligne pour les micro entreprises</h1><p>Vendez et facturez vos services &eacute;lectroniques en France et dans l&apos;UE</p></article>]]></description>
+            <link>https://thegrid.ai/cgi293b/</link>
+            <guid isPermaLink="false">5933b911-4900-4146-a3dd-edf506c74df3</guid>
+            <pubDate>Tue, 26 Dec 2017 21:07:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
