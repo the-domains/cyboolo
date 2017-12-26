@@ -19,6 +19,9 @@ purpose:
   - type: external
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
     label: DEMARREZ
+  - type: external
+    url: 'https://en.cyboolo.io/'
+    label: "\uD83C\uDDEC\uD83C\uDDE7 EN"
 github: true
 description: 'Créez, publiez et monétisez rapidement, simplement... sans savoir coder !'
 author:
