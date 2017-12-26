@@ -46,8 +46,8 @@ collections:
     permalink:
       path: '/:title/'
 title: >-
-  cyboolo: lancez un site e-commerce pour vendre vos cours en ligne rapidement
-  et simplement
+  Lancez un site e-commerce avec cyboolo pour vendre vos cours en ligne
+  rapidement et simplement
 opengraph: {}
 logo: null
 url: 'https://cyboolo.io/'
