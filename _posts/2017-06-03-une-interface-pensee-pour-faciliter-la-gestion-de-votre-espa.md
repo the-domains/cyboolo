@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-26T17:28:11.673Z'
-dateModified: '2017-12-26T17:28:10.717Z'
+datePublished: '2017-12-26T17:36:26.306Z'
+dateModified: '2017-12-26T17:36:25.567Z'
 via: {}
 description: ''
 title: 'Développez vos cours en toute simplicité, sans savoir coder.'
@@ -17,6 +17,6 @@ _type: Blurb
 # Développez vos cours en toute simplicité, sans savoir coder.
 
 ## Gérez votre profil et suivez les statistiques de votre site (cours publiés, visites, ventes, clients).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ee6548-3f1b-4a62-a8c3-c81c09a8fc5c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e846ff8-ab45-4a4c-a985-5d33724d65c8.png)
 
 > Fonctionne sur ordinateur, tablette ou mobile et sur tous les systèmes d'exploitation récents
