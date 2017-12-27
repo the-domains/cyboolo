@@ -38,8 +38,8 @@ collections:
     permalink:
       path: '/:title/'
 title: >-
-  Lancez un site e-commerce avec cyboolo pour vendre vos cours en ligne
-  rapidement et simplement
+  Lancez un site e-commerce et vendez vos cours sur le web rapidement et
+  simplement
 content: []
 coverPrefs:
   filter: false
