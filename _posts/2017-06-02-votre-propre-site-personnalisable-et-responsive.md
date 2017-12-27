@@ -1,12 +1,11 @@
 ---
 publisher: {}
-datePublished: '2017-12-27T11:34:34.427Z'
-dateModified: '2017-12-27T11:34:33.978Z'
+datePublished: '2017-12-27T12:55:05.105Z'
+dateModified: '2017-12-27T12:55:04.077Z'
 via: {}
 description: >-
   Avec nom de domaine, hébergement sécurisé, réseau de diffusion de contenu
-  ultra-rapide, chat et vidéos wall pour accueillir et construire votre
-  communauté.
+  ultra-rapide, système de paiement sécurisé, chat, vidéos wall, ...
 title: Créez un site à votre image
 sourcePath: _posts/2017-06-02-votre-propre-site-personnalisable-et-responsive.md
 inFeed: true
@@ -18,4 +17,4 @@ _type: Blurb
 
 ---
 # **Créez un site à votre image**
-![Avec nom de domaine, hébergement sécurisé, réseau de diffusion de contenu ultra-rapide, chat et vidéos wall pour accueillir et construire votre communauté.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e7ab12-1354-4ec5-ba9d-a750230fd8fe.gif)
+![Avec nom de domaine, hébergement sécurisé, réseau de diffusion de contenu ultra-rapide, système de paiement sécurisé, chat, vidéos wall, ...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e7ab12-1354-4ec5-ba9d-a750230fd8fe.gif)
