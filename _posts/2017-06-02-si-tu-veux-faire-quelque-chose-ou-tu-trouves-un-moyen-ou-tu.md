@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-27T12:59:52.530Z'
-dateModified: '2017-12-27T12:59:52.328Z'
+datePublished: '2017-12-27T13:01:28.596Z'
+dateModified: '2017-12-27T13:01:27.936Z'
 via: {}
 description: ''
 title: Conçu pour les indépendants et les passionnés
@@ -15,4 +15,6 @@ _type: Blurb
 
 ---
 # Conçu pour les indépendants et les passionnés
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed874b8f43f01ad8bdaaa06c4d42c20cff8bf11f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/baf17b91-4d7c-4e30-99b4-ff2068a342c2.png)
+
+> Pour assurer un complément de revenus ou développer un vrai business
