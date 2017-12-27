@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-27T13:05:22.643Z'
-dateModified: '2017-12-27T13:05:21.667Z'
+datePublished: '2017-12-27T13:17:13.679Z'
+dateModified: '2017-12-27T13:17:12.844Z'
 via: {}
 description: ''
 title: Conçu pour les indépendants et les passionnés
