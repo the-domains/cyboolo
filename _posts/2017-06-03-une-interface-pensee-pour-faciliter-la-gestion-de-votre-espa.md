@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-27T10:29:40.706Z'
-dateModified: '2017-12-27T10:29:40.006Z'
+datePublished: '2017-12-27T10:31:37.340Z'
+dateModified: '2017-12-27T10:31:37.031Z'
 via: {}
 description: >-
   Gérez votre profil et suivez les statistiques de votre site (cours publiés,
@@ -11,8 +11,8 @@ sourcePath: >-
   _posts/2017-06-03-une-interface-pensee-pour-faciliter-la-gestion-de-votre-espa.md
 inFeed: true
 author: []
+datePublishedOriginal: '2017-12-27T10:31:37.340Z'
 starred: false
-datePublishedOriginal: '2017-12-26T17:04:01.021Z'
 _type: Blurb
 
 ---
