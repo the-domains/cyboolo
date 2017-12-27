@@ -1,9 +1,9 @@
 ---
 publisher: {}
-datePublished: '2017-12-27T11:37:20.080Z'
-dateModified: '2017-12-27T11:37:19.460Z'
+datePublished: '2017-12-27T11:38:42.452Z'
+dateModified: '2017-12-27T11:38:41.308Z'
 via: {}
-description: ''
+description: Pour assurer un complément de revenus ou développer un vrai business.
 title: Conçu pour les indépendants et les passionnés
 sourcePath: >-
   _posts/2017-06-02-si-tu-veux-faire-quelque-chose-ou-tu-trouves-un-moyen-ou-tu.md
@@ -16,5 +16,6 @@ _type: Blurb
 ---
 # Conçu pour les indépendants et les passionnés
 
-## **Pour assurer un complément de revenus ou développer un vrai business.**
+> Pour assurer un complément de revenus ou développer un vrai business.
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d9f4b9-3079-4fcd-bffa-190c58b747ad.png)
