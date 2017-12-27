@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-27T12:27:28.656Z'
-dateModified: '2017-12-27T12:27:27.828Z'
+datePublished: '2017-12-27T12:28:05.588Z'
+dateModified: '2017-12-27T12:28:04.967Z'
 via: {}
 description: Pour assurer un complément de revenus ou développer un vrai business.
 title: Conçu pour les indépendants et les passionnés
@@ -20,4 +20,4 @@ _type: Blurb
 
 > Pour assurer un complément de revenus ou développer un vrai business.
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13afcdc9-afb2-4637-b51d-154810240966.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94e16f4b-fad1-4fec-ad88-78fb300edd23.png)
