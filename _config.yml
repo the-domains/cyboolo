@@ -28,6 +28,10 @@ navigation:
   - name: "\uD83C\uDDEC\uD83C\uDDE7 English version"
     url: 'https://en.cyboolo.io'
     type: external
+  - name: Support
+    url: >-
+      https://go.crisp.chat/chat/embed/?website_id=903a424d-9434-4960-b384-dadb0ceaf312
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
 collections:
