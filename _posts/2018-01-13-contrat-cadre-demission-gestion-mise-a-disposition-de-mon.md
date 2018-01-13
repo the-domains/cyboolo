@@ -1,16 +1,16 @@
 ---
 inFeed: false
-description: '(version pour la France) '
-dateModified: '2018-01-13T13:33:32.284Z'
-datePublished: '2018-01-13T13:33:34.090Z'
+description: "(version pour la France)\_"
+dateModified: '2018-01-13T13:35:17.164Z'
+datePublished: '2018-01-13T13:35:18.910Z'
 title: "CONTRAT-CADRE D’EMISSION, GESTION, MISE A DISPOSITION DE MONNAIE ELECTRONIQUE MANGOPAY\_"
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-01-13-contrat-cadre-demission-gestion-mise-a-disposition-de-mon.md
 starred: false
 datePublishedOriginal: '2018-01-13T13:33:34.090Z'
-sourcePath: _posts/2018-01-13-contrat-cadre-demission-gestion-mise-a-disposition-de-mon.md
 url: contrat-cadre-demission-gestion-mise-a-disposition-de-mon/index.html
 _type: Blurb
 
