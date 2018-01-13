@@ -25,7 +25,7 @@ logo: >-
 name: eLearning services
 url: 'https://cyboolo.io/'
 navigation:
-  - name: "\uD83C\uDDEC\uD83C\uDDE7 ENGLISH VERSION"
+  - name: ENGLISH VERSION
     url: 'https://en.cyboolo.io'
     type: external
   - name: "\uD83D\uDE91 SUPPORT"
