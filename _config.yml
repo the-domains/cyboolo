@@ -28,10 +28,6 @@ navigation:
   - name: ENGLISH VERSION
     url: 'https://en.cyboolo.io'
     type: external
-  - name: SUPPORT
-    url: >-
-      https://go.crisp.chat/chat/embed/?website_id=903a424d-9434-4960-b384-dadb0ceaf312
-    type: external
   - name: CGU MANGOPAY
     id: 14973149-0982-4cb0-a4c9-94eb18677b21
     type: content
