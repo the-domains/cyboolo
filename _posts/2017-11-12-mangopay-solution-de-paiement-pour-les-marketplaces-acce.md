@@ -1,18 +1,14 @@
 ---
 author: []
 related: []
-publisher:
-  url: 'https://www.mangopay.com'
-  name: Mangopay
-  favicon: 'https://www.mangopay.com/wp-content/themes/underscores/img/favicon1.png'
-  domain: www.mangopay.com
+publisher: {}
 keywords: []
-description: Solution de paiement pour les marketplaces
+description: Solution de paiement pour les Marketplace. Conformité PCI-DSS.
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Système de paiement intégré
-datePublished: '2018-01-19T16:57:51.576Z'
-dateModified: '2018-01-19T16:57:50.505Z'
+datePublished: '2018-01-19T17:03:07.293Z'
+dateModified: '2018-01-19T17:03:06.440Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
@@ -23,6 +19,6 @@ _type: MediaObject
 
 ---
 # **Système de paiement intégré**
-![Solution de paiement pour les marketplaces](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14e815477b535e6274689b779b4379163032d81.png)
+![Solution de paiement pour les Marketplace. Conformité PCI-DSS.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5c17b54-a3f8-452a-9d77-167bf4d8cc7a.png)
 ![Paiements par VISA/MASTERCARD. Technologies anti fraudes et 3D SECURE.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a663e3c0-1b4f-4b44-b245-09bf3f41b409.png)
 ![Les gains de vos ventes sont transférés directement sur votre compte en banque](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47a1ae90-0335-4116-a0da-44c67bf58999.png)
