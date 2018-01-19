@@ -11,13 +11,13 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://cyboolo-demo.netlify.com/'
 title: Apprendre à utiliser cyboolo
-datePublished: '2018-01-19T14:57:04.948Z'
-dateModified: '2018-01-19T14:57:03.624Z'
+datePublished: '2018-01-19T15:21:03.680Z'
+dateModified: '2018-01-19T15:21:03.508Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-powered-by-cybooloio.md
+datePublishedOriginal: '2018-01-19T15:21:03.680Z'
 starred: false
-datePublishedOriginal: '2017-09-10T14:11:00.342Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
