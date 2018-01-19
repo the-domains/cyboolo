@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://cyboolo-demo.netlify.com/'
 title: Démos & tutoriels
-datePublished: '2018-01-19T15:22:25.776Z'
-dateModified: '2018-01-19T15:22:24.778Z'
+datePublished: '2018-01-19T15:22:32.988Z'
+dateModified: '2018-01-19T15:22:32.677Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-powered-by-cybooloio.md
