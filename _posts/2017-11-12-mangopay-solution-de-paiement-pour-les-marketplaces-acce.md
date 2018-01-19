@@ -12,8 +12,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Système de paiement intégré
-datePublished: '2018-01-19T16:32:30.239Z'
-dateModified: '2018-01-19T16:32:29.492Z'
+datePublished: '2018-01-19T16:35:11.257Z'
+dateModified: '2018-01-19T16:35:10.076Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
@@ -25,12 +25,12 @@ _type: MediaObject
 ---
 # **Système de paiement intégré**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb845fe5-e287-4b37-be58-c072d23fc40c.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a663e3c0-1b4f-4b44-b245-09bf3f41b409.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09f5da4-d599-43db-a6d0-37d2a38cfe1a.png)
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14e815477b535e6274689b779b4379163032d81.png" /><h1>Paiements sécurisés et protection des données</h1><p>Solution de paiement pour les Marketplaces</p></article>
 
 Les données de cartes et les informations bancaires sensibles ne sont pas stockées sur nos serveurs. Notre prestataire [MANGOPAY ][0]assure la [conformité PCI-DSS ][1]des transactions. Paiements par VISA/MASTERCARD. Technologies anti fraudes et 3D SECURE. Les gains de vos ventes sont transférés directement sur votre compte en banque.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a663e3c0-1b4f-4b44-b245-09bf3f41b409.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09f5da4-d599-43db-a6d0-37d2a38cfe1a.png)
 
 [0]: https://www.mangopay.com/fr
 [1]: https://www.mangopay.com/wp-content/uploads/MANGOPAY-SA_MERCHANT_PCIDSS_Certificate-of-Compliance_may2016.pdf
