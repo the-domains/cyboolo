@@ -7,8 +7,8 @@ description: Solution de paiement pour les Marketplace. Conformité PCI-DSS.
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Système de paiement intégré
-datePublished: '2018-01-19T17:04:00.890Z'
-dateModified: '2018-01-19T17:04:00.062Z'
+datePublished: '2018-01-19T17:05:18.324Z'
+dateModified: '2018-01-19T17:05:16.869Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
