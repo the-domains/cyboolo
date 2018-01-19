@@ -1,11 +1,7 @@
 ---
 author: []
 related: []
-publisher:
-  url: 'https://www.mangopay.com'
-  name: Mangopay
-  favicon: 'https://www.mangopay.com/wp-content/themes/underscores/img/favicon1.png'
-  domain: www.mangopay.com
+publisher: {}
 keywords: []
 description: >-
   Les données de cartes et les informations bancaires sensibles ne sont pas
@@ -16,8 +12,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Système de paiement intégré
-datePublished: '2018-01-19T15:22:33.056Z'
-dateModified: '2018-01-19T15:22:32.677Z'
+datePublished: '2018-01-19T16:27:59.148Z'
+dateModified: '2018-01-19T16:27:58.279Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
@@ -28,6 +24,7 @@ _type: MediaObject
 
 ---
 # **Système de paiement intégré**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb845fe5-e287-4b37-be58-c072d23fc40c.png)
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14e815477b535e6274689b779b4379163032d81.png" /><h1>Paiements sécurisés et protection des données</h1><p>Solution de paiement pour les Marketplaces - Accepter les paiements, Cantonner les fonds, Automatiser les Pay-outs</p></article>
 
