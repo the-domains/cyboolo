@@ -10,18 +10,18 @@ keywords: []
 description: ''
 app_links: []
 isBasedOnUrl: 'https://cyboolo-demo.netlify.com/'
-title: Apprendre à utiliser cyboolo
-datePublished: '2018-01-19T15:21:03.680Z'
-dateModified: '2018-01-19T15:21:03.508Z'
+title: Démos & tutoriels
+datePublished: '2018-01-19T15:22:25.776Z'
+dateModified: '2018-01-19T15:22:24.778Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-powered-by-cybooloio.md
-datePublishedOriginal: '2018-01-19T15:21:03.680Z'
 starred: false
+datePublishedOriginal: '2018-01-19T15:21:03.680Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Apprendre à utiliser cyboolo
+# [Démos & tutoriels][0]
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4358c06e6a3fbae41cf5e25c286cebf77f1705af.png" /><h1>DEMO &amp; TUTORIELS</h1></article>
+[0]: https://cyboolo-demo.netlify.com/
