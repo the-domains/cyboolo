@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-19T15:22:32.677Z'
-datePublished: '2018-01-19T15:22:33.059Z'
+dateModified: '2018-01-19T16:26:21.953Z'
+datePublished: '2018-01-19T16:26:22.824Z'
 title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
@@ -22,6 +22,7 @@ _type: Blurb
 
 * Stop aux formulaires à rallonge et aux interfaces compliquées.
 [DEMARREZ GRATUITEMENT][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/318d78ba-84c8-46b2-9480-ec84c9b4765b.png)
 
 ## **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
 
