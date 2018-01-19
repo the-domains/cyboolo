@@ -1,13 +1,13 @@
 ---
 publisher: {}
-datePublished: '2018-01-19T23:53:23.197Z'
-dateModified: '2018-01-19T23:53:22.303Z'
+datePublished: '2018-01-19T23:56:43.461Z'
+dateModified: '2018-01-19T23:56:42.801Z'
 via: {}
 description: >-
   Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes
   d’exploitation récents. Gérez votre profil, vos cours et suivez les
   statistiques de votre site (cours publiés, visites, ventes, clients).
-title: Développez vos cours sans savoir coder.
+title: Développez votre activité sur le web sans savoir coder.
 sourcePath: >-
   _posts/2017-06-03-une-interface-pensee-pour-faciliter-la-gestion-de-votre-espa.md
 inFeed: true
@@ -18,7 +18,7 @@ datePublishedOriginal: '2017-12-27T10:31:37.340Z'
 _type: Blurb
 
 ---
-# Développez vos cours sans savoir coder.
+# Développez votre activité sur le web sans savoir coder.
 
 ## Interface très simple à utiliser
 
