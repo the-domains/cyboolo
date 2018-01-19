@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-27T13:17:13.680Z'
-dateModified: '2017-12-27T13:17:12.844Z'
+datePublished: '2018-01-19T15:22:33.054Z'
+dateModified: '2018-01-19T15:22:32.677Z'
 via: {}
 description: >-
   Avec nom de domaine, hébergement sécurisé, réseau de diffusion de contenu
