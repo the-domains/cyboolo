@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-27T14:17:17.470Z'
-dateModified: '2017-12-27T14:17:16.857Z'
+datePublished: '2018-01-19T15:22:33.053Z'
+dateModified: '2018-01-19T15:22:32.677Z'
 via: {}
 description: ''
 title: L’esprit cyboolo
