@@ -4,9 +4,9 @@
         <description><![CDATA[Lancez un site e-commerce et vendez vos cours sur le web]]></description>
         <link>http://cyboolo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Jan 2018 11:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2018 11:30:34 GMT</lastBuildDate>
         <atom:link href="http://cyboolo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jan 2018 11:28:12 GMT</pubDate>
+        <pubDate>Sat, 20 Jan 2018 11:30:33 GMT</pubDate>
         <item>
             <title><![CDATA[Partagez votre passion, transmettez vos connaissances et valorisez vos compétences]]></title>
             <description><![CDATA[<h2>Partagez votre passion, transmettez vos connaissances et valorisez vos compétences</h2>,<p>cyboolo vous accompagne pour vous permettre de vous concentrer sur la création et la vente de vos cours.</p>,<h3><a href="https://cyboolo-demo.netlify.com/" title="">DEMOS &amp; TUTORIELS</a></h3>]]></description>
@@ -31,7 +31,7 @@
         <item>
             <title><![CDATA[Système sécurisé de paiement intégré]]></title>
             <description><![CDATA[<h1>Système sécurisé de paiement intégré</h1>,<h2>Solution de paiement pour les Marketplace</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fc19573-d724-41ba-9f0a-bb64619c5a24.png" title="S&eacute;curit&eacute;">,<blockquote>Les donn&eacute;es de cartes et les informations bancaires sensibles ne sont pas stock&eacute;es sur nos serveurs. Conformit&eacute; PCI-DSS des transactions. Protocole https (TLS protocole)</blockquote>]]></description>
-            <link>http://cyboolo.io/systeme-securise-de-paiement-integre/index.html</link>
+            <link>https://www.mangopay.com/fr</link>
             <guid isPermaLink="false">4440a893-9389-4429-9685-45f1a6589bfe</guid>
             <pubDate>Sat, 20 Jan 2018 11:15:12 GMT</pubDate>
         </item>
