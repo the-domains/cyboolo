@@ -11,8 +11,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Monétisez en toute confiance
-datePublished: '2018-01-20T19:46:08.739Z'
-dateModified: '2018-01-20T19:46:07.760Z'
+datePublished: '2018-01-20T19:47:28.462Z'
+dateModified: '2018-01-20T19:47:25.523Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
