@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-01-20T12:03:02.111Z'
-datePublished: '2018-01-20T12:03:02.476Z'
+dateModified: '2018-01-20T12:10:17.408Z'
+datePublished: '2018-01-20T12:10:17.760Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
