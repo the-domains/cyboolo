@@ -1,19 +1,14 @@
 ---
 author: []
 related: []
-publisher:
-  url: 'https://support.cyboolo.io'
-  name: Cyboolo
-  favicon: >-
-    https://image.crisp.chat/avatar/website/903a424d-9434-4960-b384-dadb0ceaf312/512/
-  domain: support.cyboolo.io
+publisher: {}
 keywords: []
-description: ''
+description: Aide & Tutoriels
 app_links: []
 isBasedOnUrl: 'https://cyboolo-demo.netlify.com/'
 title: Apprendre à utiliser cyboolo
-datePublished: '2018-01-20T19:24:05.892Z'
-dateModified: '2018-01-20T19:24:04.856Z'
+datePublished: '2018-01-20T19:27:29.565Z'
+dateModified: '2018-01-20T19:27:28.978Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-powered-by-cybooloio.md
@@ -24,5 +19,8 @@ _type: MediaObject
 
 ---
 # Apprendre à utiliser cyboolo
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82590599-373e-422a-9746-0db2b1ef365a.png)
 
-<article style=""><img src="https://storage.crisp.chat/users/helpdesk/website/903a424d-9434-4960-b384-dadb0ceaf312/ba42f057-283a-4af6-852d-271d16231e53.jpg" /><h1>Aide &amp; Tutoriels - cyboolo</h1></article>
+[Aide & Tutoriels][0]
+
+[0]: https://support.cyboolo.io/fr
