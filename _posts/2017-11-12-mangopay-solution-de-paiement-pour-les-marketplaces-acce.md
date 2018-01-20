@@ -10,9 +10,9 @@ description: >-
   votre compatibilité.
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
-title: Monétisez en confiance
-datePublished: '2018-01-20T11:47:35.914Z'
-dateModified: '2018-01-20T11:47:34.504Z'
+title: Monétisez en toute confiance
+datePublished: '2018-01-20T12:12:18.350Z'
+dateModified: '2018-01-20T12:12:17.684Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Monétisez en confiance
+# Monétisez en toute confiance
 
 ## Acceptez des paiements en ligne par CB et vendez en France et dans les pays de l'UE.
 
