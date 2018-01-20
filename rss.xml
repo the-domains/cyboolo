@@ -4,9 +4,9 @@
         <description><![CDATA[Lancez un site e-commerce et vendez vos cours sur le web]]></description>
         <link>http://cyboolo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Jan 2018 11:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2018 12:02:31 GMT</lastBuildDate>
         <atom:link href="http://cyboolo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jan 2018 11:50:04 GMT</pubDate>
+        <pubDate>Sat, 20 Jan 2018 12:02:30 GMT</pubDate>
         <item>
             <title><![CDATA[Partagez votre passion, transmettez vos connaissances et valorisez vos compétences]]></title>
             <description><![CDATA[<h2>Partagez votre passion, transmettez vos connaissances et valorisez vos compétences</h2>,<p>cyboolo vous accompagne pour vous permettre de vous concentrer sur la création et la vente de vos cours.</p>,<h3><a href="https://cyboolo-demo.netlify.com/" title="">DEMOS &amp; TUTORIELS</a></h3>]]></description>
@@ -48,6 +48,13 @@
             <link>https://cyboolo-demo.netlify.com/</link>
             <guid isPermaLink="false">17e6db63-bb84-40a8-892a-cc010e7c5cbc</guid>
             <pubDate>Sun, 10 Sep 2017 14:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gérez votre image]]></title>
+            <description><![CDATA[<h1>Gérez votre image</h1>,<blockquote>B&eacute;n&eacute;ficiez des outils de communication int&eacute;gr&eacute;s &agrave; cyboolo afin de mieux conna&icirc;tre les besoins et les attentes de vos utilisateurs.</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b28236d3-7829-4bd8-8ffd-a852378df9ba.png" title="STATS CROISSANCE">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/945197e9-2234-4d99-893f-bd234bba996e.png" title="CHATS / COMMENTAIRES">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5206c11-daa7-4e26-b9af-75fe0c90e79f.png" title="VIDEOS WALL">]]></description>
+            <link>http://cyboolo.io/gerez-votre-image/index.html</link>
+            <guid isPermaLink="false">ee4259de-d651-41e9-8c02-cc6cc9ff952f</guid>
+            <pubDate>Sat, 20 Jan 2018 12:02:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
