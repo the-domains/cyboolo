@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Bénéficiez des outils de communication intégrés à cyboolo afin de mieux
   connaître les besoins et les attentes de vos utilisateurs.
-dateModified: '2018-01-20T12:03:02.111Z'
-datePublished: '2018-01-20T12:03:02.475Z'
-title: Gérez votre image
+dateModified: '2018-01-20T12:08:41.643Z'
+datePublished: '2018-01-20T12:08:43.165Z'
+title: Gérez votre image et votre présence sur le web
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,9 @@ url: gerez-votre-image/index.html
 _type: Article
 
 ---
-# Gérez votre image
+# Gérez votre image et votre présence sur le web
+
+## Suivez la croissance de votre communauté et maîtrisez votre communication en étant à l'écoute de vos utilisateurs
 
 > Bénéficiez des outils de communication intégrés à cyboolo afin de mieux connaître les besoins et les attentes de vos utilisateurs.
 
