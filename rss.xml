@@ -4,9 +4,9 @@
         <description><![CDATA[Lancez un site e-commerce et vendez vos cours sur le web]]></description>
         <link>http://cyboolo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Jan 2018 19:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2018 19:27:31 GMT</lastBuildDate>
         <atom:link href="http://cyboolo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jan 2018 19:24:06 GMT</pubDate>
+        <pubDate>Sat, 20 Jan 2018 19:27:30 GMT</pubDate>
         <item>
             <title><![CDATA[Créez un cours...]]></title>
             <description><![CDATA[<h1><strong>Créez un cours...</strong></h1>,<h2>… de cuisine, de bricolage, d'oenologie, d'économie, de solfège, de maths, de philosophie, de javascript, de data science, de fifa 2018,…</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/535266bb-5100-4002-b9e0-8dc733d63473.png" title="YOGA">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a270627-7182-4501-8f13-bee61214944e.png" title="DESIGN">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47c890ee-2204-48c0-9efb-0524138c7958.png" title="CREATION D&apos;APPLIS">]]></description>
@@ -44,7 +44,7 @@
         </item>
         <item>
             <title><![CDATA[Apprendre à utiliser cyboolo]]></title>
-            <description><![CDATA[<h1>Apprendre à utiliser cyboolo</h1>,<article><img src="https://storage.crisp.chat/users/helpdesk/website/903a424d-9434-4960-b384-dadb0ceaf312/ba42f057-283a-4af6-852d-271d16231e53.jpg"><h1>Aide &amp; Tutoriels - cyboolo</h1></article>]]></description>
+            <description><![CDATA[<h1>Apprendre à utiliser cyboolo</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82590599-373e-422a-9746-0db2b1ef365a.png">,<p><a href="https://support.cyboolo.io/fr" title="">Aide &amp; Tutoriels</a></p>]]></description>
             <link>https://cyboolo-demo.netlify.com/</link>
             <guid isPermaLink="false">17e6db63-bb84-40a8-892a-cc010e7c5cbc</guid>
             <pubDate>Sun, 10 Sep 2017 14:11:00 GMT</pubDate>
