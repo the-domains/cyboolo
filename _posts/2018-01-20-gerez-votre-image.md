@@ -3,18 +3,17 @@ inFeed: true
 description: >-
   Bénéficiez des outils de communication intégrés à cyboolo afin de mieux
   connaître les besoins et les attentes de vos utilisateurs.
-dateModified: '2018-01-20T12:12:02.113Z'
-datePublished: '2018-01-20T12:12:02.351Z'
+dateModified: '2018-01-20T12:13:04.722Z'
+datePublished: '2018-01-20T12:13:05.402Z'
 title: Communication
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: _posts/2018-01-20-gerez-votre-image.md
 starred: false
 datePublishedOriginal: '2018-01-20T12:02:29.563Z'
-url: gerez-votre-image/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Communication
