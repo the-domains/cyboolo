@@ -5,16 +5,16 @@ publisher: {}
 keywords: []
 description: ''
 app_links: []
+isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Système sécurisé de paiement intégré
-datePublished: '2018-01-20T11:28:11.956Z'
-dateModified: '2018-01-20T11:28:10.976Z'
+datePublished: '2018-01-20T11:30:32.388Z'
+dateModified: '2018-01-20T11:30:30.562Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2018-01-20T11:15:12.174Z'
-url: systeme-securise-de-paiement-integre/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
