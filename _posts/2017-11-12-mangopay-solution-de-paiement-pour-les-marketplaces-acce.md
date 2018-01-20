@@ -7,16 +7,16 @@ description: >-
   Acceptez des paiements en ligne par carte bleue. Technologies anti fraudes et
   3D SECURE.
 app_links: []
+isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Monétisez en confiance
-datePublished: '2018-01-20T11:21:58.054Z'
-dateModified: '2018-01-20T11:21:55.160Z'
+datePublished: '2018-01-20T11:26:18.592Z'
+dateModified: '2018-01-20T11:26:17.851Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-11-12T19:48:58.411Z'
-url: systeme-securise-de-paiement-integre/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
