@@ -5,8 +5,8 @@ description: >-
   Olivier TRUC, fondateur de cyboolo, micro-entreprise immatriculée au RCS de
   Toulouse sous le n°834 169 633 dont le siège social est sis au 15 bis rue de
   l'église, 31330 ONDES (ci-après « Olivier TRUC »).
-dateModified: '2018-01-20T12:13:13.002Z'
-datePublished: '2018-01-20T12:13:13.365Z'
+dateModified: '2018-01-25T22:45:17.250Z'
+datePublished: '2018-01-25T22:45:18.624Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -101,7 +101,7 @@ Sauf mention contraire, un Cours est publié sur le Site pour une période au mo
 
 En acceptant les présentes CG, le Vendeur accepte expressément que tout Cours qu'il souhaiterait ne plus proposer à la vente restera accessible auprès des Acheteurs s'étant porté acquéreurs du Cours avant qu'il ne soit plus proposé à la vente, pour une durée égale à UNE ANNEE afin de laisser un temps d'apprentissage raisonnable à ces derniers.
 
-Le Vendeur qui souhaite retirer un Cours publié et mis en vente doit en faire la demande par mail à support@cyboolo.com
+Le Vendeur qui souhaite retirer un Cours publié et mis en vente doit en faire la demande par mail à support@cyboolo.io
 
 ### Article 7 - Obligations du Vendeur
 
@@ -131,11 +131,11 @@ La création d'un espace personnel est un préalable indispensable à toute cont
 
 La collecte des données a pour objet la création d'un "compte membre" qui permet la personnalisation du site de l'Utilisateur, la gestion des prestations souscrites mais aussi la validation des informations de l'Utilisateur auprès de notre prestataire de gestion des paiements MANGOPAY (https://www.mangopay.com/fr). Ce compte permet à l'Utilisateur de consulter ses contributions, ses factures et les Prestations dont il est titulaire sur le Site. Si les données contenues dans ce compte venaient à disparaître à la suite d'une panne technique ou d'un cas de force majeure, la responsabilité du Site et de son Editeur ne pourrait être engagée, ces informations n'ayant aucune valeur probante mais uniquement un caractère informatif. Les pages relatives aux comptes membres sont librement imprimables par le titulaire du compte en question mais ne constituent nullement une preuve, elles n'ont qu'un caractère informatif destiné à assurer une gestion efficace du service ou des contributions par l'Utilisateur.
 
-Chaque Utilisateur est libre de fermer son compte et ses données sur le Site. Pour ceci, il doit adresser un e-mail à support@cyboolo.com indiquant qu'il souhaite supprimer son compte. Aucune récupération de ses données ne sera alors possible.
+Chaque Utilisateur est libre de fermer son compte et ses données sur le Site. Pour ceci, il doit adresser un e-mail à support@cyboolo.io indiquant qu'il souhaite supprimer son compte. Aucune récupération de ses données ne sera alors possible.
 
 L'Editeur se réserve le droit exclusif de supprimer le compte de tout Utilisateur qui aurait contrevenu aux présentes CG (notamment, mais sans que cet exemple n'ait un quelconque caractère exhaustif, lorsque l'Utilisateur aura fourni sciemment des informations erronées, lors de son inscription et de la constitution de son espace personnel) ou encore tout compte inactif depuis au moins une année. Ladite suppression ne sera pas susceptible de constituer un dommage pour l'Utilisateur exclu qui ne pourra prétendre à aucune indemnité de ce fait. Cette exclusion n'est pas exclusive de la possibilité, pour l'Editeur, d'entreprendre des poursuites d'ordre judiciaire à l'encontre de l'Utilisateur, lorsque les faits l'auront justifié.
 
-Tout Utilisateur, pour vendre ses Cours sur le Site, doit créer un "Wallet" afin de s'authentifier auprès de notre gestionnaire de paiements MANGOPAY (https://www.mangopay.com/fr). Ce "Wallet", ou portefeuille, permet à l'Utilisateur de percevoir le montant de ses ventes de Cours et de les transférer sur son compte en banque après déduction des éventuelles commissions prélevées par le Site en fonction de le formule souscrite par l'Utilisateur. Si l'Utilisateur ne créé pas de "Wallet", il ne sera pas autorisé à publier de Cours sur le Site et par conséquent ne pourra pas vendre ses Cours. Lorsqu'il crée un "Wallet", l'Utilisateur est invité à fournir des documents permettant à MANGOPAY de valider son identité et d'authentifier sa société (documents dits KYC pour Know Your Customer qui se traduit par Connaissance de votre Client). Les documents doivent être téléchargés sur le Site dans la rubrique prévue à cet effet (Rubrique Mon Compte / Onglet Infos légales). Une fois téléchargés, ces documents sont vérifiés automatiquement par MANGOPAY. Si l'Utilisateur ne télécharge pas ces documents ou bien si les documents ne sont pas validés par MANGOPAY, l'Utilisateur sera limité à 1000,00 € de vente par an. L'Utilisateur ne pourra prétendre à aucune indemnité de ce fait et cette limitation ne pourra prendre fin qu'une fois que les documents demandés auront été téléchargés sur le Site et validés par MANGOPAY. Le statut des documents téléchargés et soumis pour validation à MANGOPAY est indiqué à l'utilisateur (En cours de validation, Validé ou Refusé). La durée nécessaire pour la validation des documents par MANGOPAY est de quelques jours ouvrés, il est donc nécessaire que l'Utilisateur anticipe cette durée de validation voire l'éventuel refus par MANGOPAY.
+Tout Utilisateur, pour publier ses Cours sur le Site, doit créer un "Wallet" afin de s'authentifier auprès de notre gestionnaire de paiements MANGOPAY (https://www.mangopay.com/fr). Ce "Wallet", ou portefeuille, permet à l'Utilisateur de percevoir le montant de ses ventes de Cours et de les transférer sur son compte en banque après déduction des éventuelles commissions prélevées par le Site en fonction de le formule souscrite par l'Utilisateur. Si l'Utilisateur ne créé pas de "Wallet", il ne sera pas autorisé à publier de Cours sur le Site et par conséquent ne pourra pas vendre ses Cours ni même de proposer des cours gratuits. Lorsqu'il crée un "Wallet", l'Utilisateur est invité à fournir des documents permettant à MANGOPAY de valider son identité et d'authentifier sa société (documents dits KYC pour Know Your Customer qui se traduit par Connaissance de votre Client). Les documents doivent être téléchargés sur le Site dans la rubrique prévue à cet effet (Rubrique Mon Compte / Onglet Infos légales). Une fois téléchargés, ces documents sont vérifiés automatiquement par MANGOPAY. Si l'Utilisateur ne télécharge pas ces documents ou bien si les documents ne sont pas validés par MANGOPAY, l'Utilisateur sera limité à 1000,00 € de vente par an. L'Utilisateur ne pourra prétendre à aucune indemnité de ce fait et cette limitation ne pourra prendre fin qu'une fois que les documents demandés auront été téléchargés sur le Site et validés par MANGOPAY. Le statut des documents téléchargés et soumis pour validation à MANGOPAY est indiqué à l'utilisateur (En cours de validation, Validé ou Refusé). La durée nécessaire pour la validation des documents par MANGOPAY est de quelques jours ouvrés, il est donc nécessaire que l'Utilisateur anticipe cette durée de validation voire l'éventuel refus par MANGOPAY.
 
 ### Article 9 - Prestations payantes proposées sur le Site et tarifs
 
@@ -195,7 +195,7 @@ La commission est acquise et due dès que l'Acheteur a passé commande sur le Si
 
 ### Article 13 - Service d'assistance du Site
 
-Le service d'assistance du Site est accessible par courrier électronique à l'adresse suivante: support@cyboolo.com ou par courrier postal à l'adresse indiquée dans les mentions légales.
+Le service d'assistance du Site est accessible par courrier électronique à l'adresse suivante: support@cyboolo.io ou par courrier postal à l'adresse indiquée dans les mentions légales.
 
 ### Article 14 - Vente entre Utilisateurs et intermédiaire de paiement
 
@@ -227,7 +227,7 @@ Un Vendeur sur le site est aussi, conformément au Code du Commerce, tenu de com
 
 Le Vendeur est seul responsable de la mise en vente des services qu'il propose sur le site. Sur le descriptif associé aux services qu'il propose sur le site, le Vendeur s'engage à agir de bonne foi. Il est seul responsable de l'exactitude des mentions y figurant et s'engage à ce qu'elles ne risquent pas d'induire en erreur les acheteurs potentiels, tant sur les caractéristiques du service, que sur son état ou son prix. Le Vendeur communique aux Acheteurs toutes les informations leur permettant de connaître les caractéristiques essentielles du service.
 
-Le prix de vente des Services est défini librement par le Vendeur, dans le respect des lois et règlements en vigueur. **Afin de respecter le modèle économique du Site, le Vendeur accepte expressément que le prix de vente ne soit pas inférieur à un montant de 50 € HT. Il n'est donc pas possible de proposer des Cours gratuits sur le Site.** Ce prix doit être mentionné sur le Site toutes taxes et frais compris (notamment TVA, frais de transaction, commissions, etc.).
+Le prix de vente des Services est défini librement par le Vendeur, dans le respect des lois et règlements en vigueur. Ce prix doit être mentionné sur le Site toutes taxes et frais compris (notamment TVA, frais de transaction, commissions, etc.).
 
 Les contrats de vente services proposés par le Vendeur sur le Site sont conclus entre le Vendeur et l'Acheteur sous la condition résolutoire que le service soit disponible. Le Vendeur s'engage à n'offrir sur le site que des services disponibles et à supprimer sans délai du Site toute offre se rapportant à des services qui ne sont plus disponibles.
 
