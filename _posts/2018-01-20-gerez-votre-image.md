@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Bénéficiez des outils de communication intégrés à cyboolo afin de mieux
   connaître les besoins et les attentes de vos utilisateurs.
-dateModified: '2018-02-12T22:52:33.394Z'
-datePublished: '2018-02-12T22:52:34.716Z'
+dateModified: '2018-02-12T22:52:34.844Z'
+datePublished: '2018-02-12T22:52:36.128Z'
 title: Communication
 author: []
 publisher: {}
