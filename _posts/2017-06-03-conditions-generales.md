@@ -5,8 +5,8 @@ description: >-
   Olivier TRUC, fondateur de cyboolo, micro-entreprise immatriculée au RCS de
   Toulouse sous le n°834 169 633 dont le siège social est sis au 15 bis rue de
   l'église, 31330 ONDES (ci-après « Olivier TRUC »).
-dateModified: '2018-01-25T22:45:17.250Z'
-datePublished: '2018-01-25T22:45:18.624Z'
+dateModified: '2018-02-12T22:36:32.320Z'
+datePublished: '2018-02-12T22:36:32.609Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
