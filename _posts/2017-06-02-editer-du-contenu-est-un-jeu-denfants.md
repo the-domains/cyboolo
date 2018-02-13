@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-20T11:52:44.105Z'
-datePublished: '2018-01-20T11:52:46.993Z'
+dateModified: '2018-02-13T20:56:15.224Z'
+datePublished: '2018-02-13T20:56:15.862Z'
 title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ _type: Blurb
 
 ---
 # **Créez vos cours depuis votre explorateur web**
-[DEMARREZ GRATUITEMENT][0]
+[Testez cyboolo en version BETA][0]
 
 * Rédiger vos cours devient aussi simple que d'utiliser un éditeur de texte.
 
@@ -26,4 +26,4 @@ _type: Blurb
 
 ## **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
 
-[0]: https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB
+[0]: https://go.crisp.chat/chat/embed/?website_id=903a424d-9434-4960-b384-dadb0ceaf312
