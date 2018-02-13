@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-13T20:56:15.224Z'
-datePublished: '2018-02-13T20:56:15.862Z'
+dateModified: '2018-02-13T20:59:26.715Z'
+datePublished: '2018-02-13T20:59:27.612Z'
 title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ _type: Blurb
 
 ---
 # **Créez vos cours depuis votre explorateur web**
-[Testez cyboolo en version BETA][0]
+[INSCRIPTION (version BETA)][0]
 
 * Rédiger vos cours devient aussi simple que d'utiliser un éditeur de texte.
 
