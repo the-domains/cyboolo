@@ -2,9 +2,10 @@
 inFeed: true
 description: >-
   Partagez votre passion, transmettez vos connaissances et valorisez vos
-  compétences
-dateModified: '2018-02-17T16:58:18.639Z'
-datePublished: '2018-02-17T16:58:19.210Z'
+  compétences. cyboolo vous accompagne pour vous permettre de vous concentrer
+  sur la création et la vente de vos cours
+dateModified: '2018-02-17T17:00:39.962Z'
+datePublished: '2018-02-17T17:00:40.659Z'
 title: ''
 author: []
 publisher: {}
@@ -16,4 +17,4 @@ datePublishedOriginal: '2018-02-17T16:51:13.859Z'
 _type: Blurb
 
 ---
-> Partagez votre passion, transmettez vos connaissances et valorisez vos compétences
+> Partagez votre passion, transmettez vos connaissances et valorisez vos compétences. cyboolo vous accompagne pour vous permettre de vous concentrer sur la création et la vente de vos cours
