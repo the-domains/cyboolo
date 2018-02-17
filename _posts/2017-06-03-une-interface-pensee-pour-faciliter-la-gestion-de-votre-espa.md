@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T16:58:58.078Z'
-dateModified: '2018-02-17T16:58:57.501Z'
+datePublished: '2018-02-17T20:47:51.927Z'
+dateModified: '2018-02-17T20:47:51.285Z'
 via: {}
 description: >-
   Gérez votre site et vos cours depuis une interface unique. Fonctionne sur
@@ -23,6 +23,8 @@ _type: Blurb
 ## Développez rapidement votre activité sur le web
 
 > Gérez votre site et vos cours depuis une interface unique. Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes d'exploitation récents. 
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b68021e3-283d-4299-9961-34abaa7595ed.png)
 
 * Simple même sans savoir coder
 * Intuitif et très facile à utiliser
