@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T15:43:15.192Z'
-dateModified: '2018-02-17T15:43:14.507Z'
+datePublished: '2018-02-17T15:56:09.660Z'
+dateModified: '2018-02-17T15:56:08.571Z'
 via: {}
 description: ''
 title: L’esprit cyboolo
@@ -23,3 +23,5 @@ _type: Blurb
 * Les micro entreprises
 * Les passionnés
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b317bbe-9a5d-4e5e-b8e6-348c64e650cd.png)
+
+> Proposez des cours gratuits ou payants, c'est vous qui décidez.
