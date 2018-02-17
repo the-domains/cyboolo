@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T15:13:09.085Z'
-dateModified: '2018-02-17T15:13:08.322Z'
+datePublished: '2018-02-17T15:18:44.634Z'
+dateModified: '2018-02-17T15:18:43.923Z'
 via: {}
 description: >-
   Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes
@@ -22,6 +22,8 @@ _type: Blurb
 # Développez votre activité sur le web sans savoir coder.
 
 > Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes d'exploitation récents. Gérez votre profil, vos cours et suivez les statistiques de votre site (cours publiés, visites, ventes, clients) depuis une interface unique.
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42625a08-0c96-46f3-975c-d34bdc106f5a.png)
 
 * Simple
 * Intuitif
