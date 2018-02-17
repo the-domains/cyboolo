@@ -1,9 +1,11 @@
 ---
 publisher: {}
-datePublished: '2018-01-20T11:50:03.120Z'
-dateModified: '2018-01-20T11:50:02.006Z'
+datePublished: '2018-02-17T15:39:13.327Z'
+dateModified: '2018-02-17T15:39:12.648Z'
 via: {}
-description: ''
+description: >-
+  Pour assurer une présence sur le web, un complément de revenus ou développer
+  un vrai business
 title: L’esprit cyboolo
 sourcePath: >-
   _posts/2017-06-02-si-tu-veux-faire-quelque-chose-ou-tu-trouves-un-moyen-ou-tu.md
@@ -17,8 +19,9 @@ _type: Article
 
 ---
 # L'esprit cyboolo
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a297b337-3cfd-49ca-8957-5203dc93fe9d.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/906030c5-e7f7-4541-9254-1b02e38e0644.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28224350-9688-4190-ba0e-f8d7d0f72658.png)
 
-> Pour assurer un complément de revenus ou développer un vrai business
+* Pour les indépendants
+* Les micro entreprises
+* Les passionnés
+
+> Pour assurer une présence sur le web, un complément de revenus ou développer un vrai business
