@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-17T16:54:33.298Z'
-datePublished: '2018-02-17T16:54:33.909Z'
+dateModified: '2018-02-17T16:55:23.591Z'
+datePublished: '2018-02-17T16:55:24.234Z'
 title: >-
   Partagez votre passion, transmettez vos connaissances et valorisez vos
   compétences
@@ -16,4 +16,4 @@ datePublishedOriginal: '2018-02-17T16:51:13.859Z'
 _type: Blurb
 
 ---
-## Partagez votre passion, transmettez vos connaissances et valorisez vos compétences
+# Partagez votre passion, transmettez vos connaissances et valorisez vos compétences
