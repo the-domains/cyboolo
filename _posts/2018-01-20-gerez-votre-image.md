@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-12T23:02:15.805Z'
-datePublished: '2018-02-12T23:02:16.559Z'
+dateModified: '2018-02-17T15:33:14.881Z'
+datePublished: '2018-02-17T15:33:16.277Z'
 title: Communication
 author: []
 publisher: {}
@@ -16,7 +16,8 @@ _type: Blurb
 ---
 # Communication
 
-## Bénéficiez des outils de communication intégrés à cyboolo afin de mieux connaître les besoins et les attentes de vos utilisateurs.
+## Bénéficiez des outils de communication intégrés à cyboolo afin de mieux connaître les besoins et les attentes de vos utilisateurs. Aidez-les à progresser et répondez à leurs questions.
 
-* **Chats / Commentaires **pour chacun de vos cours
+* **Chats** en ligne intégrés à votre site
+* **Commentaires **pour chacun de vos cours
 * **Vidéos Wall **sur votre page d'accueil
