@@ -1,11 +1,10 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T15:48:26.635Z'
-dateModified: '2018-02-17T15:48:25.591Z'
+datePublished: '2018-02-17T15:51:02.926Z'
+dateModified: '2018-02-17T15:51:02.072Z'
 via: {}
 description: >-
-  Gérez votre profil, vos cours et suivez les statistiques de votre site (cours
-  publiés, visites, ventes, clients) depuis une interface unique. Fonctionne sur
+  Gérez votre site et vos cours depuis une interface unique. Fonctionne sur
   ordinateur, tablette ou smartphone et avec tous les systèmes d’exploitation
   récents. 
 title: Pas besoin de connaissances en informatique
@@ -23,7 +22,7 @@ _type: Blurb
 
 ## Développez rapidement votre activité sur le web
 
-> Gérez votre profil, vos cours et suivez les statistiques de votre site (cours publiés, visites, ventes, clients) depuis une interface unique. Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes d'exploitation récents. 
+> Gérez votre site et vos cours depuis une interface unique. Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes d'exploitation récents. 
 
 * Simple même sans savoir coder
 * Intuitif et très facile à utiliser
