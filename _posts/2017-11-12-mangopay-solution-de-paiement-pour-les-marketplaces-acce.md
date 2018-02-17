@@ -7,8 +7,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Système de paiement intégré
-datePublished: '2018-02-17T16:57:56.306Z'
-dateModified: '2018-02-17T16:57:55.933Z'
+datePublished: '2018-02-17T16:58:58.091Z'
+dateModified: '2018-02-17T16:58:57.501Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
