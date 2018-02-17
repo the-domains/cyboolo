@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Aidez vos visiteurs à progresser en répondant à leurs questions et améliorez
   vos cours grâce à leurs retours.
-dateModified: '2018-02-17T20:42:44.859Z'
-datePublished: '2018-02-17T20:42:45.548Z'
+dateModified: '2018-02-17T20:51:05.925Z'
+datePublished: '2018-02-17T20:51:06.765Z'
 title: Communication
 author: []
 publisher: {}
