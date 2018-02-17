@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T15:39:13.327Z'
-dateModified: '2018-02-17T15:39:12.648Z'
+datePublished: '2018-02-17T15:39:48.679Z'
+dateModified: '2018-02-17T15:39:47.365Z'
 via: {}
 description: >-
   Pour assurer une présence sur le web, un complément de revenus ou développer
@@ -11,11 +11,10 @@ sourcePath: >-
   _posts/2017-06-02-si-tu-veux-faire-quelque-chose-ou-tu-trouves-un-moyen-ou-tu.md
 inFeed: true
 author: []
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-06-02T23:47:29.440Z'
-url: concu-pour-les-independants-et-les-passionnes/index.html
-_type: Article
+_type: Blurb
 
 ---
 # L'esprit cyboolo
