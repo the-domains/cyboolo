@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-01-20T12:06:24.415Z'
-dateModified: '2018-01-20T12:06:23.124Z'
+datePublished: '2018-02-17T15:12:41.524Z'
+dateModified: '2018-02-17T15:12:40.793Z'
 via: {}
 description: >-
   Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes
@@ -22,6 +22,6 @@ _type: Blurb
 
 > Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes d'exploitation récents. Gérez votre profil, vos cours et suivez les statistiques de votre site (cours publiés, visites, ventes, clients).
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/505a3e0d-136a-4ae5-b89e-fe9b75bf617d.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f0dbcec-aa02-4dfb-927f-59a9d8776185.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e00c3942-780a-4f20-9772-44235a31e7a3.png)
+* Simple
+* Intuitif
+* Responsive
