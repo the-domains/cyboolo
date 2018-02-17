@@ -7,8 +7,8 @@ description: Aide & Tutoriels
 app_links: []
 isBasedOnUrl: 'https://cyboolo-demo.netlify.com/'
 title: Apprendre à utiliser cyboolo
-datePublished: '2018-02-17T16:51:32.985Z'
-dateModified: '2018-02-17T16:51:32.114Z'
+datePublished: '2018-02-17T16:55:40.602Z'
+dateModified: '2018-02-17T16:55:40.126Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-powered-by-cybooloio.md
