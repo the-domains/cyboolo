@@ -1,14 +1,14 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T15:36:08.098Z'
-dateModified: '2018-02-17T15:36:07.201Z'
+datePublished: '2018-02-17T15:46:44.373Z'
+dateModified: '2018-02-17T15:46:43.416Z'
 via: {}
 description: >-
   Gérez votre profil, vos cours et suivez les statistiques de votre site (cours
   publiés, visites, ventes, clients) depuis une interface unique. Fonctionne sur
   ordinateur, tablette ou smartphone et avec tous les systèmes d’exploitation
   récents. 
-title: Développez votre activité sur le web
+title: Pas besoin de connaissances en informatique
 sourcePath: >-
   _posts/2017-06-03-une-interface-pensee-pour-faciliter-la-gestion-de-votre-espa.md
 inFeed: true
@@ -19,12 +19,12 @@ datePublishedOriginal: '2017-12-27T10:31:37.340Z'
 _type: Blurb
 
 ---
-# Développez votre activité sur le web
+# Pas besoin de connaissances en informatique
 
-## **Sans savoir coder.**
+## Développez rapidement votre activité sur le web
 
 > Gérez votre profil, vos cours et suivez les statistiques de votre site (cours publiés, visites, ventes, clients) depuis une interface unique. Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes d'exploitation récents. 
 
-* Simple même sans connaissances en informatique
+* Simple même sans savoir coder
 * Intuitif et très facile à utiliser
 * Compatible avec tous vos appareils
