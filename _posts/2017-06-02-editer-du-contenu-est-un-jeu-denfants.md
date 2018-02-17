@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-17T16:57:55.933Z'
-datePublished: '2018-02-17T16:57:56.287Z'
+dateModified: '2018-02-17T16:58:57.501Z'
+datePublished: '2018-02-17T16:58:58.113Z'
 title: Créez vos cours depuis votre explorateur web
 author: []
 publisher: {}
