@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   cyboolo vous accompagne pour vous permettre de vous concentrer sur la création
   et la vente de vos cours
-dateModified: '2018-02-17T16:58:38.478Z'
-datePublished: '2018-02-17T16:58:38.948Z'
+dateModified: '2018-02-17T16:58:57.501Z'
+datePublished: '2018-02-17T16:58:58.063Z'
 title: ''
 author: []
 publisher: {}
