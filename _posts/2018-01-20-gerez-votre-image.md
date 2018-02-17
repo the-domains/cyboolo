@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Aidez vos visiteurs à progresser en répondant à leurs questions et améliorez
-  vos cours grâce à leurs retours.
-dateModified: '2018-02-17T20:51:05.925Z'
-datePublished: '2018-02-17T20:51:06.765Z'
+description: ''
+dateModified: '2018-02-17T20:51:31.135Z'
+datePublished: '2018-02-17T20:51:32.086Z'
 title: Communication
 author: []
 publisher: {}
@@ -17,9 +15,9 @@ _type: Blurb
 
 ---
 # Communication
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9d30ff8-7040-4456-83c2-b96291e20f36.png)
 
-Aidez vos visiteurs à progresser en répondant à leurs questions et améliorez vos cours grâce à leurs retours.
+## Aidez vos visiteurs à progresser en répondant à leurs questions et améliorez vos cours grâce à leurs retours
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9d30ff8-7040-4456-83c2-b96291e20f36.png)
 
 > Bénéficiez des outils de communication intégrés à cyboolo afin de mieux connaître les besoins et les attentes de vos utilisateurs
 
