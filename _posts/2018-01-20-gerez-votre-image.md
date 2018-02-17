@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-17T15:33:14.881Z'
-datePublished: '2018-02-17T15:33:16.277Z'
+dateModified: '2018-02-17T16:51:32.114Z'
+datePublished: '2018-02-17T16:51:32.981Z'
 title: Communication
 author: []
 publisher: {}
