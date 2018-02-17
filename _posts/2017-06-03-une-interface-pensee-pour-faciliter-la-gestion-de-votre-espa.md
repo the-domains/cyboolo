@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T20:50:51.124Z'
-dateModified: '2018-02-17T20:50:50.114Z'
+datePublished: '2018-02-17T20:56:51.016Z'
+dateModified: '2018-02-17T20:56:50.302Z'
 via: {}
 description: >-
   Gérez votre site et vos cours depuis une interface unique. Fonctionne sur
@@ -26,6 +26,6 @@ _type: Blurb
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b68021e3-283d-4299-9961-34abaa7595ed.png)
 
-* Simple même sans savoir coder
-* Intuitif et très facile à utiliser
-* Compatible avec tous vos appareils
+* **Simple **même sans savoir coder
+* **Intuitif **et très facile à utiliser
+* **Compatible **avec tous vos appareils
