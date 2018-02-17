@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-17T15:46:44.373Z'
-dateModified: '2018-02-17T15:46:43.416Z'
+datePublished: '2018-02-17T15:48:26.635Z'
+dateModified: '2018-02-17T15:48:25.591Z'
 via: {}
 description: >-
   Gérez votre profil, vos cours et suivez les statistiques de votre site (cours
