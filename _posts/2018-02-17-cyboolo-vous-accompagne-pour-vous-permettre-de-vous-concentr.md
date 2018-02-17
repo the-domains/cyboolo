@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-17T16:56:41.043Z'
-datePublished: '2018-02-17T16:56:41.960Z'
+dateModified: '2018-02-17T16:57:55.933Z'
+datePublished: '2018-02-17T16:57:56.266Z'
 title: >-
   cyboolo vous accompagne pour vous permettre de vous concentrer sur la création
   et la vente de vos cours
