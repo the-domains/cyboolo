@@ -3,10 +3,10 @@ inFeed: false
 description: >-
   Les présentes Conditions Générales (ci-après les « CG ») sont proposées par
   Olivier TRUC, fondateur de cyboolo, micro-entreprise immatriculée au RCS de
-  Toulouse sous le n°834 169 633 dont le siège social est sis au 15 bis rue de
-  l'église, 31330 ONDES (ci-après « Olivier TRUC »).
-dateModified: '2018-02-17T16:58:57.501Z'
-datePublished: '2018-02-17T16:58:58.534Z'
+  Toulouse sous le n° SIRET 834 169 633 00015 dont le siège social est sis au 15
+  bis rue de l'église, 31330 ONDES (ci-après « Olivier TRUC »).
+dateModified: '2018-02-18T15:39:10.030Z'
+datePublished: '2018-02-18T15:39:11.533Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Blurb
 
 ## CONDITIONS GENERALES
 
-Les présentes Conditions Générales (ci-après les « CG ») sont proposées par Olivier TRUC, fondateur de cyboolo, micro-entreprise immatriculée au RCS de Toulouse sous le n°834 169 633 dont le siège social est sis au 15 bis rue de l'église, 31330 ONDES (ci-après « Olivier TRUC »).
+Les présentes Conditions Générales (ci-après les « CG ») sont proposées par Olivier TRUC, fondateur de cyboolo, micro-entreprise immatriculée au RCS de Toulouse sous le n° SIRET 834 169 633 00015 dont le siège social est sis au 15 bis rue de l'église, 31330 ONDES (ci-après « Olivier TRUC »).
 
 ---
 
