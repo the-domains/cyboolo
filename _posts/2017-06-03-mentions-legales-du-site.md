@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-02-17T16:58:57.501Z'
-datePublished: '2018-02-17T16:58:58.038Z'
+dateModified: '2018-02-18T15:38:29.086Z'
+datePublished: '2018-02-18T15:38:30.355Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -23,9 +23,9 @@ _type: Blurb
 
 ### Article 1 - Identification de l'éditeur et de l'hébergeur du site
 
-**Le site [cyboolo.io][0]** est édité par Olivier TRUC, fondateur de cyboolo, micro-entreprise immatriculée au RCS de Toulouse sous le n°834 169 633, dont le siège social est sis au 15 bis rue de l'église, 31330 ONDES.
+**Le site [cyboolo.io][0]** est édité par Olivier TRUC, fondateur de cyboolo, micro-entreprise immatriculée au RCS de Toulouse sous le n° SIRET 834 169 633 00015, dont le siège social est sis au 15 bis rue de l'église, 31330 ONDES.
 
-Directeur de la publication : Olivier TRUC, joignable au 0612194405 ou à l'adresse support@cyboolo.com.
+Directeur de la publication : Olivier TRUC, joignable au 0612194405 ou à l'adresse support@cyboolo.io
 
 **Le site est hébergé par Rituwall Inc**  
 2816 Clay Street  
