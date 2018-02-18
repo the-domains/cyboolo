@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-02-17T16:58:57.501Z'
-datePublished: '2018-02-17T16:58:58.112Z'
+dateModified: '2018-02-18T15:40:07.685Z'
+datePublished: '2018-02-18T15:40:08.728Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -36,7 +36,7 @@ La présente charte vise à vous informer des engagements du Site eu égard au r
 
 En vous inscrivant sur le Site, vous vous engagez à nous fournir des informations véritables vous concernant. La communication de fausses informations est contraire aux conditions générales figurant sur le Site.
 
-Vous pouvez à n'importe quel moment faire une demande auprès de Olivier TRUC afin de savoir quelles informations vous concernant sont détenues par Olivier TRUC, de vous opposer à leur traitement, de les faire modifier ou supprimer et ce, en contactant le directeur de publication à l'adresse support@cyboolo.com.
+Vous pouvez à n'importe quel moment faire une demande auprès de Olivier TRUC afin de savoir quelles informations vous concernant sont détenues par Olivier TRUC, de vous opposer à leur traitement, de les faire modifier ou supprimer et ce, en contactant le directeur de publication à l'adresse support@cyboolo.io
 
 ### Article 3 - Données collectées sur le Site
 
@@ -44,7 +44,7 @@ Les Données collectées et ultérieurement traitées par le Site sont celles qu
 
 Votre adresse IP (numéro d'identification attribué sur Internet à votre ordinateur) est collectée automatiquement. Vous êtes informés que le service est susceptible de mettre en œuvre un procédé automatique de traçage (Cookie), auquel vous pouvez faire obstacle en modifiant les paramètres concernés de votre navigateur internet, comme expliqué dans les conditions générales du présent Site.
 
-Les coordonnées des Utilisateurs du Site qui se seront inscrits sur celui-ci seront sauvegardées, dans le respect des dispositions de la loi informatique et liberté du 6 janvier 1978\. Conformément à cette dernière, ils disposent d'un droit d'accès, de retrait, de modification ou de rectification des Données qu'ils ont fournies. Pour cela, il leur suffit d'en faire la demande à l'adresse électronique suivante : support@cyboolo.com, ou par courrier à Olivier TRUC, 15 bis rue de l'église, 31330 ONDES.
+Les coordonnées des Utilisateurs du Site qui se seront inscrits sur celui-ci seront sauvegardées, dans le respect des dispositions de la loi informatique et liberté du 6 janvier 1978\. Conformément à cette dernière, ils disposent d'un droit d'accès, de retrait, de modification ou de rectification des Données qu'ils ont fournies. Pour cela, il leur suffit d'en faire la demande à l'adresse électronique suivante : support@cyboolo.io, ou par courrier à Olivier TRUC, 15 bis rue de l'église, 31330 ONDES.
 
 La collecte des Données personnelles des Utilisateurs par l'Editeur est en cours de déclaration auprès de l'autorité française de protection des Données personnelles (la Commission Nationale de l'Informatique et des Libertés -- CNIL).
 
