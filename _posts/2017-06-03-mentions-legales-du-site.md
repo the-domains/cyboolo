@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-02-18T15:38:29.086Z'
-datePublished: '2018-02-18T15:38:30.355Z'
+dateModified: '2018-02-19T19:27:53.735Z'
+datePublished: '2018-02-19T19:27:54.909Z'
 title: VEUILLEZ LIRE ATTENTIVEMENT CE DOCUMENT.
 author: []
 publisher: {}
@@ -37,5 +37,13 @@ Fax: 866-973-5510_
 Site web : https://thegrid.io
 
 Les informations concernant la collecte et le traitement des données personnelles (politique et déclaration) sont fournies dans la charte de données personnelles du site.
+
+Crédit illustrations:
+
+https://twitter.com/ninalimpi
+
+https://twitter.com/anges244
+
+https://undraw.co/illustrations
 
 [0]: https://cyboolo.io/
