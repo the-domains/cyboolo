@@ -1,18 +1,14 @@
 ---
 author: []
 related: []
-publisher:
-  url: 'https://support.cyboolo.io'
-  name: cyboolo
-  favicon: null
-  domain: api.urlbox.io
+publisher: {}
 keywords: []
 description: ''
 app_links: []
 isBasedOnUrl: 'https://support.cyboolo.io/fr/'
 title: Aide et tutoriels
-datePublished: '2018-02-20T20:35:39.308Z'
-dateModified: '2018-02-20T20:35:38.899Z'
+datePublished: '2018-02-20T20:37:50.542Z'
+dateModified: '2018-02-20T20:37:49.622Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-02-20-aide-and-tutoriels-cyboolo.md
@@ -22,4 +18,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://api.urlbox.io/v1/efBqJoiklz1sCrXN/png?url=support.cyboolo.io" /><h1>Aide et tutoriels</h1></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcca5a1d-2052-4f31-bf0a-06ad53b45204.png)
+
+# [Aide et tutoriels][0]
+
+[0]: https://support.cyboolo.io/
