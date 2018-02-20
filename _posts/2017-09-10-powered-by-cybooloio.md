@@ -3,12 +3,12 @@ author: []
 related: []
 publisher: {}
 keywords: []
-description: Aide & Tutoriels
+description: ''
 app_links: []
 isBasedOnUrl: 'https://cyboolo-demo.netlify.com/'
 title: Apprendre à utiliser cyboolo
-datePublished: '2018-02-20T20:22:21.112Z'
-dateModified: '2018-02-20T20:22:19.318Z'
+datePublished: '2018-02-20T20:23:44.044Z'
+dateModified: '2018-02-20T20:23:42.931Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-powered-by-cybooloio.md
@@ -20,7 +20,3 @@ _type: MediaObject
 ---
 # Apprendre à utiliser cyboolo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/300fcbff-fac8-4ea6-b2cc-66f579c4fcdf.png)
-
-[Aide & Tutoriels][0]
-
-[0]: https://support.cyboolo.io/fr/
