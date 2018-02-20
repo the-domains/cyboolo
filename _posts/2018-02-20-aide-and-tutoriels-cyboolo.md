@@ -12,13 +12,13 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://support.cyboolo.io/fr/'
 title: Aide & Tutoriels - cyboolo
-datePublished: '2018-02-20T20:29:22.089Z'
-dateModified: '2018-02-20T20:29:21.189Z'
+datePublished: '2018-02-20T20:29:39.606Z'
+dateModified: '2018-02-20T20:29:38.852Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2018-02-20-aide-and-tutoriels-cyboolo.md
 starred: false
 datePublishedOriginal: '2018-02-20T20:29:22.089Z'
-sourcePath: _posts/2018-02-20-aide-and-tutoriels-cyboolo.md
 _context: 'http://schema.org'
 _type: MediaObject
 
