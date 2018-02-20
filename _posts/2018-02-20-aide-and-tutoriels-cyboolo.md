@@ -7,8 +7,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://support.cyboolo.io/fr/'
 title: Aide et tutoriels
-datePublished: '2018-02-20T20:39:26.088Z'
-dateModified: '2018-02-20T20:39:25.972Z'
+datePublished: '2018-02-20T20:41:10.076Z'
+dateModified: '2018-02-20T20:41:09.315Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-02-20-aide-and-tutoriels-cyboolo.md
@@ -18,7 +18,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcca5a1d-2052-4f31-bf0a-06ad53b45204.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a44e5574-903d-4077-904d-295414f5f27d.png)
 
 # [Aide et tutoriels][0]
 
