@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-23T21:12:22.896Z'
-dateModified: '2018-02-23T21:12:22.312Z'
+datePublished: '2018-02-23T22:31:12.044Z'
+dateModified: '2018-02-23T22:31:10.567Z'
 via: {}
 description: >-
   Gérez votre site et vos cours depuis une interface unique. Fonctionne sur
