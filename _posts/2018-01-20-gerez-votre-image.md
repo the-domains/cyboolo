@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-23T22:31:10.567Z'
-datePublished: '2018-02-23T22:31:12.078Z'
+dateModified: '2018-02-23T22:36:00.642Z'
+datePublished: '2018-02-23T22:36:02.049Z'
 title: Communiquer n’a jamais été aussi simple
 author: []
 publisher: {}
