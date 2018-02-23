@@ -4,8 +4,8 @@ description: >-
   Partagez votre passion, transmettez vos connaissances et valorisez vos
   compétences. cyboolo vous accompagne pour vous permettre de vous concentrer
   sur la création et la vente de vos cours
-dateModified: '2018-02-23T22:31:10.567Z'
-datePublished: '2018-02-23T22:31:12.061Z'
+dateModified: '2018-02-23T22:36:00.642Z'
+datePublished: '2018-02-23T22:36:02.042Z'
 title: ''
 author: []
 publisher: {}
