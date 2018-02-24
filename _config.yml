@@ -52,4 +52,8 @@ content: []
 coverPrefs:
   filter: false
 description: 'Créez, publiez et monétisez rapidement et simplement... sans savoir coder !'
-purpose: []
+purpose:
+  - type: external
+    url: >-
+      https://go.crisp.chat/chat/embed/?website_id=903a424d-9434-4960-b384-dadb0ceaf312
+    label: INSCRIPTION (version BETA)
