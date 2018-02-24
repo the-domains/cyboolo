@@ -4,9 +4,9 @@
         <description><![CDATA[Lancez un site e-commerce et vendez vos cours sur le web]]></description>
         <link>http://cyboolo.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Feb 2018 14:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2018 14:40:04 GMT</lastBuildDate>
         <atom:link href="http://cyboolo.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Feb 2018 14:38:16 GMT</pubDate>
+        <pubDate>Sat, 24 Feb 2018 14:40:03 GMT</pubDate>
         <item>
             <title><![CDATA[Créez un cours...]]></title>
             <description><![CDATA[<h1><strong>Créez un cours...</strong></h1>,<h2>… de cuisine, de bricolage, d'oenologie, d'économie, de solfège, de maths, de philosophie, de javascript, de data science, de fifa 2018,…</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/535266bb-5100-4002-b9e0-8dc733d63473.png" title="YOGA">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a270627-7182-4501-8f13-bee61214944e.png" title="DESIGN">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47c890ee-2204-48c0-9efb-0524138c7958.png" title="CREATION D&apos;APPLIS">]]></description>
@@ -27,13 +27,6 @@
             <link>https://support.cyboolo.io/fr/</link>
             <guid isPermaLink="false">41c83285-6982-4538-a1b3-7f769b234c64</guid>
             <pubDate>Tue, 20 Feb 2018 20:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Essayez cyboolo en avant-première]]></title>
-            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw1jdsOgjAQRH-l2Xe6hajVhPIvS7fKVrmEbUj8ezHo22Qmc07Lspn4ItUAtCQtaa3GxEJgmAoduRIOcKZb7esr3RvyDTvn6r5nf2IwQ5LHUAJcnIOuxZ3YtRpXWYohfU_R6BoDIGqhItH-NDbOI2ZF5SdujXX412fa6LhX-2ZHmWzWL_gouw-sPDwh" height="600"></iframe>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJw1jdsOgjAQRH-l2Xe6hajVhPIvS7fKVrmEbUj8ezHo22Qmc07Lspn4ItUAtCQtaa3GxEJgmAoduRIOcKZb7esr3RvyDTvn6r5nf2IwQ5LHUAJcnIOuxZ3YtRpXWYohfU_R6BoDIGqhItH-NDbOI2ZF5SdujXX412fa6LhX-2ZHmWzWL_gouw-sPDwh</link>
-            <guid isPermaLink="false">c761d8bc-930a-453a-8d4f-4c311be39d57</guid>
-            <pubDate>Sat, 24 Feb 2018 14:07:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
