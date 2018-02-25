@@ -57,3 +57,6 @@ purpose:
     url: >-
       https://go.crisp.chat/chat/embed/?website_id=903a424d-9434-4960-b384-dadb0ceaf312
     label: INSCRIPTION (version BETA)
+  - type: external
+    url: 'https://blog.cyboolo.io'
+    label: Blog
