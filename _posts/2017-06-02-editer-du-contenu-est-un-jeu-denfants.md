@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Démonstration - https://cyboolo.io - Tous droits réservés'
-dateModified: '2018-02-24T16:08:58.438Z'
-datePublished: '2018-02-24T16:08:59.464Z'
+dateModified: '2018-03-04T21:28:30.973Z'
+datePublished: '2018-03-04T21:28:31.895Z'
 title: Créez vos cours depuis votre explorateur web
 author:
   - name: Team Cyboolo
@@ -23,7 +23,7 @@ _type: MediaObject
 
 ---
 # **Créez vos cours depuis votre explorateur web**
-[INSCRIPTION (version BETA)][0]
+[DEMARREZ][0]
 
 * Rédiger vos cours devient aussi simple que d'utiliser un éditeur de texte.
 
@@ -35,4 +35,4 @@ _type: MediaObject
 
 ## **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
 
-[0]: https://go.crisp.chat/chat/embed/?website_id=903a424d-9434-4960-b384-dadb0ceaf312
+[0]: https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB
