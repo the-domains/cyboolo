@@ -54,9 +54,8 @@ coverPrefs:
 description: 'Créez, publiez et monétisez rapidement et simplement... sans savoir coder !'
 purpose:
   - type: external
-    url: >-
-      https://go.crisp.chat/chat/embed/?website_id=903a424d-9434-4960-b384-dadb0ceaf312
-    label: INSCRIPTION (version BETA)
+    url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
+    label: DEMARREZ
   - type: external
     url: 'https://blog.cyboolo.io'
     label: BLOG
