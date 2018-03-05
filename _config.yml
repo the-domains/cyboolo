@@ -55,7 +55,7 @@ description: 'Créez, publiez et monétisez rapidement et simplement... sans sav
 purpose:
   - type: external
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
-    label: DEMARREZ
+    label: DEMARRER
   - type: external
     url: 'https://blog.cyboolo.io'
     label: BLOG
