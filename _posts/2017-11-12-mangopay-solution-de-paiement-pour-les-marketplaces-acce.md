@@ -7,8 +7,8 @@ description: Conditions générales MANGOPAY
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Système de paiement intégré
-datePublished: '2018-03-12T20:27:01.197Z'
-dateModified: '2018-03-12T20:27:00.625Z'
+datePublished: '2018-03-12T20:38:15.302Z'
+dateModified: '2018-03-12T20:38:14.443Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
