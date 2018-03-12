@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-23T22:36:02.052Z'
-dateModified: '2018-02-23T22:36:00.642Z'
+datePublished: '2018-03-12T20:24:35.490Z'
+dateModified: '2018-03-12T20:24:34.117Z'
 via: {}
 description: ''
 title: L’esprit cyboolo
@@ -19,8 +19,9 @@ _type: Blurb
 
 ## Pour assurer une présence sur le web, un complément de revenus ou développer un vrai business
 
-* **Pour les indépendants**
-* **Les micro entreprises**
+* **Pour les indépendants, les freelances, les micro entreprises**
+* **Les startups, les infopreneurs**
+* **Les enseignants, les formateurs**
 * **Les passionnés, ...**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/339378d1-d57c-4d8d-99ea-fe9cecfb0300.png)
 
