@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-03-12T19:53:55.827Z'
-datePublished: '2018-03-12T19:53:56.570Z'
+dateModified: '2018-03-12T20:50:07.774Z'
+datePublished: '2018-03-12T20:50:08.706Z'
 title: Vous pouvez les aider!
 author: []
 publisher: {}
@@ -16,8 +16,4 @@ _type: Blurb
 ---
 # Vous pouvez les aider!
 
-## Dans tous les domaines
-
-* Partagez votre passion
-* Transmettez vos connaissances
-* Valorisez vos compétences
+## Partagez votre passion, transmettez vos connaissances et valorisez vos compétences
