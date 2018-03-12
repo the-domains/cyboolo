@@ -45,13 +45,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/259063295'
 title: 'cyboolo.io: Inscription ou connexion'
-datePublished: '2018-03-12T20:26:39.869Z'
-dateModified: '2018-03-12T20:26:28.860Z'
-datePublishedOriginal: '2018-03-12T20:26:39.869Z'
+datePublished: '2018-03-12T20:27:01.222Z'
+dateModified: '2018-03-12T20:27:00.625Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-03-12-cybooloio-inscription-ou-connexion.md
+starred: false
+datePublishedOriginal: '2018-03-12T20:26:39.869Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
