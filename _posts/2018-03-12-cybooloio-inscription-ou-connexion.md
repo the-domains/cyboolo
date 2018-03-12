@@ -10,12 +10,7 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords: []
-description: >-
-  Découvrir comment s'inscrire ou se connecter à l'interface de cyboolo.io Aller
-  sur https://cyboolo.io et cliquer sur "DEMARRER". Une fenêtre s'ouvre où vous
-  avez juste à renseigner votre adresse email. Pas besoin de mot de passe. Un
-  lien vous est envoyé par email pour vous connecter de manière sécurisée à
-  l'interface cyboolo Cliquer sur "Accéder à cyboolo".
+description: Découvrir comment s'inscrire ou se connecter à l'interface de cyboolo.io
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/259063295'
     type: ios
@@ -44,9 +39,9 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/259063295'
-title: 'cyboolo.io: Inscription ou connexion'
-datePublished: '2018-03-12T20:27:01.222Z'
-dateModified: '2018-03-12T20:27:00.625Z'
+title: 'cyboolo.io: Inscription ou connexion sans mot de passe'
+datePublished: '2018-03-12T20:27:53.770Z'
+dateModified: '2018-03-12T20:27:53.158Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-12-cybooloio-inscription-ou-connexion.md
