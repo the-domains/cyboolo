@@ -48,8 +48,8 @@ collections:
     permalink:
       path: '/:title/'
 title: >-
-  Say goodbye to old LMS - Join cyboolo and start your eLearning business for
-  the modern web
+  cyboolo: Start your eLearning business for the modern web cyboolo and say
+  goodbye to old LMS
 content: []
 coverPrefs:
   filter: false
