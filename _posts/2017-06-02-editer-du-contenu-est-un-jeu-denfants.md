@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-03-12T21:51:13.888Z'
-datePublished: '2018-03-12T21:51:14.553Z'
+dateModified: '2018-03-12T21:54:58.790Z'
+datePublished: '2018-03-12T21:54:59.470Z'
 title: Créez vos cours depuis votre explorateur web
 author:
   - name: Team Cyboolo
@@ -26,7 +26,7 @@ _type: MediaObject
 * **Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.**
 
 * Stop aux formulaires à rallonge et aux interfaces compliquées.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9eea832-5d4e-4763-987b-d57ea07b8501.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74584997-6e62-4a9d-b006-af4ac3b15de5.gif)
 
 ## **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
 
