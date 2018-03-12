@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-03-12T20:27:01.220Z'
-dateModified: '2018-03-12T20:27:00.625Z'
+datePublished: '2018-03-12T20:35:19.760Z'
+dateModified: '2018-03-12T20:35:18.591Z'
 via: {}
 description: ''
 title: L’esprit cyboolo
@@ -24,5 +24,3 @@ _type: Blurb
 * **Les enseignants, les formateurs**
 * **Les passionnés, ...**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/339378d1-d57c-4d8d-99ea-fe9cecfb0300.png)
-
-> Proposez des cours gratuits ou payants, c'est vous qui décidez
