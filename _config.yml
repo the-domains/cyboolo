@@ -47,7 +47,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: eLearning et eCommerce
+title: >-
+  Start your eLearning business for the modern web - Time to break-up with your
+  lms
 content: []
 coverPrefs:
   filter: false
