@@ -1,9 +1,9 @@
 ---
 publisher: {}
-datePublished: '2018-03-12T20:40:49.041Z'
-dateModified: '2018-03-12T20:40:48.101Z'
+datePublished: '2018-03-12T20:59:53.942Z'
+dateModified: '2018-03-12T20:59:53.489Z'
 via: {}
-description: ''
+description: 'PROPOSEZ DES COURS GRATUITS OU PAYANTS, C''EST VOUS QUI DÉCIDEZ!'
 title: L’esprit cyboolo
 sourcePath: >-
   _posts/2017-06-02-si-tu-veux-faire-quelque-chose-ou-tu-trouves-un-moyen-ou-tu.md
@@ -23,6 +23,5 @@ _type: Blurb
 * **Les startups, les infopreneurs**
 * **Les enseignants, les formateurs**
 * **Les passionnés, ...**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/339378d1-d57c-4d8d-99ea-fe9cecfb0300.png)
 
 > PROPOSEZ DES COURS GRATUITS OU PAYANTS, C'EST VOUS QUI DÉCIDEZ!
