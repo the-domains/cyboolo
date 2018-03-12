@@ -47,9 +47,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: >-
-  Il est temps de rompre avec vos vieux LMS: Start your eLearning business for
-  the modern web
+title: Goodbye LMS! Start your eLearning business for the modern web
 content: []
 coverPrefs:
   filter: false
