@@ -53,6 +53,3 @@ purpose:
   - type: external
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
     label: Démarrer gratuitement
-  - type: external
-    url: 'https://blog.cyboolo.io'
-    label: BLOG
