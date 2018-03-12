@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-03-12T20:38:15.243Z'
-dateModified: '2018-03-12T20:38:14.443Z'
+datePublished: '2018-03-12T21:01:23.367Z'
+dateModified: '2018-03-12T21:01:21.708Z'
 via: {}
 description: >-
   Gérez votre site et vos cours depuis une interface unique. Fonctionne sur
@@ -20,7 +20,7 @@ _type: Blurb
 ---
 # Pas besoin de connaissances en informatique
 
-## Développez rapidement votre activité sur le web
+## Développez rapidement votre activité sur le web sans savoir coder
 
 > Gérez votre site et vos cours depuis une interface unique. Fonctionne sur ordinateur, tablette ou smartphone et avec tous les systèmes d'exploitation récents. 
 
