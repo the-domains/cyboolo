@@ -3,12 +3,12 @@ author: []
 related: []
 publisher: {}
 keywords: []
-description: ''
+description: Conditions générales MANGOPAY
 app_links: []
 isBasedOnUrl: 'https://www.mangopay.com/fr'
 title: Système de paiement intégré
-datePublished: '2018-02-23T22:36:01.996Z'
-dateModified: '2018-02-23T22:36:00.642Z'
+datePublished: '2018-03-12T18:55:09.118Z'
+dateModified: '2018-03-12T18:55:08.136Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-12-mangopay-solution-de-paiement-pour-les-marketplaces-acce.md
@@ -29,3 +29,7 @@ _type: MediaObject
 ## Acceptez des paiements par VISA/MASTERCARD en France et dans les pays de l'UE
 
 > Technologies anti-fraudes et 3D SECURE. Les gains de vos ventes sont transférés régulièrement sur votre compte en banque. Suivez vos ventes et vos données clients depuis l'interface afin de créer vos factures et faciliter votre compatibilité.
+
+[Conditions générales MANGOPAY][0]
+
+[0]: https://cyboolo.io/contrat-cadre-demission-gestion-mise-a-disposition-de-mon
