@@ -1,14 +1,7 @@
 ---
-author:
-  - name: ''
-    url: 'https://vimeo.com/user43619573'
-    avatar: {}
+author: []
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+publisher: {}
 keywords: []
 description: ''
 app_links:
@@ -40,8 +33,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/259063295'
 title: Comment s'inscrire ou se connecter à l'interface de cyboolo.io
-datePublished: '2018-03-12T20:54:26.481Z'
-dateModified: '2018-03-12T20:54:25.366Z'
+datePublished: '2018-03-12T20:54:49.535Z'
+dateModified: '2018-03-12T20:54:48.311Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-12-cybooloio-inscription-ou-connexion.md
