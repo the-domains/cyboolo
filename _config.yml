@@ -52,8 +52,8 @@ content: []
 coverPrefs:
   filter: false
 description: >-
-  Lancez un site pour proposer gratuitement ou en les monétisant vos formations,
-  vos moocs, vos cours en ligne rapidement et simplement... sans savoir coder !
+  Lancez un site rapidement et simplement... sans savoir coder ! Proposez vos
+  formations, vos moocs ou vos cours en ligne gratuitement ou à la vente
 purpose:
   - type: external
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
