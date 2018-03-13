@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-03-12T22:29:56.278Z'
-dateModified: '2018-03-12T22:29:55.739Z'
+datePublished: '2018-03-13T21:14:05.264Z'
+dateModified: '2018-03-13T21:14:04.421Z'
 via: {}
 description: 'PROPOSEZ DES COURS GRATUITS OU PAYANTS, C''EST VOUS QUI DÉCIDEZ!'
 title: L’esprit cyboolo
@@ -22,6 +22,6 @@ _type: Blurb
 * **Pour les indépendants, les freelances, les micro entreprises**
 * **Les startups, les infopreneurs**
 * **Les enseignants, les formateurs**
-* **Les passionnés, ...**
+* **Les artisans, les passionnés, ...**
 
 > PROPOSEZ DES COURS GRATUITS OU PAYANTS, C'EST VOUS QUI DÉCIDEZ!
