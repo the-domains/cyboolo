@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-03-12T22:02:07.194Z'
-datePublished: '2018-03-12T22:02:08.209Z'
-title: Créez vos cours depuis votre explorateur web
+dateModified: '2018-03-13T00:39:21.453Z'
+datePublished: '2018-03-13T00:39:22.798Z'
+title: 'Créez vos cours, en ligne, depuis votre explorateur web'
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ datePublishedOriginal: '2017-06-02T23:25:51.578Z'
 _type: MediaObject
 
 ---
-# **Créez vos cours depuis votre explorateur web**
+# **Créez vos cours, en ligne, depuis votre explorateur web**
 [Démarrer gratuitement][0]
 
 * Rédiger vos cours devient aussi simple que d'utiliser un éditeur de texte.
@@ -23,6 +23,7 @@ _type: MediaObject
 * **Enregistrez vos vidéos en ligne depuis votre ordinateur, une tablette ou un smartphone.**
 
 * Stop aux formulaires à rallonge et aux interfaces compliquées.
+* Visualisez le résultat immédiatement.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F257274046&amp;dntp=1&amp;url=https%3A%2F%2Fvimeo.com%2F257274046&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F685158390_1280.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="430" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
