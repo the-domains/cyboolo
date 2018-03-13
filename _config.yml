@@ -52,8 +52,9 @@ content: []
 coverPrefs:
   filter: false
 description: >-
-  Lancez votre site rapidement et simplement... sans savoir coder ! Proposez
-  gratuitement ou à la vente: Formations, MOOCS ou Cours en ligne
+  Lancez votre site rapidement et simplement... sans savoir coder ! Dites adieu
+  aux vieux LMS et proposez gratuitement ou à la vente: Formations, MOOCS ou
+  Cours en ligne
 purpose:
   - type: external
     url: 'https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB'
