@@ -30,9 +30,6 @@ navigation:
   - name: ENGLISH VERSION
     url: 'https://en.cyboolo.io'
     type: external
-  - name: BLOG
-    url: 'https://blog.cyboolo.io'
-    type: external
 favicon: null
 collections:
   - index:
