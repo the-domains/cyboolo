@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-03-13T00:39:45.836Z'
-datePublished: '2018-03-13T00:39:46.718Z'
+dateModified: '2018-06-10T09:06:23.555Z'
+datePublished: '2018-06-10T09:06:24.043Z'
 title: 'Créez vos cours, en ligne, depuis votre explorateur web'
 author: []
 publisher: {}
@@ -29,4 +29,4 @@ _type: MediaObject
 
 ## **Ce n'est pas de la magie, nous vous faisons juste bénéficier des dernières technologies web**
 
-[0]: https://cyboolo.eu.auth0.com/login?client=W1jbxu3C003wehR2kbuCJorz9D23hyEB
+[0]: https://cyboolo.io/
