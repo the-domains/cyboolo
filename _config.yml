@@ -24,8 +24,8 @@ author:
   email: support@cyboolo.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/efff5b60-ae36-48bb-aa91-1660bc60a6d7.png
-name: eLearning services
-url: 'https://cyboolo.io/'
+name: eLearning_services
+url: 'https://thegrid.ai/elearning'
 navigation:
   - name: ENGLISH VERSION
     url: 'https://en.cyboolo.io'
@@ -33,8 +33,7 @@ navigation:
   - name: BLOG
     url: 'https://blog.cyboolo.io'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed33f39d-a503-4359-b755-3584d18c4f80.ico
+favicon: null
 collections:
   - index:
       path: /
