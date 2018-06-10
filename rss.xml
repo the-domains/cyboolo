@@ -4,9 +4,9 @@
         <description><![CDATA[Plateforme eLearning: Créez. Publiez. Monétisez. REPEAT.]]></description>
         <link>https://thegrid.ai/elearning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jun 2018 09:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jun 2018 09:03:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/elearning/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 Jun 2018 09:03:03 GMT</pubDate>
+        <pubDate>Sun, 10 Jun 2018 09:02:57 GMT</pubDate>
         <item>
             <title><![CDATA[Vous pouvez les aider !]]></title>
             <description><![CDATA[<h1>Vous pouvez les aider !</h1>,<h2>Partagez votre passion, transmettez vos connaissances et valorisez vos compétences.</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cd20679-fe4c-4f70-b34e-eef107475372.png" title="Elle veut apprendre &agrave; coder">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18bb891b-a04c-45e6-b2ce-e6df96da4bee.png" title="Il aimerait se perfectionner">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3aac6808-3367-4315-bd77-1e8441e713d3.png" title="Elle cherche &agrave; se reconvertir">]]></description>
@@ -34,6 +34,13 @@
             <link>https://vimeo.com/257274046</link>
             <guid isPermaLink="false">2948ae9d-75e2-4583-8738-33ba1d7ae231</guid>
             <pubDate>Fri, 02 Jun 2017 23:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aide et tutoriels]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a44e5574-903d-4077-904d-295414f5f27d.png">,<h1><a href="https://support.cyboolo.io/" title="">Aide et tutoriels</a></h1>]]></description>
+            <link>https://support.cyboolo.io/fr/</link>
+            <guid isPermaLink="false">41c83285-6982-4538-a1b3-7f769b234c64</guid>
+            <pubDate>Tue, 20 Feb 2018 20:29:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
